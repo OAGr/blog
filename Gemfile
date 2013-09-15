@@ -4,6 +4,7 @@ group :development do
   gem 'rake', '~> 0.9'
   gem 'jekyll', '~> 0.12'
   gem 'kramdown'
+  gem 'rdiscount'
   gem 'pygments.rb', '~> 0.3.4'
   gem 'RedCloth', '~> 4.2.9'
   gem 'haml', '~> 3.1.7'
