@@ -14,6 +14,4 @@ meta:
   _wpas_skip_2892683: '1'
   _elasticsearch_indexed_on: '2013-02-25 06:56:44'
 ---
-<img class="size-full" alt="I wish Facebook did this" src="http://bowlabs.files.wordpress.com/2013/02/full.png" />
-
-This is a mockup of how posts of mine could look at different times, depending on my mood. Having one default decent-looking picture makes it feel me feel a bit like a fake, this seems more genuine. It would be difficult to add as an app though.
+![I wish Facebook did this](http://bowlabs.files.wordpress.com/2013/02/full.png) This is a mockup of how posts of mine could look at different times, depending on my mood. Having one default decent-looking picture makes it feel me feel a bit like a fake, this seems more genuine. It would be difficult to add as an app though.
