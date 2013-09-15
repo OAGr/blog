@@ -1,6 +1,6 @@
 ---
 layout: post
-title: San Francisco Party Ideas (Part 1?)
+title: San Francisco Party Ideas
 categories: []
 tags: []
 status: publish
@@ -15,7 +15,7 @@ meta:
 ---
 Because most Silicon Valley parties are stale and repetitive.
 
-## The NSA Party  
+## The NSA Party!  
 By far the most secure party on this list.  Nothing will be stolen from anyone at this party, because all attendees and conversations will be recorded (on video and audio), and fully transcribed.  This information may or may not be "hacked", making it available for everyone with an internet connection, several days post party completion.
 
 ## The Anonymous Party  
