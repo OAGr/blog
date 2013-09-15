@@ -1,9 +1,0 @@
----
-layout: post
-title: Investments that may be better than Effective Charities
-categories: []
-tags: []
-status: draft
-type: post
-published: false
-meta: {}
