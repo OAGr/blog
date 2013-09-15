@@ -7,5 +7,3 @@ status: draft
 type: post
 published: false
 meta: {}
----
-
