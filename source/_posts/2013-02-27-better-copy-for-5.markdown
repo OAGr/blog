@@ -14,10 +14,13 @@ published: false
 meta: {}
 ---
 
-## From Mechanical Turk:
+From Mechanical Turk:
 >  "Whether you want to track sentiment of tweets for a new product release or monitor sentiment of posts in a customers forum, Mechanical Turk makes it easy to assess sentiment quickly so you can make informed decisions."
 
-[caption id="attachment\_70" align="alignnone" width="738"] [ ![Sentiment Analysis on Mechanical Turk](http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png?w=922) ](http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png) Sentiment Analysis on Mechanical Turk[/caption]
+ [ ![Sentiment Analysis on Mechanical Turk](http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png?w=922) ](http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png)  
+
+Sentiment Analysis on Mechanical Turk
+
 The interface is relatively simple.  You pick  an item (a slogan, for example), a question ("rate how much you like this slogan"), and then upload a .csv file with a list of all the possible slogans you want to test out.  You can choose anywhere between 10-20 ratings for each, which we've found to give a pretty consistant response. We tried out this technique with several slogan ideas we were considering.  But before I show you the response, try guessing the order that people preferred the following list:
 - "Eyes Save Lives"
 - "Charity Done Right"
