@@ -20,7 +20,6 @@ if File.exists?(html_file)
   new_text = top + combiner +  new_bottom
   
   #puts "Rendered markdown as #{new_text}"
-  binding.pry
   File.open(html_file, 'w') { |file| file.write(new_text)}
   puts "File replaced"
 end
