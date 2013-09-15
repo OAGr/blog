@@ -20,17 +20,22 @@ meta:
 
 [ ![Depiction of Devil in Negotiation (Unknown)](http://bowlabs.files.wordpress.com/2013/05/header.png) ](http://bowlabs.files.wordpress.com/2013/05/header.png)
 
-## Abstract:
+## Abstract 
 There is widespread acknowledgement between economists and psychologists that humans use time discounting when making decisions. (Shane Frederick, 2002) (Gal Zauberman, 2009)  This research examines net-negative choices that humans may willingly make because of this discounting.  First a “devil curve” model is described which studies the maximum possible utility loss a human may experience with very specific new choices.  The discount loss is calculated under different conditions of period number and discount factor.  The possibility and extent of trade between individuals with different time discount functions is studied.  Finally the implications of this are used to observe the impact of time discounting on the benefits of technology and choice in a mathematical simulation.  It is found that time discounting has the potential to cause great disutility, and may already doing so.  
 
 ## A Short Fable
 You’re walking through the woods and a devil appears.  Before you can run, he claims that there’s not enough freedom in society.  Humanity needs more choices, more ideas, more technologies.  You’re suspicious, but he swears that he won’t lie or deceive you.  The Devil promises you an infinite number of choices.  He will tell you exactly how much good each will do you throughout your life. You trust the devil enough to be honest and decide you might as well listen to him.  You’ve had a strong belief in freedom and choice and trust yourself to be logical. After all, how bad could this possibly be?  
 
 ## The First Choice
-He offers you a large delicious juicy red apple.  He tells you that eating it will give you a small headache, but not for 20 years.  You are quite hungry.  The headache will result in about two times as much pain as this apple will bring you joy now.  It’s your choice.  Will you accept it? [caption id="attachment\_835" align="aligncenter" width="152"] [ ![Figure 2: Juicy Red Apple (Tembhekar)](http://bowlabs.files.wordpress.com/2013/05/apple.png) ](http://bowlabs.files.wordpress.com/2013/05/apple.png) Juicy Red Apple (Tembhekar)[/caption] Figure 2: Juicy Red Apple (Tembhekar) Probably.  The most optimistic estimates on human discount rates estimate it at around 5.6%.  Using hyperbolic discounting this would mean that a typical human discounts utility from 20 years in the future by approximately 53%. (Steffen Andersen, 2011)  Therefor the victim in this case would value the headache at approximately (1-0.53)\*2 = 0.94 times the enjoyment of the apple now.  This person would accept the deal with the devil.  
+He offers you a large delicious juicy red apple.  He tells you that eating it will give you a small headache, but not for 20 years.  You are quite hungry.  The headache will result in about two times as much pain as this apple will bring you joy now.  It’s your choice.  Will you accept it?  
+[ ![Figure 2: Juicy Red Apple (Tembhekar)](http://bowlabs.files.wordpress.com/2013/05/apple.png) ](http://bowlabs.files.wordpress.com/2013/05/apple.png)  
+
+**Probably.**  The most optimistic estimates on human discount rates estimate it at around 5.6%.  Using hyperbolic discounting this would mean that a typical human discounts utility from 20 years in the future by approximately 53%. (Steffen Andersen, 2011)  Therefor the victim in this case would value the headache at approximately (1-0.53)\*2 = 0.94 times the enjoyment of the apple now.  This person would accept the deal with the devil.  
 
 ## The Utility and Discount Curves
-Let’s consider how much damage these deals can do.  First we assume hyperbolic discounting of utility with time.  Often economists use exponential discounting for convenience, but hyperbolic discounting has been shown to be a more accurate model for predicting human behavior. (Steffen Andersen, 2011) [caption id="attachment\_839" align="aligncenter" width="387"] [ ![Hyperbolic vs. Exponential Discount Factors (Moxfyre)](http://bowlabs.files.wordpress.com/2013/05/3-larger.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/3-larger.png) Hyperbolic vs. Exponential Discount Factors (Moxfyre)[/caption]
+Let’s consider how much damage these deals can do.  First we assume hyperbolic discounting of utility with time.  Often economists use exponential discounting for convenience, but hyperbolic discounting has been shown to be a more accurate model for predicting human behavior. (Steffen Andersen, 2011)   
+
+[ ![Hyperbolic vs. Exponential Discount Factors (Moxfyre)](http://bowlabs.files.wordpress.com/2013/05/3-larger.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/3-larger.png) 
 
 [ ![hyperbolic-exponential-discount-functions](http://bowlabs.files.wordpress.com/2013/05/hyperbolic-exponential-discount-functions.png) ](http://bowlabs.files.wordpress.com/2013/05/hyperbolic-exponential-discount-functions.png)
 
@@ -39,7 +44,8 @@ The graph and equations above show the differences between hyperbolic and expone
 ## [ ![uniform-distribution](http://bowlabs.files.wordpress.com/2013/05/uniform-distribution.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/uniform-distribution.png)
 
 ## Mathematical Theory of Devil Choices
-[caption id="attachment\_842" align="aligncenter" width="238"] [ ![Art of a Deal with the Devil (Pacher)](http://bowlabs.files.wordpress.com/2013/05/4-art-of-the-deal.png) ](http://bowlabs.files.wordpress.com/2013/05/4-art-of-the-deal.png) Art of a Deal with the Devil (Pacher)[/caption] The individual can be modeled to have a decision function, D, which is used to decide whether or not to accept choices.  “Greedy choices” are ones in which a person would sacrifice utility from the future in order to gain utility in the present.  In these cases, the “decision equation” can be used to tell when the person will make a choice.
+[ ![Art of a Deal with the Devil (Pacher)](http://bowlabs.files.wordpress.com/2013/05/4-art-of-the-deal.png) ](http://bowlabs.files.wordpress.com/2013/05/4-art-of-the-deal.png)  
+The individual can be modeled to have a decision function, D, which is used to decide whether or not to accept choices.  “Greedy choices” are ones in which a person would sacrifice utility from the future in order to gain utility in the present.  In these cases, the “decision equation” can be used to tell when the person will make a choice.
 
 [ ![delta-d](http://bowlabs.files.wordpress.com/2013/05/delta-d.png) ](http://bowlabs.files.wordpress.com/2013/05/delta-d.png)
 
@@ -77,95 +83,107 @@ This previous model had a simplifying assumption that is very convenient to the 
 
 [ ![deeper-devil-curves](http://bowlabs.files.wordpress.com/2013/05/deeper-devil-curves.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/deeper-devil-curves.png)
 
-Thus, if a human is capable of experiencing twice as much pain as they were expecting to experience pleasure throughout their average life, then he or she would give up 190% of their entire lifetime utility to the devil.  On average, their life will now be full of misery and suffering.  Of course, if the person could possibly feel more pain, it would be even worse.    This situation wouldn’t be much better if the human were to have a smaller discount factor, as will be shown in Figure 6.  For any non-zero discount factor, a very large discount loss is possible. [caption id="attachment\_855" align="aligncenter" width="514"] [ ![Some Possible Results of Freedom (Angelico)](http://bowlabs.files.wordpress.com/2013/05/hell1.png?w=857) ](http://bowlabs.files.wordpress.com/2013/05/hell1.png) Some Possible Results of Freedom (Angelico)[/caption]
+Thus, if a human is capable of experiencing twice as much pain as they were expecting to experience pleasure throughout their average life, then he or she would give up 190% of their entire lifetime utility to the devil.  On average, their life will now be full of misery and suffering.  Of course, if the person could possibly feel more pain, it would be even worse.    This situation wouldn’t be much better if the human were to have a smaller discount factor, as will be shown in Figure 6.  For any non-zero discount factor, a very large discount loss is possible.  
+[ ![Some Possible Results of Freedom (Angelico)](http://bowlabs.files.wordpress.com/2013/05/hell1.png?w=857) ](http://bowlabs.files.wordpress.com/2013/05/hell1.png)
+
 ## Parameter Variation in the Devil Curve
-The devil curves with 0 floor utility were generated for all combinations of three values of period number and discount factors.  Period numbers of 5, 30, and 100 were used because they span a wide range of typical remaining human lifespans.  A very old person may only expect to live a few more years, and thus would only make decisions for utility in that time.  These period numbers can also be seen as the possible time that one can influence with current choices. The discount factors of 0.05, 0.1, and 0.3 provide a good range for what economists and psychologists typically assume it really is.   These factors can be thought of as representing people with different abilities of self-control, from a priest to a reckless daredevil.  It is possible that these numbers may even change with the mood of individuals. Of course, these factors can also represent countries or organizations.  A government in power for a limited amount of time may only be interested in that time of power.  Fortune-500 companies have lifetimes of between 40-50 years. (Bloomberg Businessweek, 2008)  Governments may have different discount factors based on how frustrated their constituents are.  Businesses may have different discount factors in accordance to how much they focus on monthly reports and short-term profits. [caption id="attachment\_856" align="aligncenter" width="620"] [ ![Devil Curves for Variations in t (period numbers) and D (discount factor)](http://bowlabs.files.wordpress.com/2013/05/devil-curve-parameters.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/devil-curve-parameters.png) Devil Curves for Variations in t (period numbers) and D (discount factor)[/caption] Figure 6: Devil Curves for Variations in t (period numbers) and D (discount factor) These results generally conform to what is expected.  As the period number increases, the discount loss increases, as the individual has more time periods to sacrifice.  As the discount factor increases, the individual is prone to trading future utility more. The specific numbers themselves are quite interesting.  There is significantly more variation in discount loss between the period numbers then between the discount values studied.  Even “saints” with very low discount values are still susceptible to great harm by this devil.  While it’s definitely not much of a factor for old people (the riskiest of whom have discount losses of up to 32%), this definitely seems significant for everyone else.
+The devil curves with 0 floor utility were generated for all combinations of three values of period number and discount factors.  Period numbers of 5, 30, and 100 were used because they span a wide range of typical remaining human lifespans.  A very old person may only expect to live a few more years, and thus would only make decisions for utility in that time.  These period numbers can also be seen as the possible time that one can influence with current choices. The discount factors of 0.05, 0.1, and 0.3 provide a good range for what economists and psychologists typically assume it really is.   These factors can be thought of as representing people with different abilities of self-control, from a priest to a reckless daredevil.  It is possible that these numbers may even change with the mood of individuals. Of course, these factors can also represent countries or organizations.  A government in power for a limited amount of time may only be interested in that time of power.  Fortune-500 companies have lifetimes of between 40-50 years. (Bloomberg Businessweek, 2008)  Governments may have different discount factors based on how frustrated their constituents are.  Businesses may have different discount factors in accordance to how much they focus on monthly reports and short-term profits.  
+
+[ ![Devil Curves for Variations in t (period numbers) and D (discount factor)](http://bowlabs.files.wordpress.com/2013/05/devil-curve-parameters.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/devil-curve-parameters.png) Devil Curves for Variations in t (period numbers) and D (discount factor)[/caption] Figure 6: Devil Curves for Variations in t (period numbers) and D (discount factor) These results generally conform to what is expected.  As the period number increases, the discount loss increases, as the individual has more time periods to sacrifice.  As the discount factor increases, the individual is prone to trading future utility more. The specific numbers themselves are quite interesting.  There is significantly more variation in discount loss between the period numbers then between the discount values studied.  Even “saints” with very low discount values are still susceptible to great harm by this devil.  While it’s definitely not much of a factor for old people (the riskiest of whom have discount losses of up to 32%), this definitely seems significant for everyone else.
+
 ## The Devil Inside
 Fortunately appearances by the Devil don’t seem to be very common these days.  However, the Devil Curve model showed us how bad the choices available to us could be. Here we consider two ways that net-harmful decisions could still be made.  The first is by trading “Discount Utility”, and the second is by chance when common choices and technologies.
+
 ## Discount Utility and Trade
 In the previous model, the devil was assumed to know the human’s decision curve precisely, and make decisions accordingly.    In essence, the “trade surplus” was completely delivered to the supplier, the devil.  When humans trade with each other the recipient of the trade surplus is not as clear, but the extent of trade should be similar to the devil deal. Consider two individuals with different discount curves.  One has a discount factor of 0.1, the other has a discount factor of 0.2.  In this case one unit of utility in year 20 is worth approximately 0.33 in year 1 the first individual, but would be worth approximately 0.2 for the second.
 
-| |  
-
-Person 1 (D = 0.1)
-
-  |  
-
-Person 2 (D = 0.2)
-
-  |
-|  
-
-Decision Utility (1)
-
-  |  
-
-1
-
-  |  
-
-1
-
-  |
-|  
-
-Decision Utility (2)
-
-  |  
-
-0.3
-
-  |  
-
-0.2
-
-  |
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="127"></td>
+<td valign="top" width="167">
+<p align="center">Person 1 (D = 0.1)</p>
+</td>
+<td valign="top" width="185">
+<p align="center">Person 2 (D = 0.2)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="127">
+<p align="center">Decision Utility (1)</p>
+</td>
+<td valign="top" width="167">
+<p align="center">1</p>
+</td>
+<td valign="top" width="185">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="127">
+<p align="center">Decision Utility (2)</p>
+</td>
+<td valign="top" width="167">
+<p align="center">0.3</p>
+</td>
+<td valign="top" width="185">
+<p align="center">0.2</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 We can see that the different time discounting factors are essentially comparative advantages for both people, but in willingness to make certain decisions instead of production capabilities.   In this case, persons 1 and 2 will accept trades of between 0.2 and 0.3 present utils from person 1 to person 2 in exchange for 1 future util.  The net utility caused by both possible trades is shown below.
 
-| |  
-
-Person 1 (D = 0.1)
-
-  |  
-
-Person 2 (D = 0.2)
-
-  |
-|  
-
-Utility Gain (1 : 0.2 trade)
-
-  |  
-
-+0.8
-
-  |  
-
--0.8
-
-  |
-|  
-
-Utility Gain (1 : 0.3 trade)
-
-  |  
-
-+0.7
-
-  |  
-
--0.7
-
-  |
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="127"></td>
+<td valign="top" width="167">
+<p align="center">Person 1 (D = 0.1)</p>
+</td>
+<td valign="top" width="185">
+<p align="center">Person 2 (D = 0.2)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="127">
+<p align="center">Utility Gain<br />
+(1 : 0.2 trade)</p>
+</td>
+<td valign="top" width="167">
+<p align="center">+0.8</p>
+</td>
+<td valign="top" width="185">
+<p align="center">-0.8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="127">
+<p align="center">Utility Gain<br />
+(1 : 0.3 trade)</p>
+</td>
+<td valign="top" width="167">
+<p align="center">+0.7</p>
+</td>
+<td valign="top" width="185">
+<p align="center">-0.7</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 This total “decision surplus” can be represented in graphical form, similar to the previous curves.  The entire discount loss region of the individual with the higher discount curve should always be exchanged from the low-discount rate individual to the high-discount rate individual.  The only region in question is the area between both individuals’ discount curves.
 
 [ ![utilitarian-trade](http://bowlabs.files.wordpress.com/2013/05/utilitarian-trade.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/utilitarian-trade.png)
 
 As this graph makes apparent, for individuals with similar discount curves, this small region isn’t even that important.  It is simply the negotiation room.  On the whole, a large discount loss region will be exchanged between them, causing an incredibly large shift in utility. This is an incredibly disturbing finding because it implies that individuals with even very small differences in their discount curves would lead to massive utility imbalances.  Perhaps fortunately, these kinds of trades mostly aren’t possible yet. One implication of this is that organizations with relatively low discount factors will seek out groups with high discount factors who are willing to trade, and greatly damage them by making very large exchanges.  For example, credit companies finding at-risk individuals, and banks lending to political organizations in unstable countries.   These trades are often limited by a difficulty in holding long-term contracts.  For example, the ability to declare bankruptcy or to have a limited liability company could make it very difficult for “predatory” companies to collect on future profits, limiting their trading potential with susceptible individuals and thus protecting these individuals.  This may be one of the few cases where weak contracts may be beneficial to a society: here they ultimately protect people and organizations from themselves. This may also hint at the presence of an informal “market of discount utility”.  For example, careers requiring different discount factors will be compensated accordingly.  Careers that require little, or enjoyable, training, will be compensated less than those that require lots of upfront sacrifice, even if both groups of careers are equivalent in total net utility without the compensation.  Similar possibilities exist for infrastructure and technology improvements on the behalf of countries and companies in settings of potential trade.
+
 ## Technology and the Utility vs. Decision Matrix
-Here we consider the impacts of time discounting on the net utility provided by technology.  In essence technology can be modeled as the presence of choice.  The conception of a technology itself does nothing unless individuals choose to purchase and use it.  Thus new technologies can be modeled in similar ways as choices in the devil model. We assume that technologies do not naturally have any moral or time bias.  People are always coming up with new ideas, each of which can be represented as a choice with varying utility contribution over a given time set.  To attempt to imagine all possible technology utility curves, we simulate each new technology as a random utility function over time.  Each point on this curve (or noisy line) has an equal probability of being anywhere between 1 and -1, representing the addition or removal of utility. To decide whether or not to accept a technology, a person will multiply their time discount curve by the technology’s utility curve, resulting in the “decision function”.  The sum, or integral, of this function is called the “decision factor”.  If this were positive the individual would be willing to accept the technology, if it is negative he or she wouldn’t be. [caption id="attachment\_859" align="aligncenter" width="571"] [ ![The Utility Function for a new technology, the Time Discount Curve, and the resulting Decision Function](http://bowlabs.files.wordpress.com/2013/05/lifetime-utility.png) ](http://bowlabs.files.wordpress.com/2013/05/lifetime-utility.png) The Utility Function for a new technology, the Time Discount Curve, and the resulting Decision Function[/caption] We also study the “total utility”, which is the integral of the lifetime utility of a given technology.  When this is positive the technology will be net-beneficial in utility, and when it is negative the technology will be net-harmful. In this case we are primarily interested in impacts of “bad choices taken”, which are those with positive decision factors but negative total utility.  These are the choices we take because of our time discounting bias, but which will ultimately harm us. In regards to total utility and decision factors, four main categories emerge, one being the “bad choices taken”.  These can be put in matrix form as shown below.  The placement of each category matches its quadrant in the following simulation plot.
+Here we consider the impacts of time discounting on the net utility provided by technology.  In essence technology can be modeled as the presence of choice.  The conception of a technology itself does nothing unless individuals choose to purchase and use it.  Thus new technologies can be modeled in similar ways as choices in the devil model. We assume that technologies do not naturally have any moral or time bias.  People are always coming up with new ideas, each of which can be represented as a choice with varying utility contribution over a given time set.  To attempt to imagine all possible technology utility curves, we simulate each new technology as a random utility function over time.  Each point on this curve (or noisy line) has an equal probability of being anywhere between 1 and -1, representing the addition or removal of utility. To decide whether or not to accept a technology, a person will multiply their time discount curve by the technology’s utility curve, resulting in the “decision function”.  The sum, or integral, of this function is called the “decision factor”.  If this were positive the individual would be willing to accept the technology, if it is negative he or she wouldn’t be.  
+![The Utility Function for a new technology, the Time Discount Curve, and the resulting Decision Function](http://bowlabs.files.wordpress.com/2013/05/lifetime-utility.png) ](http://bowlabs.files.wordpress.com/2013/05/lifetime-utility.png) The Utility Function for a new technology, the Time Discount Curve, and the resulting Decision Function  
+
+We also study the “total utility”, which is the integral of the lifetime utility of a given technology.  When this is positive the technology will be net-beneficial in utility, and when it is negative the technology will be net-harmful. In this case we are primarily interested in impacts of “bad choices taken”, which are those with positive decision factors but negative total utility.  These are the choices we take because of our time discounting bias, but which will ultimately harm us. In regards to total utility and decision factors, four main categories emerge, one being the “bad choices taken”.  These can be put in matrix form as shown below.  The placement of each category matches its quadrant in the following simulation plot.
 
 | | Negative Decision Factor | Positive Decision Factor |
 | Positive Total Utility | Good Choices Not Taken | Good Choices Taken |
@@ -175,24 +193,44 @@ Using Matlab, several thousand “technologies” were simulated.  The decision
 
 [ ![utility-vs-decision](http://bowlabs.files.wordpress.com/2013/05/utility-vs-decision.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/utility-vs-decision.png)
 
-As shown, the technologies generally span from the bottom left to the top right.  This makes sense, as the utility curves were generated with no correlation between present and future utilities.  People take technologies primarily based on what’s good in the short term, and there’s no negative correlation between this region and the left utility region, so on average these decisions result in positive utility. The “decision average” is the mean total utility of all taken choices, which are all those on the right of the y-axis.  This is shown as a red line in quadrant 1.  The “optimal average” is the mean total utility of all taken choices without the “bad choices”, which are those in the upper right quadrant. This is shown is the red line in quadrant 1. The discount loss is the percentage difference between the optimal and decision averages, representing the average utility lost per choice due to the presence of the bad choices.  The percentage of all choices taken (on the right half) that are bad (on the bottom right quadrant) is also shown, as “bad choices taken”.  This number represents the percentage of choices that an individual will take that will be net-harmful. The results of this simulation tell us a few things.  There are more “good choices” then bad ones, with bad choices making up 16% of the total choices taken.  On average these reduce our benefits from technology by 22%, which is quite significant.  If this model were true it would mean that approximately one of every six choices you make will your life worse. [caption id="attachment\_861" align="aligncenter" width="309"] [ ![Does this still look delicious? (Evan-Amos, 2011)](http://bowlabs.files.wordpress.com/2013/05/burger.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/burger.png) Does this still look delicious? (Evan-Amos, 2011)[/caption]
+As shown, the technologies generally span from the bottom left to the top right.  This makes sense, as the utility curves were generated with no correlation between present and future utilities.  People take technologies primarily based on what’s good in the short term, and there’s no negative correlation between this region and the left utility region, so on average these decisions result in positive utility. The “decision average” is the mean total utility of all taken choices, which are all those on the right of the y-axis.  This is shown as a red line in quadrant 1.  The “optimal average” is the mean total utility of all taken choices without the “bad choices”, which are those in the upper right quadrant. This is shown is the red line in quadrant 1. The discount loss is the percentage difference between the optimal and decision averages, representing the average utility lost per choice due to the presence of the bad choices.  The percentage of all choices taken (on the right half) that are bad (on the bottom right quadrant) is also shown, as “bad choices taken”.  This number represents the percentage of choices that an individual will take that will be net-harmful. The results of this simulation tell us a few things.  There are more “good choices” then bad ones, with bad choices making up 16% of the total choices taken.  On average these reduce our benefits from technology by 22%, which is quite significant.  If this model were true it would mean that approximately one of every six choices you make will your life worse.  
+[ ![Does this still look delicious? (Evan-Amos, 2011)](http://bowlabs.files.wordpress.com/2013/05/burger.png?w=922) ](http://bowlabs.files.wordpress.com/2013/05/burger.png)  
+
 ## Parameter Variation in Utility Vs. Decision Simulations
-Utility vs. decision simulations were done with all combinations of discount factors of 5%, 10%, and 30%, and period size of 5, 30, and 100.  The results are shown in the graphs below. [caption id="attachment\_862" align="aligncenter" width="628"] [ ![Utility vs. Decision Factor simulations for variations in P (period numbers) and D (discount factor)](http://bowlabs.files.wordpress.com/2013/05/full-matrix-1.png) ](http://bowlabs.files.wordpress.com/2013/05/full-matrix-1.png) Utility vs. Decision Factor simulations for variations in P (period numbers) and D (discount factor)[/caption] There general patterns of these simulations correspond which is what is expected.  In general, the U vs. D plot is more linear and less scattered the less the discount rate and the less the period size.  This makes sense: without either, there would be no “bad choices” and thus no points would fall in the fourth quadrant. These results are similar to what we would have expected from the results of the devil models. The numbers don’t vary as much as may have been suspected.  It seems that as a rule of thumb, people may assume that at least 10% - 20% of technologies are harmful to themselves, and should make decisions accordingly.
+Utility vs. decision simulations were done with all combinations of discount factors of 5%, 10%, and 30%, and period size of 5, 30, and 100.  The results are shown in the graphs below.  
+[ ![Utility vs. Decision Factor simulations for variations in P (period numbers) and D (discount factor)](http://bowlabs.files.wordpress.com/2013/05/full-matrix-1.png) ](http://bowlabs.files.wordpress.com/2013/05/full-matrix-1.png) Utility vs. Decision Factor simulations for variations in P (period numbers) and D (discount factor)
+
+There general patterns of these simulations correspond which is what is expected.  In general, the U vs. D plot is more linear and less scattered the less the discount rate and the less the period size.  This makes sense: without either, there would be no “bad choices” and thus no points would fall in the fourth quadrant. These results are similar to what we would have expected from the results of the devil models. The numbers don’t vary as much as may have been suspected.  It seems that as a rule of thumb, people may assume that at least 10% - 20% of technologies are harmful to themselves, and should make decisions accordingly.  
+
 ## Room for Improvement
-There are several possible factors that are not in this model, but would suggest a more harmful or beneficial view of choices if they could be incorporated.
-#### Harmful Factors
-1)    **Other Biases:** Time discounting is only one of the many biases humans have.  The impacts of our biases of non-rational risk taking are not considered.  Neither are the cognitive biases, or even false popular beliefs. 2)    **Marketing:** This model assumed perfect information about the results of technological choices.  This is very rarely the case, as marketers often misrepresent their products.  It is unclear if “bad choices” will be misrepresented disproportionately, but it seems to. 3)    **Externalities:** What about choices that when taken, help or harm other people?  People seem to prefer their own utility to that of others.  This has poor implications for the devil curve, but the implications in regards to technology would depend on the power people have over each other.
-#### Useful Factors
-1)    **Group Regulation:** The government occasionally bans or taxes items that are considered harmful for individuals, such as cigarettes and heroin.  Social groups often provide cultural influence to bias people away from actually generally seen as short sighted (for example, adultery). 2)    **Diminishing Marginal Returns:**  In this model people trade utility, but this is never really the case in real life.  Instead technologies provide emotions and material benefits, which are bound with diminishing marginal returns, possibly restricting individuals from taking many of specific harmful actions (eating cookies, for example).
-## Conclusions
+There are several possible factors that are not in this model, but would suggest a more harmful or beneficial view of choices if they could be incorporated.  
+
+### Harmful Factors
+1. **Other Biases**   
+    Time discounting is only one of the many biases humans have.  The impacts of our biases of non-rational risk taking are not considered.  Neither are the cognitive biases, or even false popular beliefs.  
+2. **Marketing**    
+    This model assumed perfect information about the results of technological choices.  This is very rarely the case, as marketers often misrepresent their products.  It is unclear if “bad choices” will be misrepresented disproportionately, but it seems to.  
+3. **Externalities**  
+    What about choices that when taken, help or harm other people?  People seem to prefer their own utility to that of others.  This has poor implications for the devil curve, but the implications in regards to technology would depend on the power people have over each other.  
+
+### Useful Factors
+1. **Group Regulation**  
+    The government occasionally bans or taxes items that are considered harmful for individuals, such as cigarettes and heroin.  Social groups often provide cultural influence to bias people away from actually generally seen as short sighted (for example, adultery).  
+2. **Diminishing Marginal Returns**  
+                In this model people trade utility, but this is never really the case in real life.  Instead technologies provide emotions and material benefits, which are bound with diminishing marginal returns, possibly restricting individuals from taking many of specific harmful actions (eating cookies, for example).
+
+# Conclusions
 This paper presents a rather stark analysis of humanity’s ability to deal with choice.  The devil curves show potential utility losses of up to 88% given reasonable parameters.  The inquiry on utility trade brings up the possibility that given better trading tools, incredibly large utility shifts may occur between otherwise logical individuals.  Finally the Utility vs. Decision simulations reveal that due to time discounting, approximately 15% of our existing technologies could be net-harmful to us.  This demonstrates that time discounting may be incredibly damaging to modern society.   It is recommended that further analysis is done to understand ways to counter this force.
-# Appendix A.
+
+## Appendix A.
 Utility vs. Decision Matrix Parameter Variation using an Exponential Time Discounting Curve.
 
 [ ![full-matrix-2](http://bowlabs.files.wordpress.com/2013/05/full-matrix-2.png) ](http://bowlabs.files.wordpress.com/2013/05/full-matrix-2.png)
 
-This uses the same parameters as the equivalent chart using a Hyperbolic Time Discounting Curve.  Note that the data is much more spread out on average, leading to pessimistic results for humanity.
-# Works Cited
-Angelico, F. _Das Jüngste Gericht, Detail._ Wikimedia Commons, Florence. Bloomberg Businessweek. (2008). The Living Company: Habits for survival in a turbulent business environment. _Bloomberk Businessweek_. Evan-Amos. _A McDonald's Big Mac hamburger, as bought in the United States._ Wikipedia Commons. Gal Zauberman, B. K. (2009). Discounting Time and Time Discounting: Subjective Time Perception and Intertemporal Preferences. _Journal of Marketing Research: Vol. 46, No 4_, 543-556. Moxfyre. _Hyperbolic vs. Exponential Discount Factors._ Wikipedia Commons. Pacher, M. _Michael Pacher 004._ Wikimedia Commons. Shane Frederick, G. G. (2002). Time Discounting and Time Preference: A Critical Review. _Journal of Economic Literature_, 351-401. Steffen Andersen, G. W. (2011). _Discounting Behavior: A Reconsideration._ Durham University. Tembhekar, A. _A Red Apple._ Wikipedia Commons. Unknown. _Mayor Hall and Lucifer._ Wikipedia Commons, Public Domain.
+This uses the same parameters as the equivalent chart using a Hyperbolic Time Discounting Curve.  Note that the data is much more spread out on average, leading to pessimistic results for humanity.  
+
+## Works Cited
+Angelico, F. _Das Jüngste Gericht, Detail._ Wikimedia Commons, Florence. Bloomberg Businessweek. (2008). The Living Company: Habits for survival in a turbulent business environment. _Bloomberk Businessweek_. Evan-Amos. _A McDonald's Big Mac hamburger, as bought in the United States._ Wikipedia Commons. Gal Zauberman, B. K. (2009). Discounting Time and Time Discounting: Subjective Time Perception and Intertemporal Preferences. _Journal of Marketing Research: Vol. 46, No 4_, 543-556. Moxfyre. _Hyperbolic vs. Exponential Discount Factors._ Wikipedia Commons. Pacher, M. _Michael Pacher 004._ Wikimedia Commons. Shane Frederick, G. G. (2002). Time Discounting and Time Preference: A Critical Review. _Journal of Economic Literature_, 351-401. Steffen Andersen, G. W. (2011). _Discounting Behavior: A Reconsideration._ Durham University. Tembhekar, A. _A Red Apple._ Wikipedia Commons. Unknown. _Mayor Hall and Lucifer._ Wikipedia Commons, Public Domain.  
+
 ## License
 This work is under the [Creative Attributions License](https://creativecommons.org/licenses/by/3.0/).  This means you can do whatever you like with it, just cite me somewhere.

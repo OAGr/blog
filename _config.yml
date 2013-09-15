@@ -36,11 +36,11 @@ category_dir: blog/categories
 markdown: kramdown
 kramdown:
   user_coderay: true
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+#rdiscount:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 20          # Posts per page on the blog index
