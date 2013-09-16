@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Ozzie's Website
+title: Ozzie Gooen
 subtitle: Economics, Effective Altruism, Code, Whatever
 author: Ozzie Gooen
 simple_search: http://google.com/search
@@ -35,7 +35,12 @@ code_dir: downloads/code
 category_dir: blog/categories
 markdown: kramdown
 kramdown:
-  user_coderay: true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: true
 #rdiscount:
 #  extensions:
 #    - autolink
