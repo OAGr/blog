@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Side Projects | Ozzie Gooen]]></title>
+  <link href="http://OAGr.github.io/blog/categories/side-projects/atom.xml" rel="self"/>
+  <link href="http://OAGr.github.io/"/>
+  <updated>2013-09-17T00:57:16+01:00</updated>
+  <id>http://OAGr.github.io/</id>
+  <author>
+    <name><![CDATA[Ozzie Gooen]]></name>
+    <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation/"/>
+    <updated>2013-02-26T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
+
+<p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
+
+<p>The domain <a href="http://www.ifwehadglass.com/">ifwehadglass.com</a> was available, so I decided to go with it.  Then I searched iStock Photo for an image somewhat similar to the google one, but with more people.  I found one, made a <a href="https://twitter.com/ifwehadglass">Twitter page</a>, made a <a href="https://www.facebook.com/events/572165209460571/">Facebook event</a>, and finally started a website.  Taking significant inspiration from the Google Glass website, I put together some custom CSS to make my own similar version, as shown below.  </p>
+
+<p><a href="http://www.ifwehadglass.com/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-56-33-pm.png?w=922" alt="Original #ifwehadglass hackathon website" /> </a>  </p>
+
+<p>Original #ifwehadglass hackathon website </p>
+
+<p>The hardest part was the hosting it, which I did on Thursday evening after going to bed at 6.  After a bit of searching I found <a href="http://www.site44.com/">Site44</a>, which hosts websites straight out of Dropbox.  Awesome. Submitted it on Hacker News hoping to make front page.  <a href="http://news.ycombinator.com/item?id=5261470">Kind of did.</a></p>
+
+<p>Hacker News (selected) reactions below.<br />
+<a href="http://news.ycombinator.com/submitted?id=ozziegooen"> <img src="http://bowlabs.files.wordpress.com/2013/02/hnews1.png?w=847" alt="Hacker News comments on #ifwehadglass" /> </a></p>
+
+<p>The last thing was to edit the website so that everyone could have their own page for their own entrees.  We made subdirectories for each entrant who signed up on Facebook.  Originally the plan was that each person would be able to access only their own folder.  However, we quickly realized that this would be a limitation.  First, it was impossible to share a folder from an app, so we had to switch from Site44 to one of <a href="https://twitter.com/Joevm3">Joe’s</a> many servers.  Then we realized that it’s impossible to share a folder with a few people, and share subfolders with other people.  So instead we just gave everyone access to everything.  In this case it’s fine, but you can imagine that it’s not a very scalable.  Come on, Dropbox! Some attempts were made at getting someone from Google to come with a Google Glass for the event, but they were made in vain.  Fortunately, the event was fun for the people who made it.            </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Protect yourself from the Oscars (with a browser extension)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png?w=922" alt="CNN with celebrity and oscar censorship" /> </a> CNN with celebrity and oscar censorship</p>
+
+<p>I’m sick of how the web and link bate distract me from time and value.  As a small bit of resistance, I’m writing a browser extension that finds all words related to celebrities and pop culture and gently whites them out for me.  In addition it vastly covers related pictures.  We’ll play around with it, and if it proves fun may release it on the chrome store or integrate it as an optional add-on to Raise. </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Just what are we giving our soldiers?]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg?w=490" alt="Image" /> </a></p>
+
+<p>Take a brief look at <a href="http://www.wikihow.com/Support-Deployed-US-Troops">this article</a>.  Common advice to give help to soldiers involves guessing what kinds of things they may find valuable and shipping them halfway around the world.  If it’s to a battalion you don’t know supposedly you are encouraged to add a letter and hope they write back.</p>
+
+<p>What is this?  Do they live on another planet?  Many of them have i <a href="http://answers.yahoo.com/question/index?qid=20080201144458AAqBpHH">nternet connections</a>.  In 5 seconds we should be able to start a Skype call with them.  We have websites like Amazon now that send you what you actually want, not a hodgepodge guess of what someone halfway across the world may come up with by reading a Wikihow article (or more often, not reading anything).  </p>
+
+<p>This “let’s guess and give” strategy seems mediocre for 2,000 years ago.  </p>
+
+<p>In addition, what is wrong with us that soldiers crave basic goods like <a href="http://www.wikihow.com/Support-Deployed-US-Troops">socks and toothpaste</a>.  My guess is that the military provides them with basic essentials but few brand names or “luxuries” (very cheap ones).  They acknowledge that these items are nice and useful (they are fine with them coming as care packages) but won’t give them to their soldiers for some reason.  Strange budgeting perhaps?  </p>
+
+<p>The few web services that support this thing seem to be <a href="http://www.adoptaussoldier.org//">stuck</a> <a href="http://www.give2thetroops.org/">2</a> <a href="http://operationonceinalifetime.com/">decades</a> ago.  </p>
+
+<p>I would strongly imagine that if care packages were important, a team within the government would set up a really strong application to match people with soldiers and communicate with them and send them items they really care about.  Or better yet, Amazon should work out something to help send any possible item upon their request to their place (although I realize that some items may be limited).  Amazon should get on this if they haven’t yet.</p>
+
+<p>But there should definitely be something better if we are to take this seriously; it’s both very possible and important.  If Americans actually care about soldiers, we might as well get serious about it and do it well.  </p>
+
+<p>Footnote: One could say that the primary use of these care packages is to show support, not give basic goods.  But why then do soldiers request basic goods from care packages?  Plus, even if it was to provide support, maybe there could be some way of connecting similar donors with similar soliders (though this is a minor issue in comparison)</p>
+
+<p> </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I wish Facebook did this]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/i-wish-facebook-did-this/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/i-wish-facebook-did-this</id>
+    <content type="html"><![CDATA[<p><img src="http://bowlabs.files.wordpress.com/2013/02/full.png" alt="I wish Facebook did this" /> This is a mockup of how posts of mine could look at different times, depending on my mood. Having one default decent-looking picture makes it feel me feel a bit like a fake, this seems more genuine. It would be difficult to add as an app though.</p>
+]]></content>
+  </entry>
+  
+</feed>

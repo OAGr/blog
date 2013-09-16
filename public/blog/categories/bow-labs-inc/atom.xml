@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Bow Labs Inc | Ozzie Gooen]]></title>
+  <link href="http://OAGr.github.io/blog/categories/bow-labs-inc/atom.xml" rel="self"/>
+  <link href="http://OAGr.github.io/"/>
+  <updated>2013-09-17T00:57:16+01:00</updated>
+  <id>http://OAGr.github.io/</id>
+  <author>
+    <name><![CDATA[Ozzie Gooen]]></name>
+    <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
+    <link href="http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem/"/>
+    <updated>2013-04-30T00:00:00+01:00</updated>
+    <id>http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
+
+<p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
+
+<p><strong>Feedhaven Instances</strong><br />
+  In this case a Feedhaven Instance / Server is shown to the right.  A user can set up their own Feedhaven instance, or can use a company’s hosted instance (like <a href="http://feedhaven.com">Feedhaven.com</a>).  This instance is in charge of providing a GUI for the information, storing data on users, handling API keys, and handing the standard Feedhaven data.  This should be able to work on many NoSQL databases, though we plan to begin with MongoDB. </p>
+
+<p><strong>Authentication</strong><br />
+  Mozilla Persona seems like a good fit for authentication, especially because it can be standardized among all Feedhaven instances and applications.  Hypothetically Persona could provide proof that an application has confirmation from a user (to send to other applications), but I’m not sure how this would work.  It’s also open source, distributed, easy to set up, and quite minimal.  With Persona integration in the browser, log-in may eventually be a relatively easy thing.  </p>
+
+<p><strong>Data Validation</strong><br />
+  Hypothetically all items and feed data would be validated with external JSON schemas with version numbers.  I imagine that for large amounts of data the schemas would have to be cached, and it may be that validation isn’t required, but is possible with an extra function.  </p>
+
+<p><strong>Simple Translation Apps/ Simple Feedhaven Apps</strong><br />
+  The idea for this is that users can create API keys with specific permissions at their Feedhaven Instance.  Then this can be given to an external application to allow them to access Feedhaven data without registering with Feedhaven.  Applications that do this would have restricted API call allowances, but this should be fine for many apps.  This is how many major APIs already work; with API tokens for some apps that don’t have to register. These simple apps could do things like read emails from Gmail, convert them to a common email format, and send these to a specific Feedhaven Feed.  They could write or delete specific feeds, and read new common emails from these feeds and then send them off to Gmail.  Whether the app does polling or subscribing to access this content from Feedhaven would be up to the application.  In addition, these apps can be used to just view Feedhaven data. </p>
+
+<p><strong>Translation Manager Apps</strong><br />
+  There are hundreds of thousands of applications to talk to, and much of the code to translate each and send/receive to Feedhaven will be the same/similar.  I would imagine/hope that platforms could exist that could accept hundreds or thousands of snippets for conversion with different apps and schemas, and run them as needed. For this, rather than using a standard API token, these apps would have to register directly to each Feedhaven instance.  This should be standardized and done via API calls, when needed. </p>
+
+<p><strong>Future Development</strong><br />
+  Of course, the system still needs to be built. The idea is that ecosystem would be fully modular so each part could be built independently based on well defined interfaces.  However, this will take a lot of trial and error as the interfaces are changed based on the workings of the components.  Updates will come at this blog.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation/"/>
+    <updated>2013-02-26T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
+
+<p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
+
+<p>The domain <a href="http://www.ifwehadglass.com/">ifwehadglass.com</a> was available, so I decided to go with it.  Then I searched iStock Photo for an image somewhat similar to the google one, but with more people.  I found one, made a <a href="https://twitter.com/ifwehadglass">Twitter page</a>, made a <a href="https://www.facebook.com/events/572165209460571/">Facebook event</a>, and finally started a website.  Taking significant inspiration from the Google Glass website, I put together some custom CSS to make my own similar version, as shown below.  </p>
+
+<p><a href="http://www.ifwehadglass.com/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-56-33-pm.png?w=922" alt="Original #ifwehadglass hackathon website" /> </a>  </p>
+
+<p>Original #ifwehadglass hackathon website </p>
+
+<p>The hardest part was the hosting it, which I did on Thursday evening after going to bed at 6.  After a bit of searching I found <a href="http://www.site44.com/">Site44</a>, which hosts websites straight out of Dropbox.  Awesome. Submitted it on Hacker News hoping to make front page.  <a href="http://news.ycombinator.com/item?id=5261470">Kind of did.</a></p>
+
+<p>Hacker News (selected) reactions below.<br />
+<a href="http://news.ycombinator.com/submitted?id=ozziegooen"> <img src="http://bowlabs.files.wordpress.com/2013/02/hnews1.png?w=847" alt="Hacker News comments on #ifwehadglass" /> </a></p>
+
+<p>The last thing was to edit the website so that everyone could have their own page for their own entrees.  We made subdirectories for each entrant who signed up on Facebook.  Originally the plan was that each person would be able to access only their own folder.  However, we quickly realized that this would be a limitation.  First, it was impossible to share a folder from an app, so we had to switch from Site44 to one of <a href="https://twitter.com/Joevm3">Joe’s</a> many servers.  Then we realized that it’s impossible to share a folder with a few people, and share subfolders with other people.  So instead we just gave everyone access to everything.  In this case it’s fine, but you can imagine that it’s not a very scalable.  Come on, Dropbox! Some attempts were made at getting someone from Google to come with a Google Glass for the event, but they were made in vain.  Fortunately, the event was fun for the people who made it.            </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Protect yourself from the Oscars (with a browser extension)]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png?w=922" alt="CNN with celebrity and oscar censorship" /> </a> CNN with celebrity and oscar censorship</p>
+
+<p>I’m sick of how the web and link bate distract me from time and value.  As a small bit of resistance, I’m writing a browser extension that finds all words related to celebrities and pop culture and gently whites them out for me.  In addition it vastly covers related pictures.  We’ll play around with it, and if it proves fun may release it on the chrome store or integrate it as an optional add-on to Raise. </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Just what are we giving our soldiers?]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg?w=490" alt="Image" /> </a></p>
+
+<p>Take a brief look at <a href="http://www.wikihow.com/Support-Deployed-US-Troops">this article</a>.  Common advice to give help to soldiers involves guessing what kinds of things they may find valuable and shipping them halfway around the world.  If it’s to a battalion you don’t know supposedly you are encouraged to add a letter and hope they write back.</p>
+
+<p>What is this?  Do they live on another planet?  Many of them have i <a href="http://answers.yahoo.com/question/index?qid=20080201144458AAqBpHH">nternet connections</a>.  In 5 seconds we should be able to start a Skype call with them.  We have websites like Amazon now that send you what you actually want, not a hodgepodge guess of what someone halfway across the world may come up with by reading a Wikihow article (or more often, not reading anything).  </p>
+
+<p>This “let’s guess and give” strategy seems mediocre for 2,000 years ago.  </p>
+
+<p>In addition, what is wrong with us that soldiers crave basic goods like <a href="http://www.wikihow.com/Support-Deployed-US-Troops">socks and toothpaste</a>.  My guess is that the military provides them with basic essentials but few brand names or “luxuries” (very cheap ones).  They acknowledge that these items are nice and useful (they are fine with them coming as care packages) but won’t give them to their soldiers for some reason.  Strange budgeting perhaps?  </p>
+
+<p>The few web services that support this thing seem to be <a href="http://www.adoptaussoldier.org//">stuck</a> <a href="http://www.give2thetroops.org/">2</a> <a href="http://operationonceinalifetime.com/">decades</a> ago.  </p>
+
+<p>I would strongly imagine that if care packages were important, a team within the government would set up a really strong application to match people with soldiers and communicate with them and send them items they really care about.  Or better yet, Amazon should work out something to help send any possible item upon their request to their place (although I realize that some items may be limited).  Amazon should get on this if they haven’t yet.</p>
+
+<p>But there should definitely be something better if we are to take this seriously; it’s both very possible and important.  If Americans actually care about soldiers, we might as well get serious about it and do it well.  </p>
+
+<p>Footnote: One could say that the primary use of these care packages is to show support, not give basic goods.  But why then do soldiers request basic goods from care packages?  Plus, even if it was to provide support, maybe there could be some way of connecting similar donors with similar soliders (though this is a minor issue in comparison)</p>
+
+<p> </p>
+]]></content>
+  </entry>
+  
+</feed>

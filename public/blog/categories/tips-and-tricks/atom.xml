@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tips &amp; Tricks | Ozzie Gooen]]></title>
+  <link href="http://OAGr.github.io/blog/categories/tips-and-tricks/atom.xml" rel="self"/>
+  <link href="http://OAGr.github.io/"/>
+  <updated>2013-09-17T00:57:16+01:00</updated>
+  <id>http://OAGr.github.io/</id>
+  <author>
+    <name><![CDATA[Ozzie Gooen]]></name>
+    <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Lean Blog Post]]></title>
+    <link href="http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos/"/>
+    <updated>2013-03-05T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos</id>
+    <content type="html"><![CDATA[<p>It pains me to no avail that people consider blog posts as unique snapshots of time rather than pure information, similar to a personal wiki.  By this I mean that it is quite rare for bloggers to continually change their posts in significant ways long after publication.  Perhaps posts could have version numbers and history similar to wikipedia.  Rather than being time stamped, they would be somewhat timeless. Here’s one version of how I imagine that iteration should work on a blog.  </p>
+
+<p><a href="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png"> <img src="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png" alt="The Lean Blog Post method. I used cacoo to make this, sorry it's cut off. If anyone requests I'll make a nicer version :)" /> </a></p>
+
+<p>It’s really difficult to figure out what people will like in advance.  But it seems like viral hits happen really quickly, so few people expect to be able to change content mid-storm.  Thus they sometimes try to future-proof everything by making it better such that if/when it becomes viral, it will be ready and optimized for it.  </p>
+
+<p>But this means they write much less! This is one model that would be cool in the theory of long-term traffic, but definitely is not optimized for “viral storms”.  It’s a pity.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Awards imply false certainty]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty/"/>
+    <updated>2013-02-28T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty</id>
+    <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
+
+<p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
+Obligatory average photograph of standard trophies</p>
+
+<p>What the hell does it mean to be the “best science student”?  Most of the time people have little idea what “best” actually refers to, but rather assume it’s within a space of shared understanding that the local community will agree upon.  This is not always true, especially when there are disagreements about the winner.  Should the “best” book be one with <a href="http://www.newyorker.com/online/blogs/books/2012/07/letter-from-the-pulitzer-fiction-jury-what-really-happened-this-year.html">more character emphasis, or verbal eloquence</a>?  In some cases it’s obvious how to rank items according to this vague space of shared understanding, but in other cases it’s apparent that the space isn’t narrow at all. </p>
+
+<p>Even this assumes a level of consistency of mindset and competency of judges, which may be and often is highly questionable.  Just because a person may be an “expert” at their field doesn’t mean they are any good at it.  They may just be the best of ignoramuses. </p>
+
+<p>We can of course overcome this in part by assigning high uncertainty to our prizes and phases. </p>
+
+<blockquote>
+  <p>“This award is given to the person who our team of three specific, somewhat randomly chosen but assumingly competent (according to our school’s current department standards)  people.  Using our current understanding of what likely makes up “excellent”, we have predicted that this entree is the most likely to be the best one.  If we had chosen a different group of judges from a similar group and this had been done again, we predict that there would be a 40% chance of this entree still winning 1st place.” </p>
+</blockquote>
+
+<p>Of course, few organizations will ever do this.  It hurts the often false sense of their own authority.  It makes the competition seem rather unimportant, even though it likely is. </p>
+
+<h2 id="my-counterplan">My CounterPlan</h2>
+
+<p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[experiment - write for nobody]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/25/experiment-write-for-nobody/"/>
+    <updated>2013-02-25T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/25/experiment-write-for-nobody</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/abstractart.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/abstractart.jpg" alt="AbstractArt" /> </a></p>
+
+<p>  Social feedback is really good at making people ordinary.  People don’t like strange things, and the negative reinforcement is quite quick and powerful. Most of the posts I’ve read about how to <a href="http://www.problogger.net/how-to-write-great-blog-content/">write</a> <a href="http://www.dummies.com/how-to/content/writing-a-good-blog.html"> good</a> <a href="http://smallbiztrends.com/2012/11/7-steps-to-writing-a-great-blog-post.html">blog</a> <a href="http://www.blogohblog.com/10-tips-for-writing-good-content-and-attracting-readers/">posts</a> talk about how to write good blog posts for blog popularity.  Which makes sense if you’re optimizing your blog for popularity, but I don’t think I am.  I’m trying to get my crazy thoughts out of my head before I forget them, and decided that I might as well improve my writing while doing it.  Plus I enjoy the fact that someone out there may find some of this interesting and perhaps engage me in a conversation more interesting than standard smalltalk nonsense. So if I were writing to be popular I wouldn’t do as well.  I’d worry when I wasn’t becoming popular.  I’ve tried writing posts before, submitting them on hacker news, waiting, and being disappointed when they wouldn’t become popular.  I stopped doing this, but now my posts are automatically posted on Twitter and Facebook.  I then get feedback from them, plus comments on the bottom of the post.  These are not harmless.  They put a metric in how well I’m doing, with a re-tweet count or like count or comment count.  The atmosphere encourages people to optimize for that which is easily seen and measurable, which is a problem because it’s not what I’m trying to optimize for!  It’s like school constantly reminding me of my G.P.A. when I’m trying my hardest not to care about my G.P.A. so I could get on to more important things.  At worst I accept someone else’s quite arbitrary measure of success, and at best I end up feeling a bit bad about myself because I did poorly on something that doesn’t matter to me anyway. First I’m trying my best to reject the standard definition of blog success.  Second I’ve changed the Wordpress updates to only some of my Facebook friends.  Ideally I would be able to have different friend groups see different sets of posts, but from what I understand nothing supports this (except maybe Google+, but few people I know use that anyway).  There’s actually a Facebook setting to help with this, though it’s really mediocre and hard to use. [caption id=”attachment_270” align=”alignnone” width=”300”] <a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-24-at-10-04-22-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-24-at-10-04-22-pm.png?w=300" alt="Choosing Wordpress - Facebook Status Update Preferences" /> </a> Choosing Wordpress - Facebook Status Update Preferences[/caption] For some reason Twitter doesn’t do anything like this.  But few people follow me there, so it’s not much of a deal right now anyway. There’s a lot more that I considered putting here, but I’ll just add it to later posts.  And if you’re disappointed that this post feels short and incomplete, then I don’t care anyway, because I don’t care about popularity.  :)  At least for this blog.  </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Books are Essentially Free]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/17/books-are-essentially-free/"/>
+    <updated>2013-02-17T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/17/books-are-essentially-free</id>
+    <content type="html"><![CDATA[<p>Don’t let the price for a good book deter you.  The time it takes you costs significantly more.  And even after that, there’s likely a huge consumer surplus. Personally I can easily take 5-15 hours on one book.  If my time was worth $10 per hour, that would be a contribution of $50 - $150 of my time on that book.  A $10-$20 extra cost for the object itself is trivial in comparison.  If it’s worth the time, it’s definitely worth the cost. So how valuable is the book to me?  Unless I’m making a very wrong decision, it seems like it must at least be worth the time it takes me to finish it. One can compare this to the costs of private school.  Personally I didn’t get much from spoken lectures.  Few of them held my attention.  Instead I’d learn mostly from the books and my peers while doing the work.  Without the books, I would estimate that my college career would have been at least 1/3rd less valuable.  That could easily be worth over $80,000 based on my <a href="http://www.hmc.edu/academicsclinicresearch/catalogue1/catalogue-10111/admission-financial-aid1/expenses.html">college tuition</a> (for reference I did get financial aid, but the point is that someone paid for it, so to me it should have been worth that amount).  I’d estimate that I read around 14 books a semester at most, maybe 110 books total.  That comes out to about $720 per book.  Granted, many of these were textbooks, but it still seems obvious that there’s a huge consumer surplus here. But say that I expect a specific book to be worth $300, assuming it’s worthwhile to read.  Even if there’s a 10% chance I’ll read it, it’s still worth $30 to me. Maybe this brings up the issue of having a huge bookshelf of stuff that you’ve mostly never read. Many people seem to think that’s a bit dishonest, but that’s obviously missing the point in this case.  It’s just practical. That said it is possible that books aren’t worth the time, and that college education is over valued by over an order of magnitude.  That’s a much harder question, and if true, would change a lot more than your decision to purchase books or not.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hacking with Ear Protection Earmuffs]]></title>
+    <link href="http://OAGr.github.io/blog/2013/02/15/hacking-with-ear-protection-earmuffs/"/>
+    <updated>2013-02-15T00:00:00+00:00</updated>
+    <id>http://OAGr.github.io/blog/2013/02/15/hacking-with-ear-protection-earmuffs</id>
+    <content type="html"><![CDATA[<p>[caption id=”attachment_108” align=”alignnone” width=”922”] <a href="http://bowlabs.files.wordpress.com/2013/02/photo-on-2-15-13-at-2-59-pm.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/photo-on-2-15-13-at-2-59-pm.jpg?w=922" alt="Me with earmuffs over ear plugs" /> </a> Me with earmuffs over ear plugs in a coffee shop[/caption] Living in a house of <a href="http://www.risesf.com/" title="The Rise SF">18 people</a> can be quite loud, especially for someone working at home.  After going part insane I finally got some <a href="http://www.amazon.com/3M-Peltor-H10A-Optime-Earmuff/dp/B00009LI4K/ref=sr_1_8?s=hi&amp;ie=UTF8&amp;qid=1360969325&amp;sr=1-8&amp;keywords=headphones">professional earmuffs</a> to help deal with it.  I think they dampen sound by about 30dB, which is pretty good when paired with ear buds underneath.  Most earmuffs are marketed at gun hobbyists.  It’s a pity, because I bet there are a bunch more introverts out there who would find them more valuable. $30 for quiet, $20 if you can wait a few days for them to come from Amazon.  Highly recommended if you don’t mind the silly look.</p>
+]]></content>
+  </entry>
+  
+</feed>
