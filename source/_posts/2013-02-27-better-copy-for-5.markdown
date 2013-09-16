@@ -11,6 +11,7 @@ tags:
 status: draft
 type: post
 published: false
+comments: true
 meta: {}
 ---
 

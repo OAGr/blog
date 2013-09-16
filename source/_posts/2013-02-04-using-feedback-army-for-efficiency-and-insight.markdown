@@ -10,6 +10,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _elasticsearch_indexed_on: '2013-02-04 20:24:32'
 ---

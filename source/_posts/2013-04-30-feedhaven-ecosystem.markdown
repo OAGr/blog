@@ -8,6 +8,7 @@ tags: []
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _wpas_skip_2892683: '1'
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:722750362;b:1;}}

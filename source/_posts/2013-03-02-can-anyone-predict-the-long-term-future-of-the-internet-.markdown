@@ -5,6 +5,7 @@ categories: []
 tags: []
 status: draft
 type: post
+comments: true
 published: false
 meta: {}
 ---

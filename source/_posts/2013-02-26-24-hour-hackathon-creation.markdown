@@ -11,6 +11,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _wpas_done_2892683: '1'
   _wp_old_slug: making-a-really-confusing-ifwehadglass-hackathon-within-a-day

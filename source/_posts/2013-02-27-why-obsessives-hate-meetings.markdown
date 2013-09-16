@@ -11,6 +11,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _wp_old_slug: why-obsessives-may-hate-scheduling-meetings
   _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:722750362;b:1;}}

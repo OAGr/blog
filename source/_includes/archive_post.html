@@ -11,8 +11,7 @@
 	{% endif %}
 {% endunless %}
 <article>
-	<h3 class="title"><a href="{{ root_url }}{{post.url}}">{{post.title}}</a></h3>
-	<div class="meta">
-		<div class="date">{{ date | date: "%b %e" }}</div>
-	</div>
+  {% if post.title %}
+	<a href="{{ root_url }}{{post.url}}">{{post.title}}</a></h3>
+  {% endif %}
 </article>

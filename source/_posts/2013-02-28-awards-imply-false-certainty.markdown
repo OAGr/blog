@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 meta:
   publicize_reach: a:2:{s:2:"fb";a:1:{i:2892683;i:873;}s:2:"wp";a:1:{i:0;i:2;}}
   _wpas_done_2892683: '1'

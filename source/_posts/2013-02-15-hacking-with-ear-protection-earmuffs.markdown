@@ -7,6 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _wpas_done_2892683: '1'
   _wpas_done_2892689: '1'

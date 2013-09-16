@@ -7,6 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _thumbnail_id: '722'
   _publicize_pending: '1'

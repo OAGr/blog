@@ -6,6 +6,7 @@ tags: []
 status: draft
 type: post
 published: false
+comments: true
 meta: {}
 ---
 For most of my life I wanted to be a hardware engineer (at first inventor) because that's where I thought the future would be.  My basic theory was that all the great historic inventors worked with hardware, so that would be where the future was going as well.  I went so far as to spend 4 years getting an incredibly painful engineering degree to make this happen.

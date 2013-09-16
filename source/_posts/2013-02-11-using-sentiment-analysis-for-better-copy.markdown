@@ -16,6 +16,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 meta:
   _wpas_skip_2892689: '1'
   draftfeedback_requests: a:2:{s:17:"ozzie@bowlabs.org";a:3:{s:3:"key";s:13:"5118721761f87";s:4:"time";s:10:"1360556567";s:7:"user_id";s:8:"45639287";}s:17:"rahul@bowlabs.org";a:3:{s:3:"key";s:13:"511872177a2d4";s:4:"time";s:10:"1360556567";s:7:"user_id";s:8:"45639287";}}
