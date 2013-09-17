@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-09-17T23:50:56+01:00</updated>
+  <updated>2013-09-18T00:15:36+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fighting the Shadow Zone]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/18/fighting-the-shadow-zone/"/>
+    <updated>2013-09-18T00:15:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/18/fighting-the-shadow-zone</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Post-Decision Arguments and the Shadow Zone]]></title>
@@ -934,34 +943,6 @@ Mark doesn’t dress like this, but he may possess more power than almost all wh
 <p>Yet the real evidence for me has come from my ideas.  When I consider the future of hardware, I typically wind myself coming up with ideas that would either help a small subset of the population or take forever to create and require technology that doesn’t exist yet.  When I consider the future of the internet, I come up with things that could be made today and possibly help billions of people.</p>
 
 <p>In addition, I’m quite sure that many of the next big fields will happen inside the internet.  In the same way that the electric industry was an unexpected creation using the byproducts of the steel industry, and the computer industry was an unexpected creation using the byproducts of the electric industry, and the internet industry came from the computer industry, I bet things will come from the internet.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Awards imply false certainty]]></title>
-    <link href="http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty/"/>
-    <updated>2013-02-28T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty</id>
-    <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
-Obligatory average photograph of standard trophies</p>
-
-<p>What the hell does it mean to be the “best science student”?  Most of the time people have little idea what “best” actually refers to, but rather assume it’s within a space of shared understanding that the local community will agree upon.  This is not always true, especially when there are disagreements about the winner.  Should the “best” book be one with <a href="http://www.newyorker.com/online/blogs/books/2012/07/letter-from-the-pulitzer-fiction-jury-what-really-happened-this-year.html">more character emphasis, or verbal eloquence</a>?  In some cases it’s obvious how to rank items according to this vague space of shared understanding, but in other cases it’s apparent that the space isn’t narrow at all. </p>
-
-<p>Even this assumes a level of consistency of mindset and competency of judges, which may be and often is highly questionable.  Just because a person may be an “expert” at their field doesn’t mean they are any good at it.  They may just be the best of ignoramuses. </p>
-
-<p>We can of course overcome this in part by assigning high uncertainty to our prizes and phases. </p>
-
-<blockquote>
-  <p>“This award is given to the person who our team of three specific, somewhat randomly chosen but assumingly competent (according to our school’s current department standards)  people.  Using our current understanding of what likely makes up “excellent”, we have predicted that this entree is the most likely to be the best one.  If we had chosen a different group of judges from a similar group and this had been done again, we predict that there would be a 40% chance of this entree still winning 1st place.” </p>
-</blockquote>
-
-<p>Of course, few organizations will ever do this.  It hurts the often false sense of their own authority.  It makes the competition seem rather unimportant, even though it likely is. </p>
-
-<h2 id="my-counterplan">My CounterPlan</h2>
-
-<p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
 ]]></content>
   </entry>
   
