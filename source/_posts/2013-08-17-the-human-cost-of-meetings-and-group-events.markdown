@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 comments: true
+header_pic: /assets/posts/meeting.png
 
 meta:
   geo_public: '0'
@@ -19,8 +20,6 @@ meta:
   _wpas_skip_2892683: '1'
   _wpas_skip_2892689: '1'
 ---
-
-![Stakeholder](/assets/posts/meeting.png)  
 
 For a while I've been considering the costs of putting together large numbers of people.  The cost scales roughly linearly, but sometimes it's difficult to remember that.  Putting together a mediocre presentation for 3 people is almost exactly half as bad as putting together one for 6 people.  And when it's for a few hundred, you should seriously be on top of your content. As a really simple demonstration, I've put together a small table.  The columns represent the hourly value of the average person in attendance.  The rows represent the number of people in attendance. The individual entries is the cost, per minute, of meeting time.  
 

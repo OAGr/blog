@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Entrepreneurship | Ozzie Gooen]]></title>
-  <link href="http://OAGr.github.io/blog/categories/entrepreneurship/atom.xml" rel="self"/>
-  <link href="http://OAGr.github.io/"/>
-  <updated>2013-09-17T22:37:31+01:00</updated>
-  <id>http://OAGr.github.io/</id>
+  <link href="http://ozziegooen.com/blog/categories/entrepreneurship/atom.xml" rel="self"/>
+  <link href="http://ozziegooen.com/"/>
+  <updated>2013-09-17T23:50:56+01:00</updated>
+  <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
     <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Don't Bash Entrepreneurs for Not Being Ambitious Enough]]></title>
-    <link href="http://OAGr.github.io/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough/"/>
+    <link href="http://ozziegooen.com/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough/"/>
     <updated>2013-05-03T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough</id>
+    <id>http://ozziegooen.com/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough</id>
     <content type="html"><![CDATA[<p>Seriously, please stop bashing entrepreneurs for not being ambitious enough.  It’s like bashing nonprofit workers for not working hard enough to help people in need.  </p>
 
 <p><img src="http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg?w=922" alt="Hackers, Clearly Not Being Very Ambitious" /> ](http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg) “If only these people were more ambitious, then our economy would be doing well.” ( <a href="https://secure.flickr.com/photos/hackny/5685441530/in/photostream/">photo</a> by Elena Oliva)[/caption] </p>

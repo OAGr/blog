@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Tips &amp; Tricks | Ozzie Gooen]]></title>
-  <link href="http://OAGr.github.io/blog/categories/tips-and-tricks/atom.xml" rel="self"/>
-  <link href="http://OAGr.github.io/"/>
-  <updated>2013-09-17T22:37:31+01:00</updated>
-  <id>http://OAGr.github.io/</id>
+  <link href="http://ozziegooen.com/blog/categories/tips-and-tricks/atom.xml" rel="self"/>
+  <link href="http://ozziegooen.com/"/>
+  <updated>2013-09-17T23:50:56+01:00</updated>
+  <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
     <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Lean Blog Post]]></title>
-    <link href="http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos/"/>
+    <link href="http://ozziegooen.com/blog/2013/03/05/the-lean-blog-pos/"/>
     <updated>2013-03-05T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/03/05/the-lean-blog-pos</id>
+    <id>http://ozziegooen.com/blog/2013/03/05/the-lean-blog-pos</id>
     <content type="html"><![CDATA[<p>It pains me to no avail that people consider blog posts as unique snapshots of time rather than pure information, similar to a personal wiki.  By this I mean that it is quite rare for bloggers to continually change their posts in significant ways long after publication.  Perhaps posts could have version numbers and history similar to wikipedia.  Rather than being time stamped, they would be somewhat timeless. Here’s one version of how I imagine that iteration should work on a blog.  </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png"> <img src="http://bowlabs.files.wordpress.com/2013/03/untitled-21.png" alt="The Lean Blog Post method. I used cacoo to make this, sorry it's cut off. If anyone requests I'll make a nicer version :)" /> </a></p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Awards imply false certainty]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty/"/>
     <updated>2013-02-28T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/28/awards-imply-false-certainty</id>
+    <id>http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty</id>
     <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
 
 <p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
@@ -58,9 +58,9 @@ Obligatory average photograph of standard trophies</p>
   
   <entry>
     <title type="html"><![CDATA[Better Copy for $5 with Sentiment Analysis]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/27/better-copy-for-5/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/27/better-copy-for-5/"/>
     <updated>2013-02-27T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/27/better-copy-for-5</id>
+    <id>http://ozziegooen.com/blog/2013/02/27/better-copy-for-5</id>
     <content type="html"><![CDATA[<p>From Mechanical Turk:
 &gt;  ”Whether you want to track sentiment of tweets for a new product release or monitor sentiment of posts in a customers forum, Mechanical Turk makes it easy to assess sentiment quickly so you can make informed decisions.”</p>
 
@@ -82,9 +82,9 @@ Obligatory average photograph of standard trophies</p>
   
   <entry>
     <title type="html"><![CDATA[experiment - write for nobody]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/25/experiment-write-for-nobody/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/25/experiment-write-for-nobody/"/>
     <updated>2013-02-25T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/25/experiment-write-for-nobody</id>
+    <id>http://ozziegooen.com/blog/2013/02/25/experiment-write-for-nobody</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/abstractart.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/abstractart.jpg" alt="AbstractArt" /> </a></p>
 
 <p>  Social feedback is really good at making people ordinary.  People don’t like strange things, and the negative reinforcement is quite quick and powerful. Most of the posts I’ve read about how to <a href="http://www.problogger.net/how-to-write-great-blog-content/">write</a> <a href="http://www.dummies.com/how-to/content/writing-a-good-blog.html"> good</a> <a href="http://smallbiztrends.com/2012/11/7-steps-to-writing-a-great-blog-post.html">blog</a> <a href="http://www.blogohblog.com/10-tips-for-writing-good-content-and-attracting-readers/">posts</a> talk about how to write good blog posts for blog popularity.  Which makes sense if you’re optimizing your blog for popularity, but I don’t think I am.  I’m trying to get my crazy thoughts out of my head before I forget them, and decided that I might as well improve my writing while doing it.  Plus I enjoy the fact that someone out there may find some of this interesting and perhaps engage me in a conversation more interesting than standard smalltalk nonsense. So if I were writing to be popular I wouldn’t do as well.  I’d worry when I wasn’t becoming popular.  I’ve tried writing posts before, submitting them on hacker news, waiting, and being disappointed when they wouldn’t become popular.  I stopped doing this, but now my posts are automatically posted on Twitter and Facebook.  I then get feedback from them, plus comments on the bottom of the post.  These are not harmless.  They put a metric in how well I’m doing, with a re-tweet count or like count or comment count.  The atmosphere encourages people to optimize for that which is easily seen and measurable, which is a problem because it’s not what I’m trying to optimize for!  It’s like school constantly reminding me of my G.P.A. when I’m trying my hardest not to care about my G.P.A. so I could get on to more important things.  At worst I accept someone else’s quite arbitrary measure of success, and at best I end up feeling a bit bad about myself because I did poorly on something that doesn’t matter to me anyway. First I’m trying my best to reject the standard definition of blog success.  Second I’ve changed the Wordpress updates to only some of my Facebook friends.  Ideally I would be able to have different friend groups see different sets of posts, but from what I understand nothing supports this (except maybe Google+, but few people I know use that anyway).  There’s actually a Facebook setting to help with this, though it’s really mediocre and hard to use. [caption id=”attachment_270” align=”alignnone” width=”300”] <a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-24-at-10-04-22-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-24-at-10-04-22-pm.png?w=300" alt="Choosing Wordpress - Facebook Status Update Preferences" /> </a> Choosing Wordpress - Facebook Status Update Preferences[/caption] For some reason Twitter doesn’t do anything like this.  But few people follow me there, so it’s not much of a deal right now anyway. There’s a lot more that I considered putting here, but I’ll just add it to later posts.  And if you’re disappointed that this post feels short and incomplete, then I don’t care anyway, because I don’t care about popularity.  :)  At least for this blog.  </p>
@@ -93,9 +93,9 @@ Obligatory average photograph of standard trophies</p>
   
   <entry>
     <title type="html"><![CDATA[Books are Essentially Free]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/17/books-are-essentially-free/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/17/books-are-essentially-free/"/>
     <updated>2013-02-17T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/17/books-are-essentially-free</id>
+    <id>http://ozziegooen.com/blog/2013/02/17/books-are-essentially-free</id>
     <content type="html"><![CDATA[<p>Don’t let the price for a good book deter you.  The time it takes you costs significantly more.  And even after that, there’s likely a huge consumer surplus. Personally I can easily take 5-15 hours on one book.  If my time was worth $10 per hour, that would be a contribution of $50 - $150 of my time on that book.  A $10-$20 extra cost for the object itself is trivial in comparison.  If it’s worth the time, it’s definitely worth the cost. So how valuable is the book to me?  Unless I’m making a very wrong decision, it seems like it must at least be worth the time it takes me to finish it. One can compare this to the costs of private school.  Personally I didn’t get much from spoken lectures.  Few of them held my attention.  Instead I’d learn mostly from the books and my peers while doing the work.  Without the books, I would estimate that my college career would have been at least 1/3rd less valuable.  That could easily be worth over $80,000 based on my <a href="http://www.hmc.edu/academicsclinicresearch/catalogue1/catalogue-10111/admission-financial-aid1/expenses.html">college tuition</a> (for reference I did get financial aid, but the point is that someone paid for it, so to me it should have been worth that amount).  I’d estimate that I read around 14 books a semester at most, maybe 110 books total.  That comes out to about $720 per book.  Granted, many of these were textbooks, but it still seems obvious that there’s a huge consumer surplus here. But say that I expect a specific book to be worth $300, assuming it’s worthwhile to read.  Even if there’s a 10% chance I’ll read it, it’s still worth $30 to me. Maybe this brings up the issue of having a huge bookshelf of stuff that you’ve mostly never read. Many people seem to think that’s a bit dishonest, but that’s obviously missing the point in this case.  It’s just practical. That said it is possible that books aren’t worth the time, and that college education is over valued by over an order of magnitude.  That’s a much harder question, and if true, would change a lot more than your decision to purchase books or not.</p>
 ]]></content>
   </entry>

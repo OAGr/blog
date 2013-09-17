@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Future of the Internet | Ozzie Gooen]]></title>
-  <link href="http://OAGr.github.io/blog/categories/future-of-the-internet/atom.xml" rel="self"/>
-  <link href="http://OAGr.github.io/"/>
-  <updated>2013-09-17T22:37:31+01:00</updated>
-  <id>http://OAGr.github.io/</id>
+  <link href="http://ozziegooen.com/blog/categories/future-of-the-internet/atom.xml" rel="self"/>
+  <link href="http://ozziegooen.com/"/>
+  <updated>2013-09-17T23:50:56+01:00</updated>
+  <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
     <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Tell if a Web Company is Evil]]></title>
-    <link href="http://OAGr.github.io/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/"/>
+    <link href="http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/"/>
     <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil</id>
+    <id>http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil</id>
     <content type="html"><![CDATA[<p>I’m sick of companies cherry picking specific features to explain how they help people.  Specific features will always exist, and the existence of them ruins the point.  The big question is, is it really the purpose of the company to help people, or is helping people an occasional externality of other goals they are trying to achieve?  It’s hard to give someone credit for a positive action that was done for a malicious or unrelated purpose.<br />
 <a href="http://bowlabs.files.wordpress.com/2013/04/basic.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/basic.png?w=590" alt="Altruistic vs. Power Ven Diagram" title="Altruistic vs. Power Ven Diagram" /> </a></p>
 
@@ -50,9 +50,9 @@ Web Application Altruism/Power Diagram</p>
   
   <entry>
     <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
-    <link href="http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem/"/>
+    <link href="http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem/"/>
     <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem</id>
+    <id>http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
 
 <p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
@@ -79,9 +79,9 @@ Web Application Altruism/Power Diagram</p>
   
   <entry>
     <title type="html"><![CDATA[Consumer Fishtraps]]></title>
-    <link href="http://OAGr.github.io/blog/2013/04/28/consumer-fishtraps/"/>
+    <link href="http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps/"/>
     <updated>2013-04-28T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/04/28/consumer-fishtraps</id>
+    <id>http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/121378.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/04/121378.jpg?w=487" alt="Image" /> </a></p>
 
 <p>Fishtraps are devices that are easy to enter and difficult or impossible to exit from.  Many products and web apps work the same way. One example may be the <a href="http://www.freecreditreport.com/">monthly service </a>that requires a short website to sign up to but a very long phone call process to stop.  Web services can do similar by making it really simple to sign up and start adding information, but almost impossible to export your data once you use the service. Companies spend a lot of time and effort optimizing their entrences.  There are <a href="http://www.amazon.com/s/ref=nb_sb_ss_i_0_14?url=search-alias%3Daps&amp;field-keywords=landing%20page%20optimization&amp;sprefix=landing+page+o%2Caps%2C213&amp;rh=i%3Aaps%2Ck%3Alanding%20page%20optimization">several books</a> on Landing Page Optimization / SEO / AB testing on acquiring users.  There’s basically nothing on how to allow users to gracefully leave. Easy web exiting capabilities for consumers would mean data (and permissions and API) interoperability which would mean open standards.  This is one big reason why open standards are important.  But open web standards over the last 10 years have been very rough and frustrating, much because of a reluctance of companies to allow their users to easily leave their platforms.   </p>
@@ -100,9 +100,9 @@ Web Application Altruism/Power Diagram</p>
   
   <entry>
     <title type="html"><![CDATA[An Information Availability Graph]]></title>
-    <link href="http://OAGr.github.io/blog/2013/04/27/an-information-availability-graph/"/>
+    <link href="http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph/"/>
     <updated>2013-04-27T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/04/27/an-information-availability-graph</id>
+    <id>http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph</id>
     <content type="html"><![CDATA[<p>Recently I’ve been thinking about the economics of sharing person information.   I get the sense that one reason why social networks are so important is because they allow you to share much more information than you would be otherwise.  In general, people seem to think that this a good thing, and I think that these following diagrams may help explain why.   By looking at information sharing in an economic way it may be easier to understand the existing inefficiencies of the “market” and some theoretical reasons for the emergence of social networks and group privacy settings within them.  </p>
 
 <p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png" alt="A person has the most information about themselves available (typically). A much smaller subset of information is available to the public." /> </a>  </p>
@@ -148,9 +148,9 @@ Web Application Altruism/Power Diagram</p>
   
   <entry>
     <title type="html"><![CDATA[Bringing all things down to Wikipedia's level]]></title>
-    <link href="http://OAGr.github.io/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/"/>
+    <link href="http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/"/>
     <updated>2013-03-13T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level</id>
+    <id>http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level</id>
     <content type="html"><![CDATA[<p><img src="/assets/posts/wikipedia.png" alt="wikipedia" />
 You’ve probably heard of several stories of people posting false information on Wikipedia.  It seems to be the number one type of story I hear about Wikipedia.  And these stories are used to explain why we shouldn’t be allowed to site Wikipedia or pay much attention to it as our primary source of knowledge.  </p>
 

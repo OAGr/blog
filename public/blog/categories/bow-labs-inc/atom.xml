@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Bow Labs Inc | Ozzie Gooen]]></title>
-  <link href="http://OAGr.github.io/blog/categories/bow-labs-inc/atom.xml" rel="self"/>
-  <link href="http://OAGr.github.io/"/>
-  <updated>2013-09-17T22:37:31+01:00</updated>
-  <id>http://OAGr.github.io/</id>
+  <link href="http://ozziegooen.com/blog/categories/bow-labs-inc/atom.xml" rel="self"/>
+  <link href="http://ozziegooen.com/"/>
+  <updated>2013-09-17T23:50:56+01:00</updated>
+  <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
     <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
-    <link href="http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem/"/>
+    <link href="http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem/"/>
     <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/04/30/feedhaven-ecosystem</id>
+    <id>http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
 
 <p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
@@ -44,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation/"/>
     <updated>2013-02-26T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/26/24-hour-hackathon-creation</id>
+    <id>http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation</id>
     <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
 
 <p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
@@ -68,9 +68,9 @@
   
   <entry>
     <title type="html"><![CDATA[Protect yourself from the Oscars (with a browser extension)]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/25/protect-yourself-from-the-oscars/"/>
     <updated>2013-02-25T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/25/protect-yourself-from-the-oscars</id>
+    <id>http://ozziegooen.com/blog/2013/02/25/protect-yourself-from-the-oscars</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-4-10-44-am.png?w=922" alt="CNN with celebrity and oscar censorship" /> </a> CNN with celebrity and oscar censorship</p>
 
 <p>I’m sick of how the web and link bate distract me from time and value.  As a small bit of resistance, I’m writing a browser extension that finds all words related to celebrities and pop culture and gently whites them out for me.  In addition it vastly covers related pictures.  We’ll play around with it, and if it proves fun may release it on the chrome store or integrate it as an optional add-on to Raise. </p>
@@ -79,9 +79,9 @@
   
   <entry>
     <title type="html"><![CDATA[Just what are we giving our soldiers?]]></title>
-    <link href="http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers/"/>
+    <link href="http://ozziegooen.com/blog/2013/02/25/just-what-are-we-giving-our-soldiers/"/>
     <updated>2013-02-25T00:00:00+00:00</updated>
-    <id>http://OAGr.github.io/blog/2013/02/25/just-what-are-we-giving-our-soldiers</id>
+    <id>http://ozziegooen.com/blog/2013/02/25/just-what-are-we-giving-our-soldiers</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/care-packages.jpg?w=490" alt="Image" /> </a></p>
 
 <p>Take a brief look at <a href="http://www.wikihow.com/Support-Deployed-US-Troops">this article</a>.  Common advice to give help to soldiers involves guessing what kinds of things they may find valuable and shipping them halfway around the world.  If it’s to a battalion you don’t know supposedly you are encouraged to add a letter and hope they write back.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: rationality | Ozzie Gooen]]></title>
-  <link href="http://OAGr.github.io/blog/categories/rationality/atom.xml" rel="self"/>
-  <link href="http://OAGr.github.io/"/>
-  <updated>2013-09-17T22:37:31+01:00</updated>
-  <id>http://OAGr.github.io/</id>
+  <link href="http://ozziegooen.com/blog/categories/rationality/atom.xml" rel="self"/>
+  <link href="http://ozziegooen.com/"/>
+  <updated>2013-09-17T23:50:56+01:00</updated>
+  <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
     <email><![CDATA[ozzie.gooen@80000hours.org]]></email>
@@ -15,22 +15,20 @@
   
   <entry>
     <title type="html"><![CDATA[Post-Decision Arguments and the Shadow Zone]]></title>
-    <link href="http://OAGr.github.io/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone/"/>
+    <link href="http://ozziegooen.com/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone/"/>
     <updated>2013-09-17T22:35:00+01:00</updated>
-    <id>http://OAGr.github.io/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone</id>
-    <content type="html"><![CDATA[<p><img src="http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de0b67fe7b40d87abbf5f01410ca8a.jpg" alt="Alt text" /></p>
-
-<p><strong>Shadow Zone</strong><br />
+    <id>http://ozziegooen.com/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone</id>
+    <content type="html"><![CDATA[<p><strong>Shadow Zone</strong><br />
 Def: The space of all rationalizations for a decision.</p>
 
-<p>Example:
+<p>Example:<br />
 &gt; A: “Would you like to come to a tech talk in a few minutes?”<br />
-B: “No, I still have to eat dinner.”<br />
-A: “There will be food at the talk.”<br />
+&gt; B: “No, I still have to eat dinner.”<br />
+&gt; A: “There will be food at the talk.”<br />
 B: “Yes, but I need to finish up some work tonight.”<br />
 A: “It’s near by and you could just check it out.”<br />
 B: “I think it will rain soon and don’t want to get wet.”<br />
-A: “I’ve checked the report and actually the clouds are just passing by”.
+A: “I’ve checked the report and actually the clouds are just passing by”.<br />
 B: “Maybe so, but it’s been shown statistically that networking events lead to lower happiness levels”</p>
 
 <p>I’m quite familiar with conversations like the one above.  While most aren’t as long as this, it should be quite apparent that none of the reasons mentioned is the real decision factor.  More argument would lead to more rationalizations, but when discussed in this way it would appear that the primary (and quite possibly the only) reason for not attending the event is hidden from the receiver.  </p>

@@ -4,21 +4,22 @@ title: "Post-Decision Arguments and the Shadow Zone"
 date: 2013-09-17 22:35
 comments: true
 categories: [rationality]
-
+no_header: true
+header_pic: http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de0b67fe7b40d87abbf5f01410ca8a.jpg
+header_pic_text: shadowlang
 ---
-![Alt text](http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de0b67fe7b40d87abbf5f01410ca8a.jpg)
 
 **Shadow Zone**  
 Def: The space of all rationalizations for a decision.
 
-Example:
+Example:  
 > A: "Would you like to come to a tech talk in a few minutes?"  
-B: "No, I still have to eat dinner."  
-A: "There will be food at the talk."  
+> B: "No, I still have to eat dinner."  
+> A: "There will be food at the talk."  
 B: "Yes, but I need to finish up some work tonight."  
 A: "It's near by and you could just check it out."  
 B: "I think it will rain soon and don't want to get wet."  
-A: "I've checked the report and actually the clouds are just passing by".
+A: "I've checked the report and actually the clouds are just passing by".  
 B: "Maybe so, but it's been shown statistically that networking events lead to lower happiness levels"
 
 I'm quite familiar with conversations like the one above.  While most aren't as long as this, it should be quite apparent that none of the reasons mentioned is the real decision factor.  More argument would lead to more rationalizations, but when discussed in this way it would appear that the primary (and quite possibly the only) reason for not attending the event is hidden from the receiver.  
