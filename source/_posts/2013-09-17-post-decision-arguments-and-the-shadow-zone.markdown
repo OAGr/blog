@@ -4,18 +4,19 @@ title: "Post-Decision Arguments and the Shadow Zone"
 date: 2013-09-17 22:35
 comments: true
 categories: [rationality]
-no_header: true
 header_pic: http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de0b67fe7b40d87abbf5f01410ca8a.jpg
 header_pic_text: shadowlang
+draft:true
 ---
 
 **Shadow Zone**  
 Def: The space of all rationalizations for a decision.
 
 Example:  
+
 > A: "Would you like to come to a tech talk in a few minutes?"  
-> B: "No, I still have to eat dinner."  
-> A: "There will be food at the talk."  
+B: "No, I still have to eat dinner."  
+A: "There will be food at the talk."  
 B: "Yes, but I need to finish up some work tonight."  
 A: "It's near by and you could just check it out."  
 B: "I think it will rain soon and don't want to get wet."  
@@ -39,11 +40,4 @@ The best thing we can do is to recognize these areas and agnowledge them.  For w
 The *shadow zone* is named as to imply a space that no one really understands and that everyone finds quite murkey and mysterious.  Which is exactly what many of these post-decision arguments are.  The fact that they weren't used to make a decision implies that they haven't been thought out but instead were chosen to *feel* satisfactory.  Ideally these arguments would come with big **warning!** signs attached, but until the Google Glass gets that functionality we'll have to do with clever names.  
 
 
-### Result 1: Expect people to lie to you, and be ok with it.
-Everyone rationalizes things.  It seems to be our default decision process.  If your friends and loved ones seem to be lieing about their reasons for things, it may simply mean that they are human.  It's quite possible that they don't even realize it.
-
-Rather than fighting each one of the thousand-headed beast of renewable arguments, its seems best to either **let the decision be** or to bring discussion to humanity's faulty decision creation modes.  
-
-### Result 2: It's fine to say "Because I feel like it".
-It's often the truth, and making up reasons for things could sometimes be counter-productive, especially when you're not sure those reasons exist.  Intuitions can be incredibly good, especially in disciplines of tight feedback in areas that one has practice in.  
 
