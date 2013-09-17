@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-09-18T00:27:48+01:00</updated>
+  <updated>2013-09-18T00:35:10+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -14,25 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Fighting The Shadow Zone]]></title>
-    <link href="http://ozziegooen.com/blog/2013/09/18/fighting-the-shadow-zone/"/>
-    <updated>2013-09-18T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/09/18/fighting-the-shadow-zone</id>
-    <content type="html"><![CDATA[<h3 id="result-1-expect-people-to-lie-to-you-and-be-ok-with-it">Result 1: Expect people to lie to you, and be ok with it.</h3>
-<p>Everyone rationalizes things.  It seems to be our default decision process.  If your friends and loved ones seem to be lieing about their reasons for things, it may simply mean that they are human.  It’s quite possible that they don’t even realize it.</p>
-
-<p>Rather than fighting each one of the thousand-headed beast of renewable arguments, its seems best to either <strong>let the decision be</strong> or to bring discussion to humanity’s faulty decision creation modes.  </p>
-
-<h3 id="result-2-its-fine-to-say-because-i-feel-like-it">Result 2: It’s fine to say “Because I feel like it”.</h3>
-<p>It’s often the truth, and making up reasons for things could sometimes be counter-productive, especially when you’re not sure those reasons exist.  Intuitions can be incredibly good, especially in disciplines of tight feedback in areas that one has practice in.  </p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post Decision Arguments And The Shadow Zone]]></title>
+    <title type="html"><![CDATA[Post-Decision Arguments and the Shadow Zone]]></title>
     <link href="http://ozziegooen.com/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone/"/>
-    <updated>2013-09-17T00:00:00+01:00</updated>
+    <updated>2013-09-17T22:35:00+01:00</updated>
     <id>http://ozziegooen.com/blog/2013/09/17/post-decision-arguments-and-the-shadow-zone</id>
     <content type="html"><![CDATA[<p><strong>Shadow Zone</strong><br />
 Def: The space of all rationalizations for a decision.</p>
@@ -911,40 +895,71 @@ Mark doesn’t dress like this, but he may possess more power than almost all wh
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Can anyone predict the long-term future of the internet?  Part 1]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/02/can-anyone-predict-the-long-term-future-of-the-internet-part-1/"/>
-    <updated>2013-03-02T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/02/can-anyone-predict-the-long-term-future-of-the-internet-part-1</id>
-    <content type="html"><![CDATA[<p>For most of my life I wanted to be a hardware engineer (at first inventor) because that’s where I thought the future would be.  My basic theory was that all the great historic inventors worked with hardware, so that would be where the future was going as well.  I went so far as to spend 4 years getting an incredibly painful engineering degree to make this happen.</p>
+    <title type="html"><![CDATA[Awards imply false certainty]]></title>
+    <link href="http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty/"/>
+    <updated>2013-02-28T00:00:00+00:00</updated>
+    <id>http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty</id>
+    <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
 
-<p>Halfway through that degree I took a trip to Singapore for study abroad, and there I realized I was probably making a wrong decision.  I continued to rationalize it for the next two years to stay motivated, but I realize now I probably would have been better off studying computer science.</p>
+<p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
+Obligatory average photograph of standard trophies</p>
 
-<p>In Singapore I took long walks every night and thought about science and futurism (rather than doing homework, which you weren’t required to turn in).  During this time I was working on <a href="http://holono.com/">Holono</a>; not because I wanted to work on software, but because I really wanted to see it get made.  The incredibly safe atmosphere made it convenient to walk around at night time, which is my best time for coming up with ideas.  I’d spend 2-4 hours a night thinking, and partially because of Holono, paying a lot of attention to the internet.</p>
+<p>What the hell does it mean to be the “best science student”?  Most of the time people have little idea what “best” actually refers to, but rather assume it’s within a space of shared understanding that the local community will agree upon.  This is not always true, especially when there are disagreements about the winner.  Should the “best” book be one with <a href="http://www.newyorker.com/online/blogs/books/2012/07/letter-from-the-pulitzer-fiction-jury-what-really-happened-this-year.html">more character emphasis, or verbal eloquence</a>?  In some cases it’s obvious how to rank items according to this vague space of shared understanding, but in other cases it’s apparent that the space isn’t narrow at all. </p>
 
-<p>Here I came up with with a lot of my own ideas for what the internet could do.  I’ll announce them later on, but it amazed me what I came up with.</p>
+<p>Even this assumes a level of consistency of mindset and competency of judges, which may be and often is highly questionable.  Just because a person may be an “expert” at their field doesn’t mean they are any good at it.  They may just be the best of ignoramuses. </p>
+
+<p>We can of course overcome this in part by assigning high uncertainty to our prizes and phases. </p>
+
+<blockquote>
+  <p>“This award is given to the person who our team of three specific, somewhat randomly chosen but assumingly competent (according to our school’s current department standards)  people.  Using our current understanding of what likely makes up “excellent”, we have predicted that this entree is the most likely to be the best one.  If we had chosen a different group of judges from a similar group and this had been done again, we predict that there would be a 40% chance of this entree still winning 1st place.” </p>
+</blockquote>
+
+<p>Of course, few organizations will ever do this.  It hurts the often false sense of their own authority.  It makes the competition seem rather unimportant, even though it likely is. </p>
+
+<h2 id="my-counterplan">My CounterPlan</h2>
+
+<p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Can anyone predict the long-term future of the internet?]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/02/can-anyone-predict-the-long-term-future-of-the-internet-/"/>
-    <updated>2013-03-02T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/02/can-anyone-predict-the-long-term-future-of-the-internet-</id>
-    <content type="html"><![CDATA[<p>Here’s a trend I’ve noticed: when discussing internet technologies, people talk about the next 1-5 years.  When discussing hardware, people talk in the next 200.</p>
+    <title type="html"><![CDATA[Why obsessives may hate scheduling meetings]]></title>
+    <link href="http://ozziegooen.com/blog/2013/02/27/why-obsessives-hate-meetings/"/>
+    <updated>2013-02-27T00:00:00+00:00</updated>
+    <id>http://ozziegooen.com/blog/2013/02/27/why-obsessives-hate-meetings</id>
+    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg" alt="Not Harvey Mudd, but close." /> </a></p>
 
-<p>Take a look at <a href="http://www.coverbrowser.com/covers/popular-science/19">these magazine covers</a>.  Or these, or these.  They typically feature hardware or tough sciences that won’t be developed commercially for 5-50 years, or web products that are out right now.  I had a club called Future Tech in college where we would discuss future technology, and we would typically do the same thing.  All cool “future tech” was either hardware or A.I.</p>
+<p>I remember at <a href="http://www.hmc.edu/">Harvey Mudd College</a> I would often be really interested in really specific technical topics and go through great difficulties to talk to anyone about them, especially the professors.  Many of the engineering professors would be out during all of the convenient times for me (after 5pm M-T, and most of Friday because most seemed to be out consulting).   Sure I could schedule meetings, but that didn’t feel right.  I wanted to walk in and start talking. </p>
 
-<p>The weirdest thing is that the internet companies are the ones getting funded.  They’re the ones doing ridiculously well, and they’ve only been around for the last 20 years.</p>
+<p>It recently dawned on me what very quick discussion was so important to me.  It was because I knew I would loose interest quickly and wanted to get my thoughts out while they were with me.  I would often hours or days on end obsessing on an issue, and all of it was fresh and new to my memory right then.  Scheduling a meeting a week after would throw everything off. Not only was it not convenient, but I had no way of knowing what I would be interested in the next week. I notice this now.  I plan meetings about partnerships, then get really excited about product development and loose interest in the meetings.  It makes it really hard to hold discussions with other people in the area.  <strong>Therefore it seems very important to have a large variety of people in my general vicinity that will handle my somewhat unpredictable interests while being close enough not to have to schedule an appointment any more than a few hours away.</strong> </p>
 
-<p>The main explanation I have for that is that no one really understands the internet.  Compared to nanobots and hydrogen energy, the internet feels very confusing and unpredictable.  Lectures can discuss long term advances in hardware can present cool looking graphics with relatable visions.  But the few discussions I’ve seen on the long term vision of the internet is far more esoteric.  The internet utopian movement seems long dead and forgotten, as well the movement behind the semantic web, which to my knowledge, only about 50 people understand.  Yet everyone knows about electric cars.</p>
+<p>Fortunately I’m living with 17 other smart people in <a href="http://risesf.com/">Rise SF</a>, which definitely is a plus.  But the location is restricting (Twin Peaks, SF) and I don’t interact routinely with large groups of people outside the house. Maybe this is one reason why <a href="http://en.wikipedia.org/wiki/Building_20">building 20</a> and similar tightly packed intelectual networks work so well.  Even if people <strong>can</strong> meet each other doesn’t mean it will be convenient; them being able to stop in at a whim may be significantly more efficient and productive.  This way they can discuss what they are interested in, in the moment they are interested in it.  </p>
 
-<p>The lean startup grew from the internet.  Unlike hardware and scientific tech, where breakthroughs come through optimizations and numeric improvements (this car is more efficient, this drug is far more effective), recent internet companies often create completely new value propositions.</p>
+<p>More information on <a href="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all">Building 20</a> here, toward the end.  It’s a fascinating read.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
+    <link href="http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation/"/>
+    <updated>2013-02-26T00:00:00+00:00</updated>
+    <id>http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
 
-<p>One common assumption is that because we can’t see the future of the internet, there won’t be one.  I have many incredibly intelligent friends who consider the internet to be fairly complete, with the major future advances to be expected in fields like medicine, robotics, etc.  And with the current discussion of the internets’ future, this makes a lot of sense.  Yet I don’t see any numeric proof of this or anything.  Very few people predicted any of the existing web companies (Facebook, Google, Twitter, Groupon, etc).  Internet business incubators are growing (they are about all of the incubators that exist, really).  Unlike clean tech or biotech VCs, internet VC firms are doing well and are staying bullish.</p>
+<p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
 
-<p>Yet the real evidence for me has come from my ideas.  When I consider the future of hardware, I typically wind myself coming up with ideas that would either help a small subset of the population or take forever to create and require technology that doesn’t exist yet.  When I consider the future of the internet, I come up with things that could be made today and possibly help billions of people.</p>
+<p>The domain <a href="http://www.ifwehadglass.com/">ifwehadglass.com</a> was available, so I decided to go with it.  Then I searched iStock Photo for an image somewhat similar to the google one, but with more people.  I found one, made a <a href="https://twitter.com/ifwehadglass">Twitter page</a>, made a <a href="https://www.facebook.com/events/572165209460571/">Facebook event</a>, and finally started a website.  Taking significant inspiration from the Google Glass website, I put together some custom CSS to make my own similar version, as shown below.  </p>
 
-<p>In addition, I’m quite sure that many of the next big fields will happen inside the internet.  In the same way that the electric industry was an unexpected creation using the byproducts of the steel industry, and the computer industry was an unexpected creation using the byproducts of the electric industry, and the internet industry came from the computer industry, I bet things will come from the internet.</p>
+<p><a href="http://www.ifwehadglass.com/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-56-33-pm.png?w=922" alt="Original #ifwehadglass hackathon website" /> </a>  </p>
+
+<p>Original #ifwehadglass hackathon website </p>
+
+<p>The hardest part was the hosting it, which I did on Thursday evening after going to bed at 6.  After a bit of searching I found <a href="http://www.site44.com/">Site44</a>, which hosts websites straight out of Dropbox.  Awesome. Submitted it on Hacker News hoping to make front page.  <a href="http://news.ycombinator.com/item?id=5261470">Kind of did.</a></p>
+
+<p>Hacker News (selected) reactions below.<br />
+<a href="http://news.ycombinator.com/submitted?id=ozziegooen"> <img src="http://bowlabs.files.wordpress.com/2013/02/hnews1.png?w=847" alt="Hacker News comments on #ifwehadglass" /> </a></p>
+
+<p>The last thing was to edit the website so that everyone could have their own page for their own entrees.  We made subdirectories for each entrant who signed up on Facebook.  Originally the plan was that each person would be able to access only their own folder.  However, we quickly realized that this would be a limitation.  First, it was impossible to share a folder from an app, so we had to switch from Site44 to one of <a href="https://twitter.com/Joevm3">Joe’s</a> many servers.  Then we realized that it’s impossible to share a folder with a few people, and share subfolders with other people.  So instead we just gave everyone access to everything.  In this case it’s fine, but you can imagine that it’s not a very scalable.  Come on, Dropbox! Some attempts were made at getting someone from Google to come with a Google Glass for the event, but they were made in vain.  Fortunately, the event was fun for the people who made it.            </p>
 ]]></content>
   </entry>
   

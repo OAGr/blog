@@ -6,7 +6,6 @@ comments: true
 categories: [rationality]
 header_pic: http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de0b67fe7b40d87abbf5f01410ca8a.jpg
 header_pic_text: shadowlang
-draft:true
 ---
 
 **Shadow Zone**  

@@ -3,8 +3,7 @@ layout: post
 title: "Fighting the Shadow Zone"
 date: 2013-09-28 00:15
 comments: true
-categories: 
-published:false
+published: false
 ---
 
 ### Result 1: Expect people to lie to you, and be ok with it.
