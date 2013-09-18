@@ -24,7 +24,7 @@ attempt my own software solution, but for now I wanted to experiment
 with what works for me on paper.
 
 <div style="max-width:50%" markdown="1">
-![Pomodoro Rule Sheet](/assets/posts/Pomodoro-itemsheet.jpg)
+![Pomodoro Rule Sheet](/assets/posts/pomodoro-itemsheet.jpg)
 </div>  
 
 A day later after creating the first page, I realized that this sheet still didn't give a good
@@ -45,7 +45,7 @@ hoping to eventually achieve with [Feedhaven](http://feedhaven.com/),
 assuming no one else makes something satisfactory first.
 
 <div style="max-width:50%" markdown="1">
-![Pomodoro Time Sheet](/assets/posts/Pomodoro-timesheet.jpg)
+![Pomodoro Time Sheet](/assets/posts/pomodoro-timesheet.jpg)
 </div>  
 
 The idea was to have both of these sheets side by side. One big issue with this was that my desk isn't really big enough to hold
@@ -67,7 +67,7 @@ will continue to use this mediocre software system, and will slowly wait
 until I feel ready to go back into a more rigorous paper-software
 combination again.  
 
-![Tomatoes Pomodoro App Worklog](/assets/posts/Pomodoro-timeline.png)
+![Tomatoes Pomodoro App Worklog](/assets/posts/pomodoro-timeline.png)
 
 Now I've temporarily put the paper system on hold, but am still doing
 the application one.  I'll definitely re-attempt the paper version soon,
