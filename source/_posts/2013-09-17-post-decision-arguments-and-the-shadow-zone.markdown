@@ -12,9 +12,7 @@ header_pic_text: shadowlang
 Definition: Arguments ideated after a decision has been reached.  
 Similar to: Rationalizations, Justificatations   
 **Shadow Zone**  
-Definition: The space of all post-decision arguments for a decision.
-
-### A Short Tale  
+Definition: The space of all post-decision arguments for a decision.  
 
 > A: "Would you like to come to a tech talk in a few minutes?"  
 B: "No, I still have to eat dinner."  
