@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-09-18T01:07:43+01:00</updated>
+  <updated>2013-09-19T00:17:27+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,135 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Productivity Failure Loop]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/18/my-productivity-failure-loop/"/>
+    <updated>2013-09-18T23:06:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/18/my-productivity-failure-loop</id>
+    <content type="html"><![CDATA[<p>I’ve tried structured methods (Getting Things Done, Task Management
+Systems, the Kanban Method, Polyphasic Sleep, Pomodoro) several times and almost each time so far has ended
+in abysmal failure.  </p>
+
+<p>It’s surprisingly alarming because each time I seem to go through the
+same exact pattern.</p>
+
+<ol>
+  <li>Read a small bit about a project management method, become intrigued.</li>
+  <li>Start using it to it’s most basic extent.</li>
+  <li>Enjoy the gains, but desire to become much better.</li>
+  <li>Read extensively on it and try to go substantially further.</li>
+  <li>Get tired of the increased structure workload and give up completely.</li>
+  <li>Be satisfied with the new productivity gains from having no
+structure.</li>
+  <li>Feel too incompetent to attempt other management tools in the near
+future.</li>
+</ol>
+
+<p>This is a terrible failure mode and I’m trying my best to not keep on
+this cycle of spaced mediocrity.  </p>
+
+<h3 id="possible-solutions">Possible Solutions</h3>
+<p>The only ways out of this that I can tell are:  </p>
+
+<ol>
+  <li>Maintain one basic state of management for an extended period (30
+days) before reaching any further.  </li>
+  <li>Forcing myself to retreat to a previous position rather than give up
+completely, post wear-out.</li>
+</ol>
+
+<p>Right now I’ve chosen option 2, because option 1 seems far too slow.  </p>
+
+<h3 id="existing-dilemma">Existing Dilemma</h3>
+<p>Last week I’ve started working on Pomodoros and sure enough, my system
+quickly got out of hand.  I started with an online tracker, then
+extended that to a printed page, then extended that to two printed pages
+(one to manage tasks and the other to manage time), and then stopped
+completely over the weekend.  </p>
+
+<p>Now I’m trying again, but with just one page and the time tracker app.
+I’ll pre-commit here for more public pressure, and let people know once
+I hit 30 days.  </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Pomodoro Structure]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/18/existing-pomodoro-structure/"/>
+    <updated>2013-09-18T21:57:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/18/existing-pomodoro-structure</id>
+    <content type="html"><![CDATA[<p>Recently I’ve been getting back into the <a href="http://Pomodorotechnique.com/">Pomodoro Technique</a>.  It was fun at first, then got to be to much, then I stopped, now I’m trying to continue at a basic level.</p>
+
+<p>I started with <a href="http://mac.appstorm.net/reviews/productivity-review/tomatoes-full-featured-Pomodoro-time-managing-app/">Tomatoes</a>, a mac application that was highly recommended and seemed to do the most important Pomodoro necessities.  </p>
+
+<p>I quickly found that I wanted to write notes on my actions, and the
+application didn’t have any simple way of doing this.  I also wanted to
+see if I could add other useful info, so I designed a Pomodoro sheet and
+started using it.</p>
+
+<p>While I’m all for web applications, paper is often far more flexible.  I
+could imagine that there is the potential for web applications to truly
+be flexible.  This is not yet the case, and not even being able to add
+simple fields (notes, emotional level, etc.) to Pomodoros makes me feel
+like existing tools are quite inadequate.  Perhaps I’ll eventually
+attempt my own software solution, but for now I wanted to experiment
+with what works for me on paper.</p>
+
+<div style="max-width:50%">
+  <p><img src="http://ozziegooen.com/assets/posts/Pomodoro-itemsheet.jpg" alt="Pomodoro Rule Sheet" /></p>
+</div>
+
+<p>A day later after creating the first page, I realized that this sheet still didn’t give a good
+breakdown on what I was doing throughout the day.  Sadly the App doesn’t
+provide information into this either.  </p>
+
+<p>To compensate I made another page for myself to scribble notes on about
+my workload.  The segments that are shaded are the ones where I did
+actual Pomodoros. I have used big numbers (low ones between 1-7) to
+indicate which specific Pomodoro activities I was working on (labeled by
+number on the first sheet).</p>
+
+<p>This particularly felt frustrating because I do have lots of information
+online with time stamps.  This includes git commits, documents, and my
+work log on Hipchat.  Unfortunately I haven’t found any way of combining
+this data to understand how I spend my time.  This is some of what I am
+hoping to eventually achieve with <a href="http://feedhaven.com/">Feedhaven</a>,
+assuming no one else makes something satisfactory first.</p>
+
+<div style="max-width:50%">
+  <p><img src="http://ozziegooen.com/assets/posts/Pomodoro-timesheet.jpg" alt="Pomodoro Time Sheet" /></p>
+</div>
+
+<p>The idea was to have both of these sheets side by side. One big issue with this was that my desk isn’t really big enough to hold
+on to the folder.  This, given the fact that I was using a small binder
+which was clearly not designed for looking at both sides of a page, made
+it very difficult to actually use this system in a practical sense.  It
+feels strange in retrospect, but my work flow was limited by the length
+of my working desk.</p>
+
+<p>I did this for two days, then found that I lacked all will to continue
+with the entire system during the weekend.  </p>
+
+<p><img src="http://ozziegooen.com/assets/posts/desk-setup.jpg" alt="Office Setup" /></p>
+
+<p>Below is a summary of an approximation of the Pomodoros I have done each
+day.  Note that over the last weekend (the 16th and 17th) it fell off
+almost completely as I got really frustrated with the method.  Now I
+will continue to use this mediocre software system, and will slowly wait
+until I feel ready to go back into a more rigorous paper-software
+combination again.  </p>
+
+<p><img src="http://ozziegooen.com/assets/posts/Pomodoro-timeline.png" alt="Tomatoes Pomodoro App Worklog" /></p>
+
+<p>Now I’ve temporarily put the paper system on hold, but am still doing
+the application one.  I’ll definitely re-attempt the paper version soon,
+but the most important thing for now is to at least keep on the Pomodoro
+system in general.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Post-Decision Arguments and the Shadow Zone]]></title>
@@ -920,47 +1049,6 @@ Obligatory average photograph of standard trophies</p>
 <h2 id="my-counterplan">My CounterPlan</h2>
 
 <p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why obsessives may hate scheduling meetings]]></title>
-    <link href="http://ozziegooen.com/blog/2013/02/27/why-obsessives-hate-meetings/"/>
-    <updated>2013-02-27T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/02/27/why-obsessives-hate-meetings</id>
-    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/b1_north_hallway1.jpg" alt="Not Harvey Mudd, but close." /> </a></p>
-
-<p>I remember at <a href="http://www.hmc.edu/">Harvey Mudd College</a> I would often be really interested in really specific technical topics and go through great difficulties to talk to anyone about them, especially the professors.  Many of the engineering professors would be out during all of the convenient times for me (after 5pm M-T, and most of Friday because most seemed to be out consulting).   Sure I could schedule meetings, but that didn’t feel right.  I wanted to walk in and start talking. </p>
-
-<p>It recently dawned on me what very quick discussion was so important to me.  It was because I knew I would loose interest quickly and wanted to get my thoughts out while they were with me.  I would often hours or days on end obsessing on an issue, and all of it was fresh and new to my memory right then.  Scheduling a meeting a week after would throw everything off. Not only was it not convenient, but I had no way of knowing what I would be interested in the next week. I notice this now.  I plan meetings about partnerships, then get really excited about product development and loose interest in the meetings.  It makes it really hard to hold discussions with other people in the area.  <strong>Therefore it seems very important to have a large variety of people in my general vicinity that will handle my somewhat unpredictable interests while being close enough not to have to schedule an appointment any more than a few hours away.</strong> </p>
-
-<p>Fortunately I’m living with 17 other smart people in <a href="http://risesf.com/">Rise SF</a>, which definitely is a plus.  But the location is restricting (Twin Peaks, SF) and I don’t interact routinely with large groups of people outside the house. Maybe this is one reason why <a href="http://en.wikipedia.org/wiki/Building_20">building 20</a> and similar tightly packed intelectual networks work so well.  Even if people <strong>can</strong> meet each other doesn’t mean it will be convenient; them being able to stop in at a whim may be significantly more efficient and productive.  This way they can discuss what they are interested in, in the moment they are interested in it.  </p>
-
-<p>More information on <a href="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all">Building 20</a> here, toward the end.  It’s a fascinating read.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Making a really confusing hackathon in 24 hours (#ifwehadglass)]]></title>
-    <link href="http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation/"/>
-    <updated>2013-02-26T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/02/26/24-hour-hackathon-creation</id>
-    <content type="html"><![CDATA[<p><a href="http://www.google.com/glass/start/how-to-get-one/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-17-00-pm1.png?w=922" alt="Google's #ifihadglass competition page" /> </a> Google’s <a href="http://www.google.com/glass/start/how-to-get-one/"> #ifihadglass </a></p>
-
-<p>After Google’s #ifihadglass competition came out, I thought it might be fun to make some entrees, given our research at Harvey Mudd in wearable computing.  While I was put off by the $1500 price tag, Rahul pointed out that they would likely have an ebay value quite a bit over that, so I decided to go with it.  We came up with the idea of organizing a small hackathon to come up with entrees, and after me asking a few people on Facebook, decided to make it happen.  However, this was on Wednesday, and the only day fit for the Hackathon was Saturday (it ended the week after), so we didn’t have much time to make it happen. </p>
-
-<p>The domain <a href="http://www.ifwehadglass.com/">ifwehadglass.com</a> was available, so I decided to go with it.  Then I searched iStock Photo for an image somewhat similar to the google one, but with more people.  I found one, made a <a href="https://twitter.com/ifwehadglass">Twitter page</a>, made a <a href="https://www.facebook.com/events/572165209460571/">Facebook event</a>, and finally started a website.  Taking significant inspiration from the Google Glass website, I put together some custom CSS to make my own similar version, as shown below.  </p>
-
-<p><a href="http://www.ifwehadglass.com/"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-25-at-3-56-33-pm.png?w=922" alt="Original #ifwehadglass hackathon website" /> </a>  </p>
-
-<p>Original #ifwehadglass hackathon website </p>
-
-<p>The hardest part was the hosting it, which I did on Thursday evening after going to bed at 6.  After a bit of searching I found <a href="http://www.site44.com/">Site44</a>, which hosts websites straight out of Dropbox.  Awesome. Submitted it on Hacker News hoping to make front page.  <a href="http://news.ycombinator.com/item?id=5261470">Kind of did.</a></p>
-
-<p>Hacker News (selected) reactions below.<br />
-<a href="http://news.ycombinator.com/submitted?id=ozziegooen"> <img src="http://bowlabs.files.wordpress.com/2013/02/hnews1.png?w=847" alt="Hacker News comments on #ifwehadglass" /> </a></p>
-
-<p>The last thing was to edit the website so that everyone could have their own page for their own entrees.  We made subdirectories for each entrant who signed up on Facebook.  Originally the plan was that each person would be able to access only their own folder.  However, we quickly realized that this would be a limitation.  First, it was impossible to share a folder from an app, so we had to switch from Site44 to one of <a href="https://twitter.com/Joevm3">Joe’s</a> many servers.  Then we realized that it’s impossible to share a folder with a few people, and share subfolders with other people.  So instead we just gave everyone access to everything.  In this case it’s fine, but you can imagine that it’s not a very scalable.  Come on, Dropbox! Some attempts were made at getting someone from Google to come with a Google Glass for the event, but they were made in vain.  Fortunately, the event was fun for the people who made it.            </p>
 ]]></content>
   </entry>
   
