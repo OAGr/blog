@@ -8,10 +8,13 @@ header_pic: http://www.wallpaperup.com/uploads/wallpapers/2013/07/14/118275/81de
 header_pic_text: shadowlang
 ---
 
+**Post-Decision Arguments**  
+Definition: Arguments ideated after a decision has been reached.  
+Similar to: Rationalizations, Justificatations   
 **Shadow Zone**  
-Def: The space of all rationalizations for a decision.
+Definition: The space of all post-decision arguments for a decision.
 
-Example:  
+### A Short Tale  
 
 > A: "Would you like to come to a tech talk in a few minutes?"  
 B: "No, I still have to eat dinner."  
