@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-09-19T01:06:30+01:00</updated>
+  <updated>2013-09-19T19:18:59+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Should More Effective Altruist Organizations Fail?]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/19/should-more-nonprofits-fail/"/>
+    <updated>2013-09-19T18:38:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/19/should-more-nonprofits-fail</id>
+    <content type="html"><![CDATA[<p><a href="http://ycombinator.com/">Y Combinator</a> is about <em>the</em> most successful business
+incubator to date.  It’s hatched 37 companies with worth or sold for
+over $40 million in its’ few years of life, and has an acceptance rate
+of less than 6%.  However, almost all of these companies fail.  As
+<a href="http://www.businessinsider.com/startup-odds-of-success-2013-5#ixzz2V5fDO1Nd">Business Insider</a> points out,<strong>“93% of the companies that get accepted by Y Combinator eventually fail”</strong>.</p>
+
+<p>Though this is agnowledged as an unfortunate hurdle, it’s also widely
+believed that quite a bit of business failure is healthy to markets.
+Poor ideas and implementations get weeded out for better ones, and in
+the end the winners typically are quite a bit better than average.
+International capitalism is very harsh but results in quality products.</p>
+
+<p>It would seem to me like the bar for Effective Altruist organizations is
+significantly higher in many ways than for these businesses.  That is
+not because it’s difficult to fundraise, but because it’s difficult to
+be effective.  </p>
+
+<p>Creating a charity or finding any cause more efficient than the <a href="http://www.againstmalaria.com/">Against
+Malaria Foundation</a> is just incredibly difficult.  I’m quite sure that
+when the AMF was starting it couldn’t have expected to reach the
+efficiencies and successes that it had.  The reason for this is that
+Givewell gets to cherry pick the most efficient outcomes rather than the
+best plans, and it seems like these would fall on the end of the
+gaussian curve of luck as well as skill.</p>
+
+<p>This isn’t to say that it’s a poor idea to create an Effective Altruist
+organization, in the same way that it’s not a particularly poor idea to
+create a business knowing the poor success rates.  It may be with the
+right idea you can expect a reasonable expected value, even given the
+chance of failure.  </p>
+
+<p>What it does mean is that I would expect that organizations attempting Effective Altruism <em>should be failing.</em>  I’m not sure how many, but 90% wouldn’t intuitively seem unreasonable to me given that’s the bar for what I would assume an easier goal (business success as a Y-Combinator acceptee).  </p>
+
+<p>But looking back, have any failed?  Have any groups in this area really
+admitted failure after looking at some difficult metrics?</p>
+
+<p>Some possible groups in this area that may be “Effective Altruist” that
+come to my mind are:</p>
+
+<ul>
+  <li>Givewell</li>
+  <li>The Future of Humanity Institute</li>
+  <li>Effective Animal Altruism</li>
+  <li>Effective Fundraising</li>
+  <li>Aidgrade</li>
+  <li>80,000 Hours</li>
+  <li>Giving What We Can</li>
+  <li>The Life You Can Save</li>
+  <li>The Machine Intelligence Research Institute</li>
+  <li>The Center for Applied Rationality</li>
+  <li>Leverage Research</li>
+  <li>Think! Network</li>
+</ul>
+
+<p>One alternative may be to imagine that we are in a gold rush where there
+is so much unexplored area in this domain that almost each new venture
+succeeds.  If this were true I would think that there should be a lot
+new EA organizations until this stops being the case.</p>
+
+<p>Another alternative explanation is that many of these groups aren’t
+actually “Effective” in the “Effective Altruist” sense, and don’t care
+to be.  Or that there are so many definitions of “Effective Altruist”
+that each organization gets to pick their own specific one.  </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Productivity Failure Loop]]></title>
@@ -1021,34 +1092,6 @@ Mark doesn’t dress like this, but he may possess more power than almost all wh
 <p>Facebook even attempted Democracy, but did it poorly.  As in, worse than China or Iran poorly (though, to be fair, not with nearly as dire consequences so far).  They put their new data use policy and statement of rights up for vote with the general public.  350,000 users ended up voting, and 6/7th of them voted “no”.  Unfortunately Facebook required that 300 million+ people voted for quorum by the closing date, which obviously did not happen, so Facebook went ahead and made the changes anyway.  If something similar were to happen to a third world country we’d consider them completely corrupt and juvenile.  Here it happens to us and we don’t care to notice.  Read  <a href="http://arstechnica.com/business/2012/06/whopping-00038-of-facebook-users-vote-on-data-use-policy-change/">this</a> and <a href="http://www.buzzfeed.com/mtpiii/the-end-of-the-facebook-democracy">this</a> for more info. </p>
 
 <p>The bottom line is that now, millions of people have no say in a community they are all contributing to.  In fact, they  <a href="http://www.nbcwashington.com/the-scene/events/Facebook-Users-on-Verge-of-Mutiny-130288643.html">violently oppose</a> every single update Facebook gives them, but the one ruler doesn’t care.  Perhaps he shouldn’t.  But we need to do some careful considering of what power structures and governments we are willing to accept and promote.  We also should re-consider what democracy really is and how important it should be.  Things will only get more messy from here.  </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Awards imply false certainty]]></title>
-    <link href="http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty/"/>
-    <updated>2013-02-28T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/02/28/awards-imply-false-certainty</id>
-    <content type="html"><![CDATA[<p>In high school I got sick of most award systems.  Prizes were given like “best science student” or “2nd best musician” like “best” really meant something.  I also was questionable of whether the negative externalities created by these systems offset the positive benefit for the recipients and close friends, but I think the more pressing issue is the implied certainty. </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/donc355.jpg" alt="obligatory average photograph of standard trophies" /> </a><br />
-Obligatory average photograph of standard trophies</p>
-
-<p>What the hell does it mean to be the “best science student”?  Most of the time people have little idea what “best” actually refers to, but rather assume it’s within a space of shared understanding that the local community will agree upon.  This is not always true, especially when there are disagreements about the winner.  Should the “best” book be one with <a href="http://www.newyorker.com/online/blogs/books/2012/07/letter-from-the-pulitzer-fiction-jury-what-really-happened-this-year.html">more character emphasis, or verbal eloquence</a>?  In some cases it’s obvious how to rank items according to this vague space of shared understanding, but in other cases it’s apparent that the space isn’t narrow at all. </p>
-
-<p>Even this assumes a level of consistency of mindset and competency of judges, which may be and often is highly questionable.  Just because a person may be an “expert” at their field doesn’t mean they are any good at it.  They may just be the best of ignoramuses. </p>
-
-<p>We can of course overcome this in part by assigning high uncertainty to our prizes and phases. </p>
-
-<blockquote>
-  <p>“This award is given to the person who our team of three specific, somewhat randomly chosen but assumingly competent (according to our school’s current department standards)  people.  Using our current understanding of what likely makes up “excellent”, we have predicted that this entree is the most likely to be the best one.  If we had chosen a different group of judges from a similar group and this had been done again, we predict that there would be a 40% chance of this entree still winning 1st place.” </p>
-</blockquote>
-
-<p>Of course, few organizations will ever do this.  It hurts the often false sense of their own authority.  It makes the competition seem rather unimportant, even though it likely is. </p>
-
-<h2 id="my-counterplan">My CounterPlan</h2>
-
-<p>In high school I designed a small representation of this, in a “Seal of Perceived Excellence”.  I finally purchased a custom stamp in the beginning of college.  I considered it accurate on my homework, when I would spend a lot of time doing a job I thought was decent, but knowing I probably got some fundamental elements wrong and had little idea of how well I actually did.  While now I look back on it and find the design a bit childish, I still like the point and would later be interested in extending it elsewhere.  <a href="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/02/seal.jpeg" alt="Ozzie Gooen Seal of Perceived Excellence" /> </a> Ozzie Gooen Seal of Perceived Excellence</p>
 ]]></content>
   </entry>
   
