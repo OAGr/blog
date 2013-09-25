@@ -33,7 +33,7 @@ as groups also trying to "do the most good" within charity evaluation
 emerged to somewhat compete with them.
 
 GiveWell is reluctant to investigate animal welfare charities, seemingly
-because its founders value animals [substantially less than humans](http://blog.givewell.org/2010/12/27/animal-welfare-charities/).  Other people have decided that animals are worth more in respect to humans than Givewell has indicated, and some of these have set up a "GiveWell for Animals", or **[Effective Animal Altruism](http://www.effectiveanimalactivism.org/Evaluation)**.  **Aidgrade** was established a semi-Givewell competitor and disagrees with them about the [proper methods to do charity evaluations](http://www.aidgrade.org/uncategorized/some-friendly-concerns-with-givewell).
+because its founders value animals [substantially less than humans](http://blog.givewell.org/2010/12/27/animal-welfare-charities/).  Other people have decided that animals are worth more in respect to humans than Givewell has indicated, and some of these have set up a "GiveWell for Animals", or **[Effective Animal Activism](http://www.effectiveanimalactivism.org/Evaluation)**.  **Aidgrade** was established a semi-Givewell competitor and disagrees with them about the [proper methods to do charity evaluations](http://www.aidgrade.org/uncategorized/some-friendly-concerns-with-givewell).
 
 ## Effective Altruism Funders
 Then come the more somewhat high-risk meta-charities that promote
@@ -112,7 +112,7 @@ mentioned, so probably am quite biased.  I am presently
 working at 80,000 Hours, which is based in the same office as Giving
 What we Can, The Center For Effective Altruism, and The Future of Humanity
 Institute.  Recently I applied to and was rejected from
-working at Leveraged Research.
+working at Leverage Research.
 
 ### Blog Efficiency
 This post took me about 5 hours to write. I ended up splitting my

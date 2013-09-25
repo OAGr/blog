@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-09-21T19:56:20+01:00</updated>
+  <updated>2013-09-25T22:06:28+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,158 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fighting the Shadow Zone]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/28/fighting-the-shadow-zone/"/>
+    <updated>2013-09-28T00:15:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/28/fighting-the-shadow-zone</id>
+    <content type="html"><![CDATA[<h3 id="lesson-1-expect-people-to-lie-to-you-and-be-ok-with-it">Lesson #1: Expect people to lie to you, and be ok with it.</h3>
+<p>Everyone rationalizes things.  It seems to be our default decision process.  If your friends and loved ones seem to be lieing about their reasons for things, it may simply mean that they are human.  It’s quite possible that they don’t even realize it.</p>
+
+<p>Rather than fighting each one of the thousand-headed beast of renewable arguments, its seems best to either <strong>let the decision be</strong> or to bring discussion to humanity’s faulty decision creation modes.  </p>
+
+<h3 id="lesson-2-because-i-feel-like-it-is-often-the-correct-answer">Lesson #2: “Because I feel like it” is often the correct answer.</h3>
+<p>It’s often the truth, and making up reasons for things could sometimes
+be counter-productive, especially when you’re not sure those reasons
+exist.  Intuitions can be incredibly good, especially in disciplines of
+tight feedback in areas that one has practice in.  This is discussed
+thoroughly in the book <a href="http://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990/ref=sr_1_1?ie=UTF8&amp;qid=1379537330&amp;sr=8-1&amp;keywords=how+to+decide">How We Decide</a>.</p>
+
+<h3 id="lesson-3-get-better-at-rationality">Lesson #3: Get Better at Rationality</h3>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cost Benefit Analysis of Blogging]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/25/cost-benefit-analysis-of-blogging/"/>
+    <updated>2013-09-25T20:58:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/25/cost-benefit-analysis-of-blogging</id>
+    <content type="html"><![CDATA[<p>Recently I’ve written a short stream of short posts.  They take quite a
+while (2-8 Pomodoros each), so I’ve been trying to figure out how useful
+they really are.  Here are some costs and benefits I’ve come up with.  I
+realize that typically only a few will carry the vast majority of the
+importance (see the <a href="http://en.wikipedia.org/wiki/Pareto_principle">Pareto Principle</a>) so have indicated my impressions of the size of each one.</p>
+
+<h3 id="benefits">Benefits</h3>
+<ul>
+  <li>Idea Dissemination<br />
+Take my ideas from inside my head and provide
+them for the world!  The obvious reason for blogging.  Can be somewhat
+measured by tracking visitors, reading comments, and talking to readers.  </li>
+  <li>Online Credibility<br />
+I find that reading someone’s blog is one of the best ways to know
+them, particulary if they are an introvert.  Blogging is a good way to
+show others that you’re generally thoughtful and intelligent.</li>
+  <li>Experience Writing<br />
+Writing is a useful skill to have, and practice makes one better.
+With blogs there is some feedback as well as a clear incentive to
+improve.  Blog writing seems quite similar to book writing and report
+writing, which are two fields that a lot of important people seem to
+need.<br />
+I could probably improve this a lot by focussing in on each of the
+following.
+    <ul>
+      <li>Quality<br />
+  If I’m spending 4 hours writing a post, it may make sense to
+spend $5-$20 (ODesk perhaps) on an editor, mainly for the feedback to improve it.  This
+may also take another 1-3 hours per post.
+  I assume I could measure quality improvement by going back to my
+old essays and seeing if they are obviously worse.  If not, perhaps I
+haven’t improved.</li>
+      <li>Speed<br />
+  Recently I have been measuring the number of Pomodoros my
+writing has taken me.  I’ll try to post future numbers along with
+future posts.    </li>
+    </ul>
+  </li>
+  <li>Personal Reference<br />
+I would like to keep track of what I know.  I could somewhat measure
+this by keeping track of how often I actually go back to read previous
+material.  So far the answer is not often for the vast majority, but
+occationally for the most important papers.  Much of the reference seems
+only useful so far as for me to see if I’m improving as a writer, for
+reasons mentioned above.</li>
+</ul>
+
+<h3 id="costs">Costs</h3>
+<ul>
+  <li>Time to Write (Opportunity Cost)<br />
+My workflow with Octopress is somewhat complicated, and as of now it
+takes me at least 2 Pomodoros (one hour of intense concentration) to
+write a small post.  My previous on on the Epistemologies of Effective
+Altruist Groups took me a good 4-6 hours to write, effectively the most
+productive part of my Saturday.  I stopped tracking Pomodoros for a
+while as I started grinding (this is normally a bad idea in my
+experience).  This definitely was far more than I was expecting and I
+could have gotten a lot of work done for 80,000 Hours in that time.<br />
+I estimate that so far my blog (this specific one, not my old one) has
+taken me about 20 hours to set up and about 15 hours to write on (around
+7 posts in that time).  If my time is worth $50 an hour, that means that
+this cost me almost $2k so far.  I’m currently very low on money so this
+is a lot to me.</li>
+  <li>Time to Socialize (Opportunity Cost)<br />
+I split this up for transparency and because it’s not very obvious.  I
+find that so far for each blog post I write, I tend to spend at least
+30 minutes to 2 hours checking &amp; replying to comments, seeing Facebook
+likes, and looking at Google Analytics.  I could reduce this with
+discipline.  One reason why I’m worried about changing to LessWrong is
+that I may spend a lot of time replying to comments there (it would seem
+rude not to).  </li>
+  <li>Attention<br />
+When I’ve been blogging I’ve noticed that I’ve thought a lot about new
+topics.  This attention is incredibly hard to quantify.  I expect it
+isn’t too important to consider here, because these seem like good
+things for me to come up with anyway.</li>
+</ul>
+
+<h4 id="analytics">Analytics</h4>
+
+<p>Total readership is easy to measure using Google Analytics.  It is much
+harder to measure what kinds of readers these people were and especially
+difficult to understand if these posts have influenced behavior at all.</p>
+
+<p><a href="http://www.google.com/analytics/">Google Analytics</a> has some useful
+information. 
+<img src="http://ozziegooen.com/assets/posts/blog_overview_ga.png" alt="Blog Overview" /></p>
+
+<p><img src="http://ozziegooen.com/assets/posts/blog_list_ga.png" alt="Posts Overview" />
+<img src="http://ozziegooen.com/assets/posts/individual_post.png" alt="Post Overview" /></p>
+
+<h3 id="blog-feedback">Blog Feedback</h3>
+
+<h2 id="costs-1">Costs</h2>
+
+<h3 id="time">Time</h3>
+
+<h2 id="cost-benefit-ratios">Cost Benefit Ratios</h2>
+
+<h2 id="should-others-blog-more">Should Others Blog More?</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Epistemology as the ultimate Deus Ex Machina]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/21/epistemology-as-the-ultimate-deus-ex-machina2/"/>
+    <updated>2013-09-21T17:52:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/21/epistemology-as-the-ultimate-deus-ex-machina2</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Superhero: “Good job mate, another successful victory.”<br />
+Sidekick: “But didn’t a fire just kill everyone we were trying to
+save?”<br />
+Superhero: “True, but I’ve improved my epistemology and now consider
+this to be a win condition.  Think of the animals that can flourish in
+the lack of human intervention.”</p>
+</blockquote>
+
+<p>One problem that plagues the existing Effective Altruism movement is a
+strange kaleidoscope of epistemic standards.  It comes out that the
+“most effective ways to improve the world” is a surprisingly (to me
+at least)
+controversial discipline, even within utilitarianism.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Navigating the Epistemologies of Effective Altruism]]></title>
@@ -43,7 +195,7 @@ as groups also trying to “do the most good” within charity evaluation
 emerged to somewhat compete with them.</p>
 
 <p>GiveWell is reluctant to investigate animal welfare charities, seemingly
-because its founders value animals <a href="http://blog.givewell.org/2010/12/27/animal-welfare-charities/">substantially less than humans</a>.  Other people have decided that animals are worth more in respect to humans than Givewell has indicated, and some of these have set up a “GiveWell for Animals”, or <strong><a href="http://www.effectiveanimalactivism.org/Evaluation">Effective Animal Altruism</a></strong>.  <strong>Aidgrade</strong> was established a semi-Givewell competitor and disagrees with them about the <a href="http://www.aidgrade.org/uncategorized/some-friendly-concerns-with-givewell">proper methods to do charity evaluations</a>.</p>
+because its founders value animals <a href="http://blog.givewell.org/2010/12/27/animal-welfare-charities/">substantially less than humans</a>.  Other people have decided that animals are worth more in respect to humans than Givewell has indicated, and some of these have set up a “GiveWell for Animals”, or <strong><a href="http://www.effectiveanimalactivism.org/Evaluation">Effective Animal Activism</a></strong>.  <strong>Aidgrade</strong> was established a semi-Givewell competitor and disagrees with them about the <a href="http://www.aidgrade.org/uncategorized/some-friendly-concerns-with-givewell">proper methods to do charity evaluations</a>.</p>
 
 <h2 id="effective-altruism-funders">Effective Altruism Funders</h2>
 <p>Then come the more somewhat high-risk meta-charities that promote
@@ -120,7 +272,7 @@ mentioned, so probably am quite biased.  I am presently
 working at 80,000 Hours, which is based in the same office as Giving
 What we Can, The Center For Effective Altruism, and The Future of Humanity
 Institute.  Recently I applied to and was rejected from
-working at Leveraged Research.</p>
+working at Leverage Research.</p>
 
 <h3 id="blog-efficiency">Blog Efficiency</h3>
 <p>This post took me about 5 hours to write. I ended up splitting my
@@ -1143,97 +1295,6 @@ Web Application Altruism/Power Diagram</p>
 
 <h2 id="conclusion">Conclusion</h2>
 <p>In conclusion, I think this may present an interesting model from which to build on.  It would be very interesting to make this quantitative, but realize that it would be very complicated.  Similar models could be made for businesses, organizations, etc.  This also doesn’t discuss what other people want to see; only what you are willing to show them. One of my goals with Feedhaven is to minimize both of these inefficiencies. Hypothetically, all of the information available to you (no matter the app) could have one generalized retrieval system.  In addition, one could imagine systems whereby it were incredibly simple and elegant to split up friends into tiny groups and to edit settings for each one.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What 'value' should mean]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/26/what-value-should-mean/"/>
-    <updated>2013-03-26T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/26/what-value-should-mean</id>
-    <content type="html"><![CDATA[<p>I would begin this post by stating that ‘value’ is one of the most mis-interpreted words in this era, except for the abysmally poor interpretation of all words, ever.  </p>
-
-<p>The fact is that ‘values’ are really important if you define them correctly.  I think that most versions of the term are bit wrong, so I’ll try to give my shot at what a “value” is. </p>
-
-<blockquote>
-  <p>Value: A general concept that is associated with ‘goodness’.</p>
-</blockquote>
-
-<p>This is a minor variation on that of Dictionary.com’s, which is:  </p>
-
-<blockquote>
-  <p>Noun. ”The regard that something is held to deserve; the importance or preciousness of something: “your support is of great value”.”  </p>
-</blockquote>
-
-<p>With either of these definitions it seems difficult to say that “values” have declined at all, contrary what our stereotype of old grumpy people would argue.  Only that they have changed.  </p>
-
-<p>Interestingly, people have studied the science behind memes (or ideas), but to my knowledge, values haven’t been looked at too much.  (Even meme science is still a relatively esoteric field for some reason).  The way I look at them, values are constructed from ideas.  Ideas are something of the brick to value’s buildings.  The ideas are important, but often they are hard to understand without seeing the bigger picture.  I believe that in comparison, values represent the bigger picture.  This means that instead of looking at the profile of ideas (or, the ‘meme-space’) regarding a group of people, a more useful map would be to pay attention to the values. </p>
-
-<p><strong>Values guide people.</strong>  Values choose the different ideologies of Republicans and Democrats.  I imagine that changes in values map more directly in the actions of organizations than changes those of ideas or personal qualities.  A fundamental structure in the background of social organizations is their variance of specific values.  </p>
-
-<p>For example, look at Bill Gates compared to Larry Ellison.  They may have similar ideas in their heads, but what’s really important right now are their differences of values.  I’m not saying that Bill Gates is more altruistic, but that his greater value of specific types of semi-charitable actions has led him to pursue those things to a great extent.  Larry Ellison has a different set of values, and lives accordingly.  Obviously he does not value open source software too much, if he did, that could make a dramatic change in the direction of Oracle.  </p>
-
-<p><strong>Values can have positive feedback.</strong>  If you lightly value baseball, you may join a baseball team, where you will be surrounded by positive memes and associations to go with baseball.  You value it more, and gradually fall down the rabbit hole, considering more importance to what may otherwise be a somewhat trivial game, than to anything else in life.  You might have similar skill sets (besides some new muscle memory in Baseball), similar intelligence, etc, as other people, but your value system will put you in an incredibly different situation.  </p>
-
-<p>Hitler and Winston Churchill were probably quite similar in most regards.  They probably knew much of the same history.  They both got enjoyment from sweetness and fat, both had to sleep every night.  However, their value systems were different in a few key areas, and combined with their incentive systems, they were opposite heads of a way.  </p>
-
-<p>Perhaps there is much more variation in human values than human genes, and if so it may be more worthwhile to emphasize spreading your values more than your genes.  </p>
-
-<p>This is a really messy subject.  I’ll come back to it later.  Most of the interesting work may come in future posts, but I wanted to define this a bit.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Internet is "Real Life"]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/13/the-internet-is-real-life/"/>
-    <updated>2013-03-13T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/13/the-internet-is-real-life</id>
-    <content type="html"><![CDATA[<p>The idea that the physical world some of us normally live in is “real” in any objective or absolute sense is a bit out of date and silly.  It seems like there’s a decent chance we may be in a <a href="http://news.discovery.com/space/are-we-living-in-a-computer-simulation-2-121216.htm">simulation</a>, and likely a greater chance we’re “in” something we couldn’t understand or comprehend if we were to find evidence for it.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/03/avatar.jpeg"> <img src="http://bowlabs.files.wordpress.com/2013/03/avatar.jpeg?w=249" alt="Image" /> </a></p>
-
-<p>So <strong>I’m sick of people considering online living as absolutely inferior to “physical” living</strong>.</p>
-
-<p>There are some <a href="http://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463/ref=sr_1_1?ie=UTF8&amp;tag=libraryextension-20&amp;camp=211189&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=0465031463">valid reasons</a> for how people sometimes use specific technologies to unintentionally alienate and permanently damage themselves.  But these are specific to our existing state and definitely not to “all of technology” or the entire concept of the internet.  Intellectuals used to warn that people were absorbed in the artificial world of books which were tearing them from “reality”.  Now books are associated with goodness and intellect so no one really cares any more.  The same has yet to happen to the internet.</p>
-
-<p>Gamers sometimes facilitate this illusion by using the term “IRL” (In Real Life) to refer to the non-gaming world.  I think this may be a destructive term.  The world they are referring to may not be less real than the one they are in, only something very different.  </p>
-
-<p>This does leave the awkward question of what to exactly call this plane of existence.  It seems strange to call it a reality, unless one considers ‘reality’ a loose term that is expanded to online universes and ones we don’t know about.  Comic writers used the word “universe” to discern the places between different stories, but this signifies them as non-combining entities, while the ‘realities’ I’m referring to often take place somewhat inside each other.  I’m sure this is one bit that went into the term IRL as not a definitive one but as something people will use until someone can come up with something better.</p>
-
-<p>One awesome quote from Wikipedia:  </p>
-
-<blockquote>
-  <p>“Some  <a href="http://en.wikipedia.org/wiki/Sociologist" title="Sociologist">sociologists</a> engaged in the study of the Internet have predicted that someday, a distinction between online and real-life worlds may seem “quaint”, noting that certain types of online activity, such as sexual intrigues, have already made a full transition to complete legitimacy and “reality”. <a href="http://en.wikipedia.org/wiki/Real_life#cite_note-Slater-2">[2]</a>”  </p>
-</blockquote>
-
-<div class="video-container">
-	<iframe width="853" height="480" src="http://ozziegooen.com//www.youtube.com/embed/n-M4kPxd03k" frameborder="0" allowfullscreen=""></iframe>      
-</div>
-<p><br /></p>
-
-<p>Note: A few weeks after writing this post I read more into <a href="http://watch.tpbafk.tv/">“Away from Keyboard”</a>, which I think is an appropriate term.  However, I prefer “meatspace”.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bringing all things down to Wikipedia's level]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/"/>
-    <updated>2013-03-13T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level</id>
-    <content type="html"><![CDATA[<p><img src="http://ozziegooen.com/assets/posts/wikipedia.png" alt="wikipedia" />
-You’ve probably heard of several stories of people posting false information on Wikipedia.  It seems to be the number one type of story I hear about Wikipedia.  And these stories are used to explain why we shouldn’t be allowed to site Wikipedia or pay much attention to it as our primary source of knowledge.  </p>
-
-<p>The trouble with this thinking is that most people seem to pay less attention to the stories of poor academic writing, or news articles, or just about every other thing written in any language ever.  </p>
-
-<p>Wikipedia acknowledges that <a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer"> it has problems with accuracy</a>.  Most other groups have similar problems, but many won’t say so, for obvious reasons. </p>
-
-<p>My main fear is that universities and organizations ban Wikipedia references as a way to feign truth where little exists.  The stark reality, from my perspective, is that the vast majority of information all of us see is misrepresented, incomplete, false, and irrelevant.  People, journalists, scientists, often tell stories instead of facts, and even the facts are carefully chosen (though not always intentionally).  Bias is absolutely everywhere and so far Wikipedia seems to be the best item, to my knowledge, to try to counter it.  It’s a tiny attempt in comparison to the size of the problem, but it seems unfortunate to pin it as the enemy. </p>
-
-<p><strong>I think that people like to use Wikipedia as a scapegoat and shove it under a bus.  But the problem isn’t Wikipedia, the problem is the inherently biased nature of humanity and lack of care or infrastructure to address this.</strong> </p>
-
-<p>So I agree that Wikipedia is uncertain.  But it’s probably much better than what’s in my head currently about almost everything ever.  I think we need to just admit that most of what we know is very flawed and accept that all communicated and known information is imperfect, because it is.  Incredibly so.</p>
 ]]></content>
   </entry>
   
