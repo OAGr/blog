@@ -13,19 +13,19 @@ sentence for example I felt the need to write "I find" to point out
 uncertainty, for example.
 
 First, people are really bad at agreeing on probabilities.  So if I say
-something is "very certain", that could mean **80% chance + ** to me and
-**95% chance +** to you.  This is rigorously explained in the [Failure
+something is "very certain", that could mean 80% chance  to me and
+95% chance to you.  This is rigorously explained in the [Failure
 of Risk Management](http://www.amazon.com/Failure-Risk-Management-Broken-ebook/dp/B0026LTMAU/ref=la_B001JSJHIS_1_2?s=books&ie=UTF8&qid=1380144451&sr=1-2) (by the same author from How to Measure Anything), where it is explained further to say that this is especially true of risk managers.  
 
 Second, there aren't too many words to use to indicate uncertainty.  I
 find that I need to repeat the same ones over and over again.  And when
 they are used, these words can be quite wordy and confusing.   
 
-- ** I think ** that
-- ** In my opinion **
-- It **makes sense ** that
-- There aren't **too** many things
-- **Perhaps, **
+- *I think* that
+- *In my opinion*
+- It *makes sense* that
+- There aren't *too* many things
+- *Perhaps,*
 
 Several years ago some people made the language [E-Prime](http://en.wikipedia.org/wiki/E-Prime) in large part
 to make this uncertainty crystal clear.
@@ -35,9 +35,9 @@ Some scholars advocate using E-Prime as a device to clarify thinking and strengt
 While I do intend to look more into E-prime, it seems like a bit much to
 use on a regular level.
 
-## A Possible Solution
+## A Possible (Written) Solution
 I propose that we instead use a symbol at the end of our sentences or
-propositions to indicate the uncertainty.  
+propositions to indicate uncertainty.  
 
 ### Choosing the Levels
 A scale would have to be created of course in order to indicate what these levels are.  My guess
@@ -59,16 +59,21 @@ with ASCII characters, if not the english keyboard.  Here are some
 possibilities.  Each is shown to be representative for a level of 4/5,
 according to a scale similar to what is shown above.
 
-- The next president will be republican.
-- The universe is expanding.4*
+#### Non-Numberic forms
 - The universe is expanding.''''
 - The universe is expanding.````
-- The universe is expanding (~4).
-- The universe is expanding. &#96;4
 - The universe is expanding.&#96;
 - The universe is expanding. &#183;&#183;&#183;&#183;
-- The universe is expanding. 
-- The universe is expanding. 
 
+#### Numeric Forms
+- The universe is expanding. &#96;4
+- The universe is expanding.4*
+- The universe is expanding (~4).
+- The universe is expanding (c~4).
+- The universe is expanding (?4).
 
+My personal favorite at this point is to have a number in parenthesis,
+with a symbol for indication (like the "c" or "?").  From here on in
+this post I will attempt this.  The dashes are be
+difficult to read and more confusing to newcomers (c3).   
 [HTML Codes Reference](http://www.ascii.cl/htmlcodes.html)
