@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-09T20:46:00+01:00</updated>
+  <updated>2013-10-13T02:44:43+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,225 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Formalizing Transparency]]></title>
+    <link href="http://ozziegooen.com/blog/2013/10/12/formalizing-transparency/"/>
+    <updated>2013-10-12T00:00:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/10/12/formalizing-transparency</id>
+    <content type="html"><![CDATA[<p><img src="http://www.pxleyes.com/images/contests/everything-fish-3/fullsize/Transparent-Fishes-517a55fb068d7_hires.jpg" alt="" /></p>
+
+<h1 id="formalizing-transparency">Formalizing Transparency</h1>
+<p>#### Ozzie Gooen on Oct 14, 2013  </p>
+
+<h2 id="introduction--why-i-wrote-this">Introduction / Why I Wrote This</h2>
+<p>The charity sector has made a <a href="http://www.transparency.org/">big</a> <a href="http://www.forbes.com/sites/emc/2013/08/29/givewell-how-data-transparency-leads-donors-to-better-charitable-giving/">deal</a> out of ‘transparency’ recently.  Here at <a href="http://80000hours.org/">80,000 Hours</a> (I work there now) there’s a lot of talk about how we and similar organizations could become more ‘transparent’.  One discussed aim is to be more ‘transparent’ than <a href="http://givewell.org/">Givewell</a>, which in general is the gold standard of ‘transparency’ within the small field.  </p>
+
+<p>I’ve had discussions with many people who had many ideas on this topic.  Eventually it dawned on me that I had little idea of what ‘transparency’ even meant.  On
+further reflection, I don’t think many of these people did either.  Some
+organizations have quantized transparency indexes into rubrics (<a href="http://www.bicusa.org/wp-content/uploads/2013/01/WBG+Transparency+Scorecard.pdf">see that
+for the World Bank</a>, for example), but it wasn’t obvious what the rubrics were trying to estimate.  I desired an ideal quantification of transparency that can be approximated in rubrics, rather than rubrics that match a general intuitive understanding of transparency.</p>
+
+<p>I should also be clear that I am extremely demanding in what I want in
+definitions.  I’m an engineer by training, I want to work with things I
+can quantify and model in the same ways I do Force and Velocity.
+Important ideas considered currently ‘soft’ or non-technical feel like challenges to
+define better.  I realize that actual measurements may be extremely
+difficult, but this doesn’t mean that we can’t make estimates of
+substantial value.  This definition attempt is me attempting to take my
+intuitive understanding of this word ‘transparency’ and match it to
+something technical and clear.</p>
+
+<p>I don’t claim to have solved this problem, but I believe I’ve taken a
+few interesting steps.  Hopefully we will eventually create a
+transparency rubric for effective altruist organizations, and I now have
+a much better understanding to begin with.</p>
+
+<h2 id="definition">Definition</h2>
+<p>Quite simply, I am currently using the working model that transparency
+is defined as,
+&gt; The total expected value of information delivered by a system, about itself.</p>
+
+<p>I believe this definition is intuitive and <em>almost</em> quantifiable.
+The use of this definition should lead to more clarity regarding the
+term.</p>
+
+<p>While I believe that this definition almost captures the ‘essence’ of
+what we mean as ‘transparency’, I also believe that a thorough
+evaluation of this essence leads to several facts that may be quite
+unintuitive.</p>
+
+<h2 id="information-quality-and-accessibility-are-more-important-than-quantity">#1: Information quality and accessibility are more important than quantity.</h2>
+
+<h3 id="a-few-thought-experiments">A few thought experiments</h3>
+
+<p><strong>1.</strong>  <a href="http://en.wikipedia.org/wiki/Robert_Shields_(diarist)">Reverend Robert Shields</a> had a diary of 37.5 million words.  The following is an example:
+&gt;
+&gt;  * April 18, 1994 <br />
+&gt;      * 6:30-6:35: I put in the oven two Stouffer’s macaroni and cheese at 350°.
+&gt;      * 6:35-6:50: I was at the keyboard of the IBM Wheelwriter making entries for the diary.
+&gt;      * 6.50-7.30: I ate the Stouffer’s macaroni and cheese and Cornelia ate the other one. Grace decided she didn’t want one.
+&gt;      * 7.30-7.35: We changed the light over the back stoop since the bulb had burnt out.</p>
+
+<p>Every detail of Roberts’ thoughts seems to be burried within this
+text.  Does this make him completely transparent?  Would this change
+depending on the format (physical book, online pdf, online spreadsheet)?</p>
+
+<p>Compare that to Stephen King who published <a href="http://www.amazon.com/On-Writing-ebook/dp/B000FC0SIM/ref=sr_1_1?ie=UTF8&amp;qid=1381602103&amp;sr=8-1&amp;keywords=on+writing">On Writing</a>, a rather short
+(320 page) autobiography and set of lessons he learned through that
+time.  Would Stephen King have been more <em>transparent</em> had he instead
+wrote down his life information minute by minute?</p>
+
+<p><strong>2.</strong> Say there were a ‘perfect’ and ‘perfectly trusted’ being who evaluated
+nonprofits.  They would rate them a ‘1’ if the nonprofit was the “best”
+nonprofit, and a ‘0’ otherwise.  Rather than having any mention of what
+they do, many nonprofits decide to only display this number on their
+website (it would be a very simple website, perhaps with a url chosen to
+obfuscate their cause, like charity34234235.com).  Are these charities
+being transparent to those trying to find the “best” charity?  Could
+they possibly be more so?</p>
+
+<h3 id="my-take">My Take</h3>
+<p>‘Transparency’ is only loosely associated with the amount of information
+available.  It doesn’t matter how much information is available if it’s
+useless, and extra information could easily lead to obfuscation of what
+matters.  </p>
+
+<p>When asking for a important organization details about different
+charities, I hear a lot of “Oh, we mentioned in the middle of a blog
+post a few months ago.”  The conversation typically ends there.  But on
+reflection, this information being difficult to find may be much more
+important than the fact that it exists somewhere.  The vast majority of
+people who may be interested in it will never access it.  I’m fortunate
+to be in a place where I can physically speak to many of the knowledge
+experts.  Most people aren’t.</p>
+
+<h2 id="transparency-is-typically-relative-to-a-specific-purpose">#2: Transparency is typically relative to a specific purpose.</h2>
+
+<p>If a charity had complete financial records of absolutely all expenses
+and revenues, would it make it completely transparent?  What if it had
+this material presented cleanly with pretty graphs and signatures from
+several top accountants who have thoroughly reviewed it and are willing
+to cite it as clean and it’s filed taxes as completely legal?</p>
+
+<p>This is a bad question because “transparency” isn’t well defined.  This
+organization may have amazing financial transparency, or transparency
+for the purpose of understanding if it is partaking in sketchy or
+illegal accounting practices.  But this is clearly a different kind of
+accountability than most potential donors would hope for.  Many
+registered charities are required by law to have their main finances
+accessible on their websites, but this does not make them incredibly
+transparent.  Most people would have little idea or interest to read
+such documents.  </p>
+
+<p>It’s obvious that there are different “types” or transparency, but I’ll
+clarify that to say there are different “purposes” for transparency to
+provide.  There’s the “purpose” of transparency to understand if a
+nonprofit is committing financial fraud. There’s the “purpose” of
+transparency to understand if a nonprofit is effective vs. other
+nonprofits when it comes to cause-neutral returns,  or
+local town benefits, or social status improvements.</p>
+
+<p>There’s just no such thing as an organization being objectively
+“transparent”.  “Transparency” <em>only</em> exists in relation to a specific
+purpose. </p>
+
+<p>Going further, it seems like what we think of as “transparency” can be
+narrowed down to something similar to the <a href="http://en.wikipedia.org/wiki/Value_of_information"><em>value of information</em></a> for specific decisions.</p>
+
+<h3 id="separating-global-transparency-from-local-transparency">Separating ‘Global’ Transparency from ‘Local’ Transparency</h3>
+
+<p>While transparency typically refers to specific purposes, this doesn’t
+mean that the total amount of transparency that an organization is
+unbounded with an infinite number of possible purposes.  Rather I assume
+that there are probably a few purposes that could bring the
+substantial majority of benefit.  For instance, a 1-year old child’s
+communications would provide informational of tremendous value to their
+own health and their parent’s wellbeing.  These could also be used to
+provide interesting data in larger studies, but the value from one
+individual baby on these may be much less in comparison.  It could also
+provide moderate interest to a person considering later having a child,
+but this would be considerably less value potential still.</p>
+
+<p>So a ‘total transparency’ score may be able to be estimated based on the
+sums of the values from each type of transparency.  This adds complexity
+because it would seem to demand information about the decision maker
+categories <em>in relation</em> to each other.  Of course, these can be
+simplified a lot by just choosing the top three categories and having a
+basic ranking among them.</p>
+
+<p>This definition is not <em>too</em> different than the typical intuitive one.
+A banking organization would be seen as transparent primarily if it
+provides useful information that the government is looking for, and this
+information value is likely far more than that of most other domains.  </p>
+
+<h2 id="transparency-includes-marketing-and-branding">#3: Transparency includes marketing and branding.</h2>
+<p>I’ve heard a lot of business and nonprofit pitches.  They are almost
+universally completely positive about themselves.  </p>
+
+<p>The “business pitch” is exactly the antithesis of a “transparency report” or
+“self-evaluation” of any kind.
+Clearly, prospective donors would get more “value of information” from a completely unbiased and honest opinion than a sales pitch.  But should we judge these pitches when analyzing an organization’s ‘transparency’?  Or should “marketing materials” be held exempt from any ‘transparency’ analyses?  </p>
+
+<p>My uncomfortable answer is no.  Good business pitches are bad
+transparency.  It’s a sacrifice that we seem to be willing to endure,
+perhaps that we should.  If this means that essentially no organization
+can be completely transparent, then so be it.</p>
+
+<h2 id="negative-transparency-is-possible-and-common">#4: Negative transparency is possible and common.</h2>
+<p>If transparency is related to the value of information provided, then 0
+transparency would mean 0 information.  There is definitely information
+that is <em>worse</em> than 0 information, especially to regular people (as
+opposed to rational super-beings).  </p>
+
+<p>A simple example is smoking.  Someone goes to a website to learn
+information about smoking, and the website claims authority while
+selectively providing evidence for smoking.  The information to the
+reader results in a higher likelihood of making a worse decision, so
+this information would have substantially negative value.  </p>
+
+<p>Likewise, if a nonprofit could use a terrible argument to convince an
+otherwise unbiased individual to donate to a worse cause then they would
+have otherwise (“wow, apparently visits to local prisons has been shown
+to scare select children from committing crimes!”), then that
+information has provided them with negative value.  </p>
+
+<h2 id="internal-transparency-is-often-more-important-than-external-transparency">#5: Internal transparency is often more important than external transparency</h2>
+
+<h2 id="transparency-should-be-judged-as-a-comparison-to-optimality-rather-than-as-an-absolute-value">#6: Transparency should be judged as a comparison to optimality rather than as an absolute value.</h2>
+<p>So far I’ve stated that transparency relates to the value of information
+provided by an system.  Yet, large organizations can easily provide
+extra informational value through their scale as opposed to anything we
+would associate with transparent efforts.  It seems intuitive that small
+groups should have a “fair playing ground” in comparison.</p>
+
+<p>I think that as opposed to thinking of transparency as directly relating
+to the absolute value of information provided, it makes more sense to
+think of it in an ‘percentage of optimal’ sense than a ‘total benefit’
+one.  This way when we say an organization is doing a ‘good job’ being
+‘transparent’, it will always mean that they’re doing relatively well
+given what they are capable of.  </p>
+
+<p>A percentage of optimality seems a bit depressing as I’m sure that
+‘optimal information value’ would be orders of magnitude higher than
+what most, if any, organizations currently provide.  So perhaps rather
+than being compared to optimality, organizations can and should be
+compared to a bar significantly lower and more realistic.  Perhaps
+different standards should created with top bars at different amounts
+of optimality.  For instance, most existing transparency rubrics that
+I’m aware of probably are quite far from ‘optimal’, but still are quite
+useful and likely would correlate decently well with my working
+definition of transparency.</p>
+
+<p>It should also be noted that because of diminishing marginal returns,
+reaching completely ‘optimal’ transparency, or anything like it, would
+likely reduce the efficiency of an organization towards its main goal.
+Or, an organization seeking anything other than to maximize transparency
+will not and should not get near optimizing transparency.  Rather they
+should see that initially high benefits of transparency are worth some
+reasoned level of effort and achievement. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fighting the Shadow Zone]]></title>
@@ -1315,35 +1534,6 @@ Web Application Altruism/Power Diagram</p>
 <p><a href="http://bowlabs.files.wordpress.com/2013/04/ideal.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/ideal.png?w=300" alt="The economic near-ideal" /> </a>  </p>
 
 <p>Here companies aren’t defined by how good they are trying to be, but by how much their selfish actions are correlated with altruistic ones.  Here the decision is much more about deciding what kind of company to make (and for outsiders, deciding rules and publicity), then deciding what features to implement.  Yet it also may mean that the more altruistic people will favor industries where this correlation is high, leaving other industries as easy prey for less idealistic people.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
-    <link href="http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem/"/>
-    <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem</id>
-    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
-
-<p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
-
-<p><strong>Feedhaven Instances</strong><br />
-  In this case a Feedhaven Instance / Server is shown to the right.  A user can set up their own Feedhaven instance, or can use a company’s hosted instance (like <a href="http://feedhaven.com">Feedhaven.com</a>).  This instance is in charge of providing a GUI for the information, storing data on users, handling API keys, and handing the standard Feedhaven data.  This should be able to work on many NoSQL databases, though we plan to begin with MongoDB. </p>
-
-<p><strong>Authentication</strong><br />
-  Mozilla Persona seems like a good fit for authentication, especially because it can be standardized among all Feedhaven instances and applications.  Hypothetically Persona could provide proof that an application has confirmation from a user (to send to other applications), but I’m not sure how this would work.  It’s also open source, distributed, easy to set up, and quite minimal.  With Persona integration in the browser, log-in may eventually be a relatively easy thing.  </p>
-
-<p><strong>Data Validation</strong><br />
-  Hypothetically all items and feed data would be validated with external JSON schemas with version numbers.  I imagine that for large amounts of data the schemas would have to be cached, and it may be that validation isn’t required, but is possible with an extra function.  </p>
-
-<p><strong>Simple Translation Apps/ Simple Feedhaven Apps</strong><br />
-  The idea for this is that users can create API keys with specific permissions at their Feedhaven Instance.  Then this can be given to an external application to allow them to access Feedhaven data without registering with Feedhaven.  Applications that do this would have restricted API call allowances, but this should be fine for many apps.  This is how many major APIs already work; with API tokens for some apps that don’t have to register. These simple apps could do things like read emails from Gmail, convert them to a common email format, and send these to a specific Feedhaven Feed.  They could write or delete specific feeds, and read new common emails from these feeds and then send them off to Gmail.  Whether the app does polling or subscribing to access this content from Feedhaven would be up to the application.  In addition, these apps can be used to just view Feedhaven data. </p>
-
-<p><strong>Translation Manager Apps</strong><br />
-  There are hundreds of thousands of applications to talk to, and much of the code to translate each and send/receive to Feedhaven will be the same/similar.  I would imagine/hope that platforms could exist that could accept hundreds or thousands of snippets for conversion with different apps and schemas, and run them as needed. For this, rather than using a standard API token, these apps would have to register directly to each Feedhaven instance.  This should be standardized and done via API calls, when needed. </p>
-
-<p><strong>Future Development</strong><br />
-  Of course, the system still needs to be built. The idea is that ecosystem would be fully modular so each part could be built independently based on well defined interfaces.  However, this will take a lot of trial and error as the interfaces are changed based on the workings of the components.  Updates will come at this blog.</p>
 ]]></content>
   </entry>
   

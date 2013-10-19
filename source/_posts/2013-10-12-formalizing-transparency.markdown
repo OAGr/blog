@@ -1,11 +1,10 @@
----
-layout: post
-title: "'Formalizing Transparency'"
-date: 2013-10-12 17:22
-comments: true
-categories: 
----
-## Introduction
+![](http://www.pxleyes.com/images/contests/everything-fish-3/fullsize/Transparent-Fishes-517a55fb068d7_hires.jpg)
+
+#Formalizing Transparency
+#### Ozzie Gooen on Oct 14, 2013  
+
+
+## Introduction / Why I Wrote This
 The charity sector has made a [big](http://www.transparency.org/) [deal](http://www.forbes.com/sites/emc/2013/08/29/givewell-how-data-transparency-leads-donors-to-better-charitable-giving/) out of 'transparency' recently.  Here at [80,000 Hours](http://80000hours.org/) (I work there now) there's a lot of talk about how we and similar organizations could become more 'transparent'.  One discussed aim is to be more 'transparent' than [Givewell](http://givewell.org/), which in general is the gold standard of 'transparency' within the small field.  
 
 I've had discussions with many people who had many ideas on this topic.  Eventually it dawned on me that I had little idea of what 'transparency' even meant.  On
@@ -19,7 +18,7 @@ can quantify and model in the same ways I do Force and Velocity.
 Important ideas considered currently 'soft' or non-technical feel like challenges to
 define better.  I realize that actual measurements may be extremely
 difficult, but this doesn't mean that we can't make estimates of
-substancial value.  This definition attempt is me attempting to take my
+substantial value.  This definition attempt is me attempting to take my
 intuitive understanding of this word 'transparency' and match it to
 something technical and clear.
 
@@ -33,7 +32,7 @@ Quite simply, I am currently using the working model that transparency
 is defined as,
 > The total expected value of information delivered by a system, about itself.
 
-I believe this definition is intutive and *almost* quantifiable.
+I believe this definition is intuitive and *almost* quantifiable.
 The use of this definition should lead to more clarity regarding the
 term.
 
@@ -84,7 +83,7 @@ post a few months ago."  The conversation typically ends there.  But on
 reflection, this information being difficult to find may be much more
 important than the fact that it exists somewhere.  The vast majority of
 people who may be interested in it will never access it.  I'm fortunate
-to be in a place where I can physically speak to many of the knoweldge
+to be in a place where I can physically speak to many of the knowledge
 experts.  Most people aren't.
 
 ## #2: Transparency is typically relative to a specific purpose. 
@@ -107,8 +106,8 @@ such documents.
 
 It's obvious that there are different "types" or transparency, but I'll
 clarify that to say there are different "purposes" for transparency to
-provide.  There's the "puprose" of transparency to understand if a
-nonprofit is committing financial froad. There's the "purprose" of
+provide.  There's the "purpose" of transparency to understand if a
+nonprofit is committing financial fraud. There's the "purpose" of
 transparency to understand if a nonprofit is effective vs. other
 nonprofits when it comes to cause-neutral returns,  or
 local town benefits, or social status improvements.
@@ -120,7 +119,7 @@ purpose.
 Going further, it seems like what we think of as "transparency" can be
 narrowed down to something similar to the [*value of information*](http://en.wikipedia.org/wiki/Value_of_information) for specific decisions.
 
-### 'Global' Transparency vs. 'Local' Transparency
+### Separating 'Global' Transparency from 'Local' Transparency
 
 While transparency typically refers to specific purposes, this doesn't
 mean that the total amount of transparency that an organization is
@@ -142,7 +141,7 @@ simplified a lot by just choosing the top three categories and having a
 basic ranking among them.
 
 This definition is not *too* different than the typical intuitive one.
-A banking organization would be seen as transparent primarilly if it
+A banking organization would be seen as transparent primarily if it
 provides useful information that the government is looking for, and this
 information value is likely far more than that of most other domains.  
 
@@ -168,7 +167,7 @@ opposed to rational super-beings).
 A simple example is smoking.  Someone goes to a website to learn
 information about smoking, and the website claims authority while
 selectively providing evidence for smoking.  The information to the
-reader results in a higher likelyhood of making a worse decision, so
+reader results in a higher likelihood of making a worse decision, so
 this information would have substantially negative value.  
 
 Likewise, if a nonprofit could use a terrible argument to convince an
