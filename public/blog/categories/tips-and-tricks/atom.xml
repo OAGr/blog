@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tips &amp; Tricks | Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/blog/categories/tips-and-tricks/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-13T02:44:43+01:00</updated>
+  <updated>2013-10-19T17:38:29+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -57,30 +57,6 @@ Obligatory average photograph of standard trophies</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Better Copy for $5 with Sentiment Analysis]]></title>
-    <link href="http://ozziegooen.com/blog/2013/02/27/better-copy-for-5/"/>
-    <updated>2013-02-27T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/02/27/better-copy-for-5</id>
-    <content type="html"><![CDATA[<p>From Mechanical Turk:
-&gt;  ”Whether you want to track sentiment of tweets for a new product release or monitor sentiment of posts in a customers forum, Mechanical Turk makes it easy to assess sentiment quickly so you can make informed decisions.”</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/02/screen-shot-2013-02-08-at-11-51-28-pm.png?w=922" alt="Sentiment Analysis on Mechanical Turk" /> </a>  </p>
-
-<p>Sentiment Analysis on Mechanical Turk</p>
-
-<p>The interface is relatively simple.  You pick  an item (a slogan, for example), a question (“rate how much you like this slogan”), and then upload a .csv file with a list of all the possible slogans you want to test out.  You can choose anywhere between 10-20 ratings for each, which we’ve found to give a pretty consistant response. We tried out this technique with several slogan ideas we were considering.  But before I show you the response, try guessing the order that people preferred the following list:
-- “Eyes Save Lives”
-- “Charity Done Right”
-- “Donate Without Paying”
-- “We Give You Superpowers”
-- “Help Things You Care About”
-- “Join the Mission, Save the World”</p>
-
-<p>Our first test included 15 titles, each which had 10 votes.  At $0.02 per vote, that’s $3.00 (plus a bit extra for using Turk), which is ridiculously cheap for market research. When all the votes come in, you can see an analysis that looks like this:</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[experiment - write for nobody]]></title>
     <link href="http://ozziegooen.com/blog/2013/02/25/experiment-write-for-nobody/"/>
     <updated>2013-02-25T00:00:00+00:00</updated>
@@ -97,6 +73,15 @@ Obligatory average photograph of standard trophies</p>
     <updated>2013-02-17T00:00:00+00:00</updated>
     <id>http://ozziegooen.com/blog/2013/02/17/books-are-essentially-free</id>
     <content type="html"><![CDATA[<p>Don’t let the price for a good book deter you.  The time it takes you costs significantly more.  And even after that, there’s likely a huge consumer surplus. Personally I can easily take 5-15 hours on one book.  If my time was worth $10 per hour, that would be a contribution of $50 - $150 of my time on that book.  A $10-$20 extra cost for the object itself is trivial in comparison.  If it’s worth the time, it’s definitely worth the cost. So how valuable is the book to me?  Unless I’m making a very wrong decision, it seems like it must at least be worth the time it takes me to finish it. One can compare this to the costs of private school.  Personally I didn’t get much from spoken lectures.  Few of them held my attention.  Instead I’d learn mostly from the books and my peers while doing the work.  Without the books, I would estimate that my college career would have been at least 1/3rd less valuable.  That could easily be worth over $80,000 based on my <a href="http://www.hmc.edu/academicsclinicresearch/catalogue1/catalogue-10111/admission-financial-aid1/expenses.html">college tuition</a> (for reference I did get financial aid, but the point is that someone paid for it, so to me it should have been worth that amount).  I’d estimate that I read around 14 books a semester at most, maybe 110 books total.  That comes out to about $720 per book.  Granted, many of these were textbooks, but it still seems obvious that there’s a huge consumer surplus here. But say that I expect a specific book to be worth $300, assuming it’s worthwhile to read.  Even if there’s a 10% chance I’ll read it, it’s still worth $30 to me. Maybe this brings up the issue of having a huge bookshelf of stuff that you’ve mostly never read. Many people seem to think that’s a bit dishonest, but that’s obviously missing the point in this case.  It’s just practical. That said it is possible that books aren’t worth the time, and that college education is over valued by over an order of magnitude.  That’s a much harder question, and if true, would change a lot more than your decision to purchase books or not.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hacking with Ear Protection Earmuffs]]></title>
+    <link href="http://ozziegooen.com/blog/2013/02/15/hacking-with-ear-protection-earmuffs/"/>
+    <updated>2013-02-15T00:00:00+00:00</updated>
+    <id>http://ozziegooen.com/blog/2013/02/15/hacking-with-ear-protection-earmuffs</id>
+    <content type="html"><![CDATA[<p>[caption id=”attachment_108” align=”alignnone” width=”922”] <a href="http://bowlabs.files.wordpress.com/2013/02/photo-on-2-15-13-at-2-59-pm.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/photo-on-2-15-13-at-2-59-pm.jpg?w=922" alt="Me with earmuffs over ear plugs" /> </a> Me with earmuffs over ear plugs in a coffee shop[/caption] Living in a house of <a href="http://www.risesf.com/" title="The Rise SF">18 people</a> can be quite loud, especially for someone working at home.  After going part insane I finally got some <a href="http://www.amazon.com/3M-Peltor-H10A-Optime-Earmuff/dp/B00009LI4K/ref=sr_1_8?s=hi&amp;ie=UTF8&amp;qid=1360969325&amp;sr=1-8&amp;keywords=headphones">professional earmuffs</a> to help deal with it.  I think they dampen sound by about 30dB, which is pretty good when paired with ear buds underneath.  Most earmuffs are marketed at gun hobbyists.  It’s a pity, because I bet there are a bunch more introverts out there who would find them more valuable. $30 for quiet, $20 if you can wait a few days for them to come from Amazon.  Highly recommended if you don’t mind the silly look.</p>
 ]]></content>
   </entry>
   

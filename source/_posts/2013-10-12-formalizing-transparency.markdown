@@ -1,8 +1,13 @@
-![](http://www.pxleyes.com/images/contests/everything-fish-3/fullsize/Transparent-Fishes-517a55fb068d7_hires.jpg)
+---
+layout: post
+title: "Formalizing Transparency"
+date: 2013-09-25 22:08
+comments: true
+categories: 
+header_pic: /assets/posts/transparency.png
+published: false
 
-#Formalizing Transparency
-#### Ozzie Gooen on Oct 14, 2013  
-
+---
 
 ## Introduction / Why I Wrote This
 The charity sector has made a [big](http://www.transparency.org/) [deal](http://www.forbes.com/sites/emc/2013/08/29/givewell-how-data-transparency-leads-donors-to-better-charitable-giving/) out of 'transparency' recently.  Here at [80,000 Hours](http://80000hours.org/) (I work there now) there's a lot of talk about how we and similar organizations could become more 'transparent'.  One discussed aim is to be more 'transparent' than [Givewell](http://givewell.org/), which in general is the gold standard of 'transparency' within the small field.  
