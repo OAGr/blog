@@ -3,9 +3,9 @@ layout: post
 title: "Fighting the Shadow Zone"
 date: 2013-09-28 00:15
 comments: true
-published: false
 header_pic: /assets/posts/ninja.png
 header_pic_text: shadow warrior, actually from GI Goe http://tastyburger.files.wordpress.com/2008/05/hr_gi_joe_storm_shadow.jpg
+published: false
 ---
 
 ### Lesson #1: Expect people to lie to you, and be ok with it.

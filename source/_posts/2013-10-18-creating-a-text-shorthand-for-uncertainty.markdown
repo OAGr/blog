@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Text Shorthand for Uncertainty"
-date: 2013-09-25 22:22
+date: 2013-10-18 22:22
 comments: true
 categories: 
 published: true

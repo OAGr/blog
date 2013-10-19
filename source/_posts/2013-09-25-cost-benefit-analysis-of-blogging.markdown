@@ -4,6 +4,7 @@ title: "Cost Benefit Analysis of Blogging"
 date: 2013-10-19 20:58
 comments: true
 categories: 
+published: true;
 ---
 
 Recently I've written a short stream of short posts.  They take quite a
@@ -97,7 +98,7 @@ estimate, but some of these are really difficult to estimate.
 ---
 
 #### Blog Efficiency
-This post took me approximately 3.5 Pomodoros to write and publish.
+This post took me approximately 3.5 Pomodoros to write and publish
 While writing it I started 2 other blog posts which I would like to soon
 finish (one of which took another 0.5 Pomodoros). This post is around 900 words, so this results in around 250 words per Pomodoro, or 10 words per minute.) One of these new blog posts includes
 details on my existing blog traffic to provide insight to some of the
