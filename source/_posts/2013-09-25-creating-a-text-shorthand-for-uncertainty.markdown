@@ -58,11 +58,11 @@ opposite way (50% to 0.01%).
 
 ### Choosing a Symbol
 I think that any representation of certainty would have to be achievable
-with ASCII characters, if not the english keyboard.  Here are some
+with ASCII characters, if not the English keyboard.  Here are some
 possibilities.  Each is shown to be representative for a level of 4/5,
 according to a scale similar to what is shown above.
 
-#### Non-Numberic forms
+#### Non-Numeric forms
 - The universe is expanding.''''
 - The universe is expanding.````
 - The universe is expanding.&#96;
@@ -94,7 +94,7 @@ These could be indicated by different symbols.  This would require a
 small dictionary of symbols/standards, but this may not be very
 unreasonable.
 
-Say we use 'c' to indicate 'consencus' and 'i' to indicate 'personal
+Say we use 'c' to indicate 'consensus' and 'i' to indicate 'personal
 intuition', and 'r' to indicate 'personal research/rationality'.  Not
 all of these would need to be used in every instance, only the ones that
 are instantially relevant. 
