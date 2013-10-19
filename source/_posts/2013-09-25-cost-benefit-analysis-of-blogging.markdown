@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cost Benefit Analysis of Blogging"
-date: 2013-10-19 20:58
+date: 2013-09-25 20:58
 comments: true
 categories: 
 published: true;

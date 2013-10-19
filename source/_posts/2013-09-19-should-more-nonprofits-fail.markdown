@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Should More Effective Altruist Organizations Fail?"
-date: 2013-09-19 18:38
+date: 2013-09-25 18:38
 comments: true
 categories: 
 published: true

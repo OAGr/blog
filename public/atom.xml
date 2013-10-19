@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-19T17:55:31+01:00</updated>
+  <updated>2013-10-19T17:57:45+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,124 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Cost Benefit Analysis of Blogging]]></title>
-    <link href="http://ozziegooen.com/blog/2013/10/19/cost-benefit-analysis-of-blogging/"/>
-    <updated>2013-10-19T20:58:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/10/19/cost-benefit-analysis-of-blogging</id>
-    <content type="html"><![CDATA[<p>Recently I’ve written a short stream of short posts.  They take quite a
-while (2-8 Pomodoros each), so I’ve been trying to figure out how useful
-they really are.  Here are some costs and benefits I’ve come up with.  I
-realize that typically only a few will carry the vast majority of the
-importance (see the <a href="http://en.wikipedia.org/wiki/Pareto_principle">Pareto Principle</a>) so have indicated my impressions of the importance of each one.</p>
-
-<h3 id="benefits">Benefits</h3>
-<ul>
-  <li>
-    <p><strong>Idea Dissemination (Important)</strong><br />
-Take my ideas from inside my head and provide
-them for the world!  The obvious reason for blogging.  Can be somewhat
-measured by tracking visitors, reading comments, and talking to readers.   </p>
-  </li>
-  <li>
-    <p><strong>Online Credibility (Important)</strong><br />
-I find that reading someone’s blog is one of the best ways to know
-them, particularly if they are an introvert.  Blogging is a good way to
-show others that you’re generally thoughtful and intelligent.  </p>
-  </li>
-  <li><strong>Experience Writing (Slightly Important)</strong><br />
-Writing is a useful skill to have, and practice makes one better.
-With blogs there is some feedback as well as a clear incentive to
-improve.  Blog writing seems quite similar to book writing and report
-writing, which are two fields that a lot of important people seem to
-need.<br />
-I could probably improve this a lot by focussing in on each of the
-following.
-    <ul>
-      <li>Quality<br />
-  If I’m spending 4 hours writing a post, it may make sense to
-spend $5-$20 (oDesk perhaps) on an editor, mainly for the feedback to improve it.  This
-may also take another 1-3 hours per post.
-  I assume I could measure quality improvement by going back to my
-old essays and seeing if they are obviously worse.  If not, perhaps I
-haven’t improved.</li>
-      <li>Speed<br />
-  Recently I have been measuring the number of Pomodoros my
-writing has taken me.  I’ll try to post future numbers along with
-future posts.    </li>
-    </ul>
-  </li>
-  <li><strong>Idea Generation (Very Important)</strong><br />
-Writing blog posts forces me to lay out my ideas and ideate on them
-enough to produce something somewhat coherent.  This may be the most
-valuable aspect, now that I reflect on this.  My reports/longer posts
-have forced me to do analysis and reference external materials.<br />
-I imagine I could measure this a bit by looking back and judging how
-much of my current thought process is directly because of research from
-my previous blog posts.  This may be quite considerable.</li>
-  <li><strong>Personal Reference (Very Slightly Important)</strong><br />
-I would like to keep track of what I know.  I could somewhat measure
-this by keeping track of how often I actually go back to read previous
-material.  So far the answer is not often for the vast majority, but
-occationally for the most important papers.  Much of the reference seems
-only useful so far as for me to see if I’m improving as a writer, for
-reasons mentioned above.</li>
-</ul>
-
-<h3 id="costs">Costs</h3>
-<ul>
-  <li>
-    <p><strong>Time to Write (Opportunity Cost) (Important)</strong><br />
-My work flow with Octopress is somewhat complicated, and as of now it
-takes me at least 2 Pomodoros (one hour of intense concentration) to
-write a small post.  My previous on on the Epistemologies of Effective
-Altruist Groups took me a good 4-6 hours to write, effectively the most
-productive part of my Saturday.  I stopped tracking Pomodoros for a
-while as I started grinding (this is normally a bad idea in my
-experience).  This definitely was far more than I was expecting and I
-could have gotten a lot of work done for 80,000 Hours in that time.<br />
-I estimate that so far my blog (this specific one, not my old one) has
-taken me about 20 hours to set up and about 15 hours to write on (around
-7 posts in that time).  If my time is worth $50 an hour, that means that
-this cost me almost $2k so far.  I’m currently very low on money so this
-is a lot to me.  </p>
-  </li>
-  <li>
-    <p><strong>Time to Socialize (Opportunity Cost) (Important)</strong><br />
-I split this up for transparency and because it’s not very obvious.  I
-find that so far for each blog post I write, I tend to spend at least
-30 minutes to 2 hours checking &amp; replying to comments, seeing Facebook
-likes, and looking at Google Analytics.  I could reduce this with
-discipline.  One reason why I’m worried about changing to LessWrong is
-that I may spend a lot of time replying to comments there (it would seem
-rude not to).  </p>
-  </li>
-  <li>
-    <p><strong>Attention (Not Very Important)</strong><br />
-When I’ve been blogging I’ve noticed that I’ve thought a lot about new
-topics.  This attention is incredibly hard to quantify.  I expect it
-isn’t too important to consider here, because these seem like good
-things for me to come up with anyway.</p>
-  </li>
-</ul>
-
-<h3 id="what-do-you-think">What Do You Think?</h3>
-<p>Do any of you have input in the order and/or importance of these costs
-and benefits?  Ideally we could eventually put together a Fermi
-estimate, but some of these are really difficult to estimate.</p>
-
-<hr />
-
-<h4 id="blog-efficiency">Blog Efficiency</h4>
-<p>This post took me approximately 3.5 Pomodoros to write and publish
-While writing it I started 2 other blog posts which I would like to soon
-finish (one of which took another 0.5 Pomodoros). This post is around 900 words, so this results in around 250 words per Pomodoro, or 10 words per minute.) One of these new blog posts includes
-details on my existing blog traffic to provide insight to some of the
-above.  I would love to write a rigorous analysis of each, but it would
-take quite a long time. </p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Creating a Text Shorthand for Uncertainty]]></title>
@@ -254,6 +136,212 @@ out in future posts as an experiment.
 plus another 2-10 hours to discuss / brainstorm on.  Of course, much of
 that resulted in other thoughts that have not yet been put into this
 post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cost Benefit Analysis of Blogging]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/25/cost-benefit-analysis-of-blogging/"/>
+    <updated>2013-09-25T20:58:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/25/cost-benefit-analysis-of-blogging</id>
+    <content type="html"><![CDATA[<p>Recently I’ve written a short stream of short posts.  They take quite a
+while (2-8 Pomodoros each), so I’ve been trying to figure out how useful
+they really are.  Here are some costs and benefits I’ve come up with.  I
+realize that typically only a few will carry the vast majority of the
+importance (see the <a href="http://en.wikipedia.org/wiki/Pareto_principle">Pareto Principle</a>) so have indicated my impressions of the importance of each one.</p>
+
+<h3 id="benefits">Benefits</h3>
+<ul>
+  <li>
+    <p><strong>Idea Dissemination (Important)</strong><br />
+Take my ideas from inside my head and provide
+them for the world!  The obvious reason for blogging.  Can be somewhat
+measured by tracking visitors, reading comments, and talking to readers.   </p>
+  </li>
+  <li>
+    <p><strong>Online Credibility (Important)</strong><br />
+I find that reading someone’s blog is one of the best ways to know
+them, particularly if they are an introvert.  Blogging is a good way to
+show others that you’re generally thoughtful and intelligent.  </p>
+  </li>
+  <li><strong>Experience Writing (Slightly Important)</strong><br />
+Writing is a useful skill to have, and practice makes one better.
+With blogs there is some feedback as well as a clear incentive to
+improve.  Blog writing seems quite similar to book writing and report
+writing, which are two fields that a lot of important people seem to
+need.<br />
+I could probably improve this a lot by focussing in on each of the
+following.
+    <ul>
+      <li>Quality<br />
+  If I’m spending 4 hours writing a post, it may make sense to
+spend $5-$20 (oDesk perhaps) on an editor, mainly for the feedback to improve it.  This
+may also take another 1-3 hours per post.
+  I assume I could measure quality improvement by going back to my
+old essays and seeing if they are obviously worse.  If not, perhaps I
+haven’t improved.</li>
+      <li>Speed<br />
+  Recently I have been measuring the number of Pomodoros my
+writing has taken me.  I’ll try to post future numbers along with
+future posts.    </li>
+    </ul>
+  </li>
+  <li><strong>Idea Generation (Very Important)</strong><br />
+Writing blog posts forces me to lay out my ideas and ideate on them
+enough to produce something somewhat coherent.  This may be the most
+valuable aspect, now that I reflect on this.  My reports/longer posts
+have forced me to do analysis and reference external materials.<br />
+I imagine I could measure this a bit by looking back and judging how
+much of my current thought process is directly because of research from
+my previous blog posts.  This may be quite considerable.</li>
+  <li><strong>Personal Reference (Very Slightly Important)</strong><br />
+I would like to keep track of what I know.  I could somewhat measure
+this by keeping track of how often I actually go back to read previous
+material.  So far the answer is not often for the vast majority, but
+occationally for the most important papers.  Much of the reference seems
+only useful so far as for me to see if I’m improving as a writer, for
+reasons mentioned above.</li>
+</ul>
+
+<h3 id="costs">Costs</h3>
+<ul>
+  <li>
+    <p><strong>Time to Write (Opportunity Cost) (Important)</strong><br />
+My work flow with Octopress is somewhat complicated, and as of now it
+takes me at least 2 Pomodoros (one hour of intense concentration) to
+write a small post.  My previous on on the Epistemologies of Effective
+Altruist Groups took me a good 4-6 hours to write, effectively the most
+productive part of my Saturday.  I stopped tracking Pomodoros for a
+while as I started grinding (this is normally a bad idea in my
+experience).  This definitely was far more than I was expecting and I
+could have gotten a lot of work done for 80,000 Hours in that time.<br />
+I estimate that so far my blog (this specific one, not my old one) has
+taken me about 20 hours to set up and about 15 hours to write on (around
+7 posts in that time).  If my time is worth $50 an hour, that means that
+this cost me almost $2k so far.  I’m currently very low on money so this
+is a lot to me.  </p>
+  </li>
+  <li>
+    <p><strong>Time to Socialize (Opportunity Cost) (Important)</strong><br />
+I split this up for transparency and because it’s not very obvious.  I
+find that so far for each blog post I write, I tend to spend at least
+30 minutes to 2 hours checking &amp; replying to comments, seeing Facebook
+likes, and looking at Google Analytics.  I could reduce this with
+discipline.  One reason why I’m worried about changing to LessWrong is
+that I may spend a lot of time replying to comments there (it would seem
+rude not to).  </p>
+  </li>
+  <li>
+    <p><strong>Attention (Not Very Important)</strong><br />
+When I’ve been blogging I’ve noticed that I’ve thought a lot about new
+topics.  This attention is incredibly hard to quantify.  I expect it
+isn’t too important to consider here, because these seem like good
+things for me to come up with anyway.</p>
+  </li>
+</ul>
+
+<h3 id="what-do-you-think">What Do You Think?</h3>
+<p>Do any of you have input in the order and/or importance of these costs
+and benefits?  Ideally we could eventually put together a Fermi
+estimate, but some of these are really difficult to estimate.</p>
+
+<hr />
+
+<h4 id="blog-efficiency">Blog Efficiency</h4>
+<p>This post took me approximately 3.5 Pomodoros to write and publish
+While writing it I started 2 other blog posts which I would like to soon
+finish (one of which took another 0.5 Pomodoros). This post is around 900 words, so this results in around 250 words per Pomodoro, or 10 words per minute.) One of these new blog posts includes
+details on my existing blog traffic to provide insight to some of the
+above.  I would love to write a rigorous analysis of each, but it would
+take quite a long time. </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Should More Effective Altruist Organizations Fail?]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/25/should-more-nonprofits-fail/"/>
+    <updated>2013-09-25T18:38:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/25/should-more-nonprofits-fail</id>
+    <content type="html"><![CDATA[<p><a href="http://ycombinator.com/">Y Combinator</a> is about <em>the</em> most successful business
+incubator to date.  It’s hatched 37 companies with worth or sold for
+over $40 million in its’ few years of life, and has an acceptance rate
+of less than 6%.  However, almost all of these companies fail.  As
+<a href="http://www.businessinsider.com/startup-odds-of-success-2013-5#ixzz2V5fDO1Nd">Business Insider</a> points out,<strong>“93% of the companies that get accepted by Y Combinator eventually fail”</strong>.</p>
+
+<p>Though this is agnowledged as an unfortunate hurdle, it’s also widely
+believed that quite a bit of business failure is healthy to markets.
+Poor ideas and implementations get weeded out for better ones, and in
+the end the winners typically are quite a bit better than average.
+International capitalism is very harsh but results in quality products.</p>
+
+<p>It would seem to me like the bar for Effective Altruist organizations is
+significantly higher in many ways than for these businesses.  That is
+not because it’s difficult to fundraise, but because it’s difficult to
+be effective.  </p>
+
+<p>I want to clarify on the demands of an organization that itself is
+“Effective” in the “Effective Altruist” sense.  An “effective” organization 
+here is one where the world is better off with it in existance than if
+the counterfactual resources required were used for the “next” best
+utilitarian cause.  A lower bound for this should be if all of the
+organizational employees earned to give in their highest paying jobs
+possible, and all of the resulting money, with that from organizational
+donors, would go to the AMF instead.</p>
+
+<p>So for example, if a 5-person division receiving $100,000 per year
+ were “effective”, it would mean that it is doing
+more good than if all 5 people would have instead gone to work and
+donated that money (say $20,000 each per person per year), plus that
+$100,000 all would have gone to save the AMF.  This is a really tough
+requirement given the efficiency of the AMF, but is what some of these
+groups claim.</p>
+
+<p>Creating a charity or finding any cause more efficient than the <a href="http://www.againstmalaria.com/">Against
+Malaria Foundation</a> is just incredibly difficult.  I’m quite sure that
+when the AMF was starting it couldn’t have expected to reach the
+efficiencies and successes that it had.  One reason for this is that
+Givewell gets to cherry pick the most efficient outcomes rather than the
+best plans, and it seems like these would fall on the end of the
+gaussian curve of luck as well as skill.</p>
+
+<p>This isn’t to say that it’s a poor idea to create an Effective Altruist
+organization, in the same way that it’s not a particularly poor idea to
+create a business knowing the poor success rates.  It may be with the
+right idea you can expect a reasonable expected value, even given the
+chance of failure.  </p>
+
+<p>What it does mean is that I would expect that organizations attempting Effective Altruism <em>should be failing.</em>  I’m not sure how many, but 90% wouldn’t intuitively seem unreasonable to me given that’s the bar for what I would assume an easier goal (business success as a Y-Combinator acceptee).  </p>
+
+<p>But looking back, have any failed?  Have any groups in this area really
+admitted failure after looking at some difficult metrics?</p>
+
+<p>Some possible groups in this area that may be “Effective Altruist” that
+come to my mind are:</p>
+
+<ul>
+  <li>Givewell</li>
+  <li>The Future of Humanity Institute</li>
+  <li>Effective Animal Altruism</li>
+  <li>Effective Fundraising</li>
+  <li>Aidgrade</li>
+  <li>80,000 Hours</li>
+  <li>Giving What We Can</li>
+  <li>The Life You Can Save</li>
+  <li>The Machine Intelligence Research Institute</li>
+  <li>The Center for Applied Rationality</li>
+  <li>Leverage Research</li>
+  <li>Think! Network</li>
+</ul>
+
+<p>One alternative may be to imagine that we are in a gold rush where there
+is so much unexplored area in this domain that almost each new venture
+succeeds.  If this were true I would think that there should be a lot
+new EA organizations until this stops being the case.</p>
+
+<p>Another alternative explanation is that many of these groups aren’t
+actually “Effective” in the “Effective Altruist” sense, and don’t care
+to be.  Or that there are so many definitions of “Effective Altruist”
+that each organization gets to pick their own specific one.  </p>
 ]]></content>
   </entry>
   
@@ -444,94 +532,6 @@ doesn’t have much evidence or research to advice with.</p>
 their free time may be a good idea for now.  If we have a lot of hobbyists
 figuring out the basics and promoting them, it may only be a matter of
 time until the snowball rolls far enough for people to get serious about the discipline.  When they do, I suspect things will get <em>very</em> interesting.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Should More Effective Altruist Organizations Fail?]]></title>
-    <link href="http://ozziegooen.com/blog/2013/09/19/should-more-nonprofits-fail/"/>
-    <updated>2013-09-19T18:38:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/09/19/should-more-nonprofits-fail</id>
-    <content type="html"><![CDATA[<p><a href="http://ycombinator.com/">Y Combinator</a> is about <em>the</em> most successful business
-incubator to date.  It’s hatched 37 companies with worth or sold for
-over $40 million in its’ few years of life, and has an acceptance rate
-of less than 6%.  However, almost all of these companies fail.  As
-<a href="http://www.businessinsider.com/startup-odds-of-success-2013-5#ixzz2V5fDO1Nd">Business Insider</a> points out,<strong>“93% of the companies that get accepted by Y Combinator eventually fail”</strong>.</p>
-
-<p>Though this is agnowledged as an unfortunate hurdle, it’s also widely
-believed that quite a bit of business failure is healthy to markets.
-Poor ideas and implementations get weeded out for better ones, and in
-the end the winners typically are quite a bit better than average.
-International capitalism is very harsh but results in quality products.</p>
-
-<p>It would seem to me like the bar for Effective Altruist organizations is
-significantly higher in many ways than for these businesses.  That is
-not because it’s difficult to fundraise, but because it’s difficult to
-be effective.  </p>
-
-<p>I want to clarify on the demands of an organization that itself is
-“Effective” in the “Effective Altruist” sense.  An “effective” organization 
-here is one where the world is better off with it in existance than if
-the counterfactual resources required were used for the “next” best
-utilitarian cause.  A lower bound for this should be if all of the
-organizational employees earned to give in their highest paying jobs
-possible, and all of the resulting money, with that from organizational
-donors, would go to the AMF instead.</p>
-
-<p>So for example, if a 5-person division receiving $100,000 per year
- were “effective”, it would mean that it is doing
-more good than if all 5 people would have instead gone to work and
-donated that money (say $20,000 each per person per year), plus that
-$100,000 all would have gone to save the AMF.  This is a really tough
-requirement given the efficiency of the AMF, but is what some of these
-groups claim.</p>
-
-<p>Creating a charity or finding any cause more efficient than the <a href="http://www.againstmalaria.com/">Against
-Malaria Foundation</a> is just incredibly difficult.  I’m quite sure that
-when the AMF was starting it couldn’t have expected to reach the
-efficiencies and successes that it had.  One reason for this is that
-Givewell gets to cherry pick the most efficient outcomes rather than the
-best plans, and it seems like these would fall on the end of the
-gaussian curve of luck as well as skill.</p>
-
-<p>This isn’t to say that it’s a poor idea to create an Effective Altruist
-organization, in the same way that it’s not a particularly poor idea to
-create a business knowing the poor success rates.  It may be with the
-right idea you can expect a reasonable expected value, even given the
-chance of failure.  </p>
-
-<p>What it does mean is that I would expect that organizations attempting Effective Altruism <em>should be failing.</em>  I’m not sure how many, but 90% wouldn’t intuitively seem unreasonable to me given that’s the bar for what I would assume an easier goal (business success as a Y-Combinator acceptee).  </p>
-
-<p>But looking back, have any failed?  Have any groups in this area really
-admitted failure after looking at some difficult metrics?</p>
-
-<p>Some possible groups in this area that may be “Effective Altruist” that
-come to my mind are:</p>
-
-<ul>
-  <li>Givewell</li>
-  <li>The Future of Humanity Institute</li>
-  <li>Effective Animal Altruism</li>
-  <li>Effective Fundraising</li>
-  <li>Aidgrade</li>
-  <li>80,000 Hours</li>
-  <li>Giving What We Can</li>
-  <li>The Life You Can Save</li>
-  <li>The Machine Intelligence Research Institute</li>
-  <li>The Center for Applied Rationality</li>
-  <li>Leverage Research</li>
-  <li>Think! Network</li>
-</ul>
-
-<p>One alternative may be to imagine that we are in a gold rush where there
-is so much unexplored area in this domain that almost each new venture
-succeeds.  If this were true I would think that there should be a lot
-new EA organizations until this stops being the case.</p>
-
-<p>Another alternative explanation is that many of these groups aren’t
-actually “Effective” in the “Effective Altruist” sense, and don’t care
-to be.  Or that there are so many definitions of “Effective Altruist”
-that each organization gets to pick their own specific one.  </p>
 ]]></content>
   </entry>
   
