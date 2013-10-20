@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Big 5 Personality Assessment"
+title: "Big Five Personality Assessment"
 date: 2013-10-20 18:07
 comments: true
 sharing: true
@@ -8,7 +8,7 @@ footer: true
 hours: 4
 ---
 
-Today I took the IPIP_NEO assessment at  <http://personalitytest.net/>.  The test took me around
+Today I took the IPIP_NEO (a version of the [Big Five Personality Trait](http://en.wikipedia.org/wiki/Big_Five_personality_traits)) assessment at  <http://personalitytest.net/>.  The test took me around
 40 minutes to take and another 120 to document in this blog.
 
 I found it to be a bit gameable, especially because I already knew quite
