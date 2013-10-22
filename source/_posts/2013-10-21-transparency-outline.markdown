@@ -1,0 +1,356 @@
+---
+layout: post
+title: "Transparency Research Outline"
+date: 2013-10-21 03:03
+comments: true
+categories: 
+published: true
+---
+
+##Summary
+Recently I spent some time researching Transparency, after preparing to write a few posts about it.  While originally I wanted to treat "Transparency" as a singular phenomena, the existing literature on it suggests that there really is no coherent idea of "Transparency", but rather a set of several competing notions used in different fields<span class="certainty">~c1i3</span>.  For example, "Company Transparency" seems to refer a lot to having a nice company blog, while "Nonprofit Transparency" is often about the financials<span class="certainty">~c1i2</span>.  
+
+This is what I have recorded from about one day of research on the topic.  I hope to look through some of the books and articles in more detail later on, this so far was just a broad overview. 
+
+I took these notes in a Workflowy [here](https://workflowy.com/shared/de1355ef-35e1-7e27-cc34-8e48c4162d67/), which I think is the easiest way to access (and contribute) to this<span class="certainty">~i2</span>.  However, I have also exported the notes below for convenience.  Fortunately the 'export' workflowy feature works very well with Markdown.
+
+##Outline
+  - Quotes
+    - "Transparency is a slippery word; the kind of word that, like reform, sounds good and so ends up getting attached to any random political thing that someone wants to promote. - Aaron Swarz
+      - Daniel Lathrop and Laurel Ruma. Open Government (Kindle Locations 5958-5960). O’Reilly Media, Inc.."
+    - "Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency"
+      - Transparency Matters: The concept of organizational transparency in the academic discourse
+  - Definitions
+    - "Transparency refers to the idea that social and political processes should be both visible and accountable, in order to minimize error. It is one of the mechanisms whereby public error correction can take place."
+      - <http://issuepedia.org/Transparency>
+  - Regular Books
+    - Business
+      - Full Disclosure
+        - "Transparency policies are frequently ineffective or counterproductive"
+        - Based on a comparative analysis of eighteen major policies, most of which are suggested to have been very sub-optimal.
+      - "The Naked Corporation: How the age of transparency will revolutionize business"
+        - Cited by 270 according to Google Scholar.
+        - Preview here:
+          - <http://books.google.co.uk/books?hl=en&lr=&id=HcBWcUZo9p8C&oi=fnd&pg=PP1&dq=business+transparency&ots=5-Nq_jnLF5&sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&q=business%20transparency&f=fals>e
+          - <http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&qid=1381689856&sr=8-1&keywords=The+Naked+Corporation>
+        - "To head off such PR catastrophes, the authors recommend a policy of "transparency," whereby companies disclose all possible information, a practice they feel boosts employee morale and performance, facilitates business partnerships, and helps responsible corporations attract socially conscious consumers and investors."
+        - Seems to be a fairly generally good pop business book.  Good reviews (5/5 from 15 reviews on Amazon)
+      - The Open-Source Everything ManifestoL Transparency, Truth, and Trust
+        - <http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&qid=1381697421&sr=8-1-spell&keywords=the+open-source+everything+manifestor>
+        - My take: It gets some good reviews, some terrible ones.  Seems to me like an 'open source is awesome' promotion without much substance in the specific issues of what transparency is or how to implement it.
+        - Author seems to be quite a figure.  See this quote in his biography:
+          " "...three Washington tours (counterintelligence, information technology, DCI's vault for all technical systems), CIA Mid-Career Course, invited by Marine Corps to come back as a GS-14 to help created the Marine Corps Intelligence Center, did that. That was also my fork in the road. Discovered that the secret world is largely worthless in supporting all policy, all acquisition, all operations, and totally absent in supporting Whole of Government, public education, and public research. Started the modern Open Source Intelligence (OSINT) movement against very strong resistance from CIA, went on the train 7,500 mid-career officers from across 66+ countries, wrote the DIA, NATO, and SOF OSINT Handbooks. Created a for-profit (Open Source Solutions Network, now closed) and a non-profit (Earth Intelligence Network, 501c3, lying fallow). "
+    - Anthropology/Philosophy
+      - "Transparency" by Marek Bienczyk
+        - This looked interesting to me, though there's very little about it online.  It's far more academic and romantic than the others here.  
+        - First chapter is here: <http://asymptotejournal.com/article.php?cat=Nonfiction&id=23&curr_index=0>
+        - Random quote:
+          - "Thus, the tragedy of Rousseauian transparency is the fact that it is left defenseless within its own innocence: it can't defend itself from being clouded over, from the darkening brought on by the unrestrained activity of mankind, from the false judgments of others. Simply looking at other people isn't enough to achieve this transparency, nor does looking seek to do so. - See more at: http://asymptotejournal.com/article.php?cat=Nonfiction&id=23&curr_index=0#sthash.eCkfKthK.dpuf"
+      - Jean-Jacques Rousseau, Transparency and Obstruction
+    - Science Fiction
+      - The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?
+        - By David Brin (Popular Sci Fi Author)
+        - Seems to focus on privacy/freedom, not sure how much it has to do with organizational transparency.
+        - <http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&qid=1381702674&sr=8-1&keywords=the+transparent+society>
+  - Academic Books / Textbooks
+    - "Open Government: Collaboration, Transparency, and Participation in Practice"
+      - Seems to be very academic and information-dense, though is not very numeric or quantifiable.
+      - A collection of essays outlining discussions and case studies of transparency relating to government.
+      - 3.71 rating on Goodreads.
+      - Free on github here: <https://github.com/oreillymedia/open_government>
+      - The most recommended essay was Tim O'Reilly's.
+        - Essay here: <https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc>
+        - Video here: <http://www.youtube.com/watch?v=dYB8xokkWjg>
+    - “Roles and Scopes of Public Relations”
+      - 10th International Public Relations Research Conference, 2006
+      - Article: "Measuring the Relationship Between Organizational Transparency and Trust.."
+      - Free here: http://www.iprrc.org/docs/IPRRC_10_Proceedings.pdf#page=425
+    - "Transparency in a New Global Order: Unveiling Organizational Visions"
+      - Mostly articles bunch of Anthropologist and Sociologist Academics
+      - <http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&qid=1381696134&sr=8-1&keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions>
+      - The table of contents looks interesting.  Some examples
+        - The social life of brands.
+        - The naked corporation: visualization, veiling and the ethico-politics of organizational transparency
+        - Promoting transparency, preventing war: neoliberalism, conflict preventionism and the new military.
+  - Academic Articles
+    - "Transparency Matters: The concept of organizational transparency in the academic discourse"
+      - A meta-analysis of the existing literature on "Transparency"
+      - From the Abstract:
+        - "Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency"
+        - "like in the public relations discourse, a theory-driven analysis of transparency is a desideratum."
+        - Link: <http://pri.sagepub.com/content/1/3/337.short>
+    - "Give the Emperor a Mirror: Toward a Stakeholder Measurement of Organizational Transparency"
+      - The most quantitative and comprehensive overview I've found on this issue.
+      - Give the Emperor a Mirror: Toward Developing a Stakeholder Measurement of Organizational Transparency
+      - Abstract:
+        "The concept of organizational transparency has vaulted to prominence in recent years. While the virtues of transparency have been tied to trust and credibility, there have been no efforts to measure this abstract concept. Guidelines exist to help organizations be more transparent, but the real test is how stakeholders perceive an organization's transparency. This paper focuses on developing a stakeholder measurement of organizational transparency. Factor analyses, structural equation models, and reliability alphas on the measurement items indicate the instrument measures three transparency reputation traits (integrity, respect for others, openness) and four transparency efforts (participation, substantial information, accountability, and secrecy)."
+    - "Transparency and Participation in the World Trade Organization"
+      - Cited by 35
+      - <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522>
+      - "The foundation stone of international norms for transparency"
+        - The foundation stone of international norms for transparency was the 1923 International Convention Relating to the Simplification of Customs Formalities (“Customs Convention”).9 The Customs Convention established rules for transparency and review at the national level.10 All customs regulations were required to be promptly published “in such a manner as to enable persons concerned to become acquainted with them and to avoid the prejudice which might result from the application of customs formalities of which they are ignorant.”11 
+    - "Towards a Precise Semantics for Authenticity and Trust"
+      - I love the name, but this is about digital security (private key certification), not organizational authenticity and trust
+      - <http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&id=1501457&acc=ACTIVE%20SERVICE&key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&CFID=253530328&CFTOKEN=78775276&__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2>
+  - Blog Posts
+    - Givewell's Transparency Policy
+      - <http://www.givewell.org/about/transparency>
+    - Givewell's post "What characteristics do we look for?"
+      - <http://www.givewell.org/characteristics-we-look-for>
+    - The See-Through CEO 
+      - Link:
+        <http://www.wired.com/wired/archive/15.04/wired40_ceo.html>
+      - Summary: This was a short story of a CEO who blogged a lot followed by some discussion that "reputation online is everything."  This is considered by him to be "Radical Transparency."
+      - Quotes
+        - "Nearly everyone I spoke to had a warning for would-be transparent CEOs: You can't go halfway naked. It's all or nothing. Executives who promise they'll be open have to stay open. The minute they become evasive about troubling news, transparency's implied social compact crumbles."
+        - "The reputation economy creates an incentive to be more open, not less. Since Internet commentary is inescapable, the only way to influence it is to be part of it. Being transparent, opening up, posting interesting material frequently and often is the only way to amass positive links to yourself and thus to directly influence your Googleable reputation."
+    - A Parable about Openness: Followed by Some Thoughts on Privacy, Security, and Surveillance in the Information Age
+      - <http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf>
+  - Organizations
+    - Transparency International
+      - A nonprofit dedicated to exposing transparency within governments and business, mainly to expose corruption.  
+      - "Our Vision" : "A World in which Government Politics, Business, Civil Society and the Daily Lives of People are Free of Corruption"
+        - This indicates that they are much more an organization against corruption (and using transparency for this means) than one for transparency, which has benefits outside of corruption.
+      - Useful documents
+      - "TRANSPARENCY IN CORPORATE REPORTING: ASSESSING THE WORLD'S LARGEST COMPANIES"
+        - "This study analyses the transparency of corporate reporting on a range of anticorruption measures among the 105 largest publicly listed multinational companies. Together these companies are worth more than US$11 trillion and touch the lives of people in countries across the globe, wielding enormous and far reaching power."
+        - <http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies>
+        - My take
+          -  A very pretty report that rates a multinational companies on a few "transparency" questionnaires, specifically focussing on corruption.
+          - The Questionnaire in some ways is the best part.  They have three indexes, each with a list of different questions.
+            - 1. DISCLOSED ANTI-CORRUPTION PROGRAMMES 
+              - Does the company have a publicly stated commitment to anti-corruption?
+              - Does the company publicly commit to be in compliance with all relevant laws, including anti-corruption laws?
+              - Does the company leadership demonstrate support for anti-corruption? E.g. is there a statement in a corporate citizenship report or in public pronouncements on integrity?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to all employees?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to all agents and other intermediaries?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to contractors, subcontractors and suppliers?
+              - Does the company have an anti-corruption training programme for its employees in place?
+              - Does the company have a policy defining appropriate/ inappropriate gifts, hospitality and travel expenses?
+              - Is there a policy that explicitly forbids facilitation payments?
+              - Does the company prohibit retaliation for reporting the violation of a policy?
+              - Does the company provide channels through which employees can report potential violations of policy or seek advice (e.g. whistleblowing) in confidence?
+              - Does the company carry out regular monitoring of its anti-corruption programme?
+              - Does the company have a policy prohibiting political contributions or if it does make such contributions, are they fully disclosed?
+            - 2. ORGANISATIONAL TRANSPARENCY (DISCLOSURE OF SUBSIDIARIES) 
+              - Does the company disclose the full list of its fully consolidated material subsidiaries?
+              - Does the company disclose percentages owned in its fully consolidated material subsidiaries?
+              - Does the company disclose countries of incorporation of its fully consolidated material subsidiaries?
+              - Does the company disclose countries of operations of its fully consolidated material subsidiaries?
+              - Does the company disclose the full list of its non- fully consolidated material subsidiaries?28
+              - Does the company disclose percentages owned in its non-fully consolidated material subsidiaries?
+              - Does the company disclose countries of incorporation of its non-fully consolidated material subsidiaries?
+              - Does the company disclose countries of operations of its non-fully consolidated material subsidiaries?
+            - 3. COUNTRY-BY-COUNTRY DISCLOSURE 
+              - In our study ‘countries of operations’ are those countries in which a company is present either directly or through one of its consolidated subsidiaries. The relevant list of countries of operations is based on the company’s own reporting.
+              - For each country of the company’s operations the following set of questions has been asked:
+              - Does the company disclose its revenues/ sales in country X?
+              - Does the company disclose its capital expenditure in country X?
+              - Does the company disclose its pre-tax income in country X?
+              - Does the company disclose its income tax in country X?
+              - Does the company disclose its community contribution in country X?
+  - Related Terms
+    - Radical Transparency
+      - Definitions
+        - "Radical Transparency is presenting to individuals the previously-hidden impacts of the things they buy and do, and giving them choices at that moment.
+          - "Backtracks that to the multiple of the environmental, economical and social choices"
+          - Daniel Goleman
+          - <http://www.youtube.com/watch?v=-OqCF2htL4c>
+        - General "We're very transparent" stuff
+          - Talk by Justin Rosenstein (Asana)
+            - <http://www.youtube.com/watch?v=UBKsjGZjghc>
+            - Board meetings
+              - At board meetings, they occationally bring in outsiders to "enjoy the process"
+              - Take "copious notes" and send them to the company.
+            - Weekly planning meetings
+              - Business heads 
+              - Doesn't share salaries, some HR meetings
+              - Take "copious notes", send them out to the company.
+              - "Sometimes participate in dialogue"
+              - It "brings trust" that they are making the correct decisions.
+            - "People are empowered with enough knowledge that they don't have to be micromanaged." 
+            - Provide people with "context about how things work" rather than "controlling what they do".  
+            - Company of Peers"
+              - Roadmap week
+                - After each episode (quarter)
+                - One week of meetings each day, in committees. 
+                - Results in less normal meetings.
+                - Meetings on "mobile" , "Values", "how to expand design team", etc.
+                - The committees put together the plans, generally are acted upon without overrides from executives.
+      - Wikipedia: <http://en.wikipedia.org/wiki/Radical_transparency>
+    - Open Business
+      - "an approach to enterprise that draws on ideas from openness movements like free software, open source, open content and open tools and standards. The approach places value on transparency, stakeholder inclusion, and accountability." - wikipedia
+      - The wikipedia page got me really excited, then I realized there were no real references.
+      - <http://en.wikipedia.org/wiki/Open_business>
+- Transparency (shared)
+  - Summary Quotes
+    - "Transparency is a slippery word; the kind of word that, like reform, sounds good and so ends up getting attached to any random political thing that someone wants to promote. - Aaron Swarz
+      - Daniel Lathrop and Laurel Ruma. Open Government (Kindle Locations 5958-5960). O’Reilly Media, Inc.."
+    - "Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency"
+      - Transparency Matters: The concept of organizational transparency in the academic discourse
+  - Definitions
+    - "Transparency refers to the idea that social and political processes should be both visible and accountable, in order to minimize error. It is one of the mechanisms whereby public error correction can take place."
+      - <http://issuepedia.org/Transparency>
+  - Regular Books
+    - Business
+      - Full Disclosure
+        - "Transparency policies are frequently ineffective or counterproductive"
+        - Based on a comparative analysis of eighteen major policies, most of which are suggested to have been very sub-optimal.
+      - "The Naked Corporation: How the age of transparency will revolutionize business"
+        - Cited by 270 according to Google Scholar.
+        - Preview here:
+          - <http://books.google.co.uk/books?hl=en&lr=&id=HcBWcUZo9p8C&oi=fnd&pg=PP1&dq=business+transparency&ots=5-Nq_jnLF5&sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&q=business%20transparency&f=false>
+          - <http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&qid=1381689856&sr=8-1&keywords=The+Naked+Corporation>
+        - "To head off such PR catastrophes, the authors recommend a policy of "transparency," whereby companies disclose all possible information, a practice they feel boosts employee morale and performance, facilitates business partnerships, and helps responsible corporations attract socially conscious consumers and investors."
+        - Seems to be a fairly generally good pop business book.  Good reviews (5/5 from 15 reviews on Amazon)
+      - The Open-Source Everything ManifestoL Transparency, Truth, and Trust
+        - <http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&qid=1381697421&sr=8-1-spell&keywords=the+open-source+everything+manifestor>
+        - My take: It gets some good reviews, some terrible ones.  Seems to me like an 'open source is awesome' promotion without much substance in the specific issues of what transparency is or how to implement it.
+        - Author seems to be quite a figure.  See this quote in his biography:
+          " "...three Washington tours (counterintelligence, information technology, DCI's vault for all technical systems), CIA Mid-Career Course, invited by Marine Corps to come back as a GS-14 to help created the Marine Corps Intelligence Center, did that. That was also my fork in the road. Discovered that the secret world is largely worthless in supporting all policy, all acquisition, all operations, and totally absent in supporting Whole of Government, public education, and public research. Started the modern Open Source Intelligence (OSINT) movement against very strong resistance from CIA, went on the train 7,500 mid-career officers from across 66+ countries, wrote the DIA, NATO, and SOF OSINT Handbooks. Created a for-profit (Open Source Solutions Network, now closed) and a non-profit (Earth Intelligence Network, 501c3, lying fallow). "
+    - Anthropology/Philosophy
+      - "Transparency" by Marek Bienczyk
+        - This looked interesting to me, though there's very little about it online.  It's far more academic and romantic than the others here.  
+        - First chapter is here: http://asymptotejournal.com/article.php?cat=Nonfiction&id=23&curr_index=0
+        - Random quote:
+          - "Thus, the tragedy of Rousseauian transparency is the fact that it is left defenseless within its own innocence: it can't defend itself from being clouded over, from the darkening brought on by the unrestrained activity of mankind, from the false judgments of others. Simply looking at other people isn't enough to achieve this transparency, nor does looking seek to do so. - See more at: http://asymptotejournal.com/article.php?cat=Nonfiction&id=23&curr_index=0#sthash.eCkfKthK.dpuf"
+      - Jean-Jacques Rousseau, Transparency and Obstruction
+    - Science Fiction
+      - The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?
+        - By David Brin (Popular Sci Fi Author)
+        - Seems to focus on privacy/freedom, not sure how much it has to do with organizational transparency.
+        - <http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&qid=1381702674&sr=8-1&keywords=the+transparent+society>
+  - Academic Books / Textbooks
+    - "Open Government: Collaboration, Transparency, and Participation in Practice"
+      - Seems to be very academic and information-dense, though is not very numeric or quantifiable.
+      - A collection of essays outlining discussions and case studies of transparency relating to government.
+      - 3.71 rating on Goodreads.
+      - Free on github here: <https://github.com/oreillymedia/open_government>
+      - The most recommended essay was Tim O'Reilly's.
+        - Essay here: <https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc>
+        - Video here: <http://www.youtube.com/watch?v=dYB8xokkWjg>
+    - “Roles and Scopes of Public Relations”
+      - 10th International Public Relations Research Conference, 2006
+      - Article: "Measuring the Relationship Between Organizational Transparency and Trust.."
+      - Free here: <http://www.iprrc.org/docs/IPRRC_10_Proceedings.pdf#page=425>
+    - "Transparency in a New Global Order: Unveiling Organizational Visions"
+      - Mostly articles bunch of Anthropologist and Sociologist Academics
+      - <http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&qid=1381696134&sr=8-1&keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions>
+      - The table of contents looks interesting.  Some examples
+        - The social life of brands.
+        - The naked corporation: visualization, veiling and the ethico-politics of organizational transparency
+        - Promoting transparency, preventing war: neoliberalism, conflict preventionism and the new military.
+  - Academic Articles
+    - "Transparency Matters: The concept of organizational transparency in the academic discourse"
+      - A meta-analysis of the existing literature on "Transparency"
+      - From the Abstract:
+        - "Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency"
+        - "like in the public relations discourse, a theory-driven analysis of transparency is a desideratum."
+        - Link: <http://pri.sagepub.com/content/1/3/337.short>
+    - "Give the Emperor a Mirror: Toward a Stakeholder Measurement of Organizational Transparency"
+      - The most quantitative and comprehensive overview I've found on this issue.
+      - Give the Emperor a Mirror: Toward Developing a Stakeholder Measurement of Organizational Transparency
+      - Abstract:
+        "The concept of organizational transparency has vaulted to prominence in recent years. While the virtues of transparency have been tied to trust and credibility, there have been no efforts to measure this abstract concept. Guidelines exist to help organizations be more transparent, but the real test is how stakeholders perceive an organization's transparency. This paper focuses on developing a stakeholder measurement of organizational transparency. Factor analyses, structural equation models, and reliability alphas on the measurement items indicate the instrument measures three transparency reputation traits (integrity, respect for others, openness) and four transparency efforts (participation, substantial information, accountability, and secrecy)."
+    - "Transparency and Participation in the World Trade Organization"
+      - Cited by 35
+      - <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522>
+      - "The foundation stone of international norms for transparency"
+        - The foundation stone of international norms for transparency was the 1923 International Convention Relating to the Simplification of Customs Formalities (“Customs Convention”).9 The Customs Convention established rules for transparency and review at the national level.10 All customs regulations were required to be promptly published “in such a manner as to enable persons concerned to become acquainted with them and to avoid the prejudice which might result from the application of customs formalities of which they are ignorant.”11 
+    - "Towards a Precise Semantics for Authenticity and Trust"
+      - I love the name, but this is about digital security (private key certification), not organizational authenticity and trust
+      - <http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&id=1501457&acc=ACTIVE%20SERVICE&key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&CFID=253530328&CFTOKEN=78775276&__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2>
+  - Blog Posts
+    - Givewell's Transparency Policy
+      - <http://www.givewell.org/about/transparency>
+    - Givewell's post "What characteristics do we look for?"
+      - <http://www.givewell.org/characteristics-we-look-for>
+    - The See-Through CEO 
+      - Link:
+        <http://www.wired.com/wired/archive/15.04/wired40_ceo.html>
+      - Summary: This was a short story of a CEO who blogged a lot followed by some discussion that "reputation online is everything."  This is considered by him to be "Radical Transparency."
+      - Quotes
+        - "Nearly everyone I spoke to had a warning for would-be transparent CEOs: You can't go halfway naked. It's all or nothing. Executives who promise they'll be open have to stay open. The minute they become evasive about troubling news, transparency's implied social compact crumbles."
+        - "The reputation economy creates an incentive to be more open, not less. Since Internet commentary is inescapable, the only way to influence it is to be part of it. Being transparent, opening up, posting interesting material frequently and often is the only way to amass positive links to yourself and thus to directly influence your Googleable reputation."
+    - A Parable about Openness: Followed by Some Thoughts on Privacy, Security, and Surveillance in the Information Age
+      - <http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf>
+  - Organizations
+    - Transparency International
+      - A nonprofit dedicated to exposing transparency within governments and business, mainly to expose corruption.  
+      - "Our Vision" : "A World in which Government Politics, Business, Civil Society and the Daily Lives of People are Free of Corruption"
+        - This indicates that they are much more an organization against corruption (and using transparency for this means) than one for transparency, which has benefits outside of corruption.
+      - Useful documents
+      - "TRANSPARENCY IN CORPORATE REPORTING: ASSESSING THE WORLD'S LARGEST COMPANIES"
+        - "This study analyses the transparency of corporate reporting on a range of anticorruption measures among the 105 largest publicly listed multinational companies. Together these companies are worth more than US$11 trillion and touch the lives of people in countries across the globe, wielding enormous and far reaching power."
+        - <http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies>
+        - My take
+          -  A very pretty report that rates a multinational companies on a few "transparency" questionnaires, specifically focussing on corruption.
+          - The Questionnaire in some ways is the best part.  They have three indexes, each with a list of different questions.
+            - 1. DISCLOSED ANTI-CORRUPTION PROGRAMMES 
+              - Does the company have a publicly stated commitment to anti-corruption?
+              - Does the company publicly commit to be in compliance with all relevant laws, including anti-corruption laws?
+              - Does the company leadership demonstrate support for anti-corruption? E.g. is there a statement in a corporate citizenship report or in public pronouncements on integrity?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to all employees?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to all agents and other intermediaries?
+              - Does the company’s code of conduct/ anti-corruption policy explicitly apply to contractors, subcontractors and suppliers?
+              - Does the company have an anti-corruption training programme for its employees in place?
+              - Does the company have a policy defining appropriate/ inappropriate gifts, hospitality and travel expenses?
+              - Is there a policy that explicitly forbids facilitation payments?
+              - Does the company prohibit retaliation for reporting the violation of a policy?
+              - Does the company provide channels through which employees can report potential violations of policy or seek advice (e.g. whistleblowing) in confidence?
+              - Does the company carry out regular monitoring of its anti-corruption programme?
+              - Does the company have a policy prohibiting political contributions or if it does make such contributions, are they fully disclosed?
+            - 2. ORGANISATIONAL TRANSPARENCY (DISCLOSURE OF SUBSIDIARIES) 
+              - Does the company disclose the full list of its fully consolidated material subsidiaries?
+              - Does the company disclose percentages owned in its fully consolidated material subsidiaries?
+              - Does the company disclose countries of incorporation of its fully consolidated material subsidiaries?
+              - Does the company disclose countries of operations of its fully consolidated material subsidiaries?
+              - Does the company disclose the full list of its non- fully consolidated material subsidiaries?28
+              - Does the company disclose percentages owned in its non-fully consolidated material subsidiaries?
+              - Does the company disclose countries of incorporation of its non-fully consolidated material subsidiaries?
+              - Does the company disclose countries of operations of its non-fully consolidated material subsidiaries?
+            - 3. COUNTRY-BY-COUNTRY DISCLOSURE 
+              - In our study ‘countries of operations’ are those countries in which a company is present either directly or through one of its consolidated subsidiaries. The relevant list of countries of operations is based on the company’s own reporting.
+              - For each country of the company’s operations the following set of questions has been asked:
+              - Does the company disclose its revenues/ sales in country X?
+              - Does the company disclose its capital expenditure in country X?
+              - Does the company disclose its pre-tax income in country X?
+              - Does the company disclose its income tax in country X?
+              - Does the company disclose its community contribution in country X?
+  - Related Terms
+    - Radical Transparency
+      - Definitions
+        - "Radical Transparency is presenting to individuals the previously-hidden impacts of the things they buy and do, and giving them choices at that moment.
+          - "Backtracks that to the multiple of the environmental, economical and social choices"
+          - Daniel Goleman
+          - <http://www.youtube.com/watch?v=-OqCF2htL4c>
+        - General "We're very transparent" stuff
+          - Talk by Justin Rosenstein (Asana)
+            - <http://www.youtube.com/watch?v=UBKsjGZjghc>
+            - Board meetings
+              - At board meetings, they occationally bring in outsiders to "enjoy the process"
+              - Take "copious notes" and send them to the company.
+            - Weekly planning meetings
+              - Business heads 
+              - Doesn't share salaries, some HR meetings
+              - Take "copious notes", send them out to the company.
+              - "Sometimes participate in dialogue"
+              - It "brings trust" that they are making the correct decisions.
+            - "People are empowered with enough knowledge that they don't have to be micromanaged." 
+            - Provide people with "context about how things work" rather than "controlling what they do".  
+            - Company of Peers"
+              - Roadmap week
+                - After each episode (quarter)
+                - One week of meetings each day, in committees. 
+                - Results in less normal meetings.
+                - Meetings on "mobile" , "Values", "how to expand design team", etc.
+                - The committees put together the plans, generally are acted upon without overrides from executives.
+      - Wikipedia: <http://en.wikipedia.org/wiki/Radical_transparency>
+    - Open Business
+      - "an approach to enterprise that draws on ideas from openness movements like free software, open source, open content and open tools and standards. The approach places value on transparency, stakeholder inclusion, and accountability." - wikipedia
+      - The wikipedia page got me really excited, then I realized there were no real references.
+      - <http://en.wikipedia.org/wiki/Open_business>
+
+##Blog Efficiency
+It took me 8 +- 3 hours to write this, plus another 30 minutes to post
+it here.

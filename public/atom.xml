@@ -4,7 +4,7 @@
   <title><![CDATA[Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-20T21:49:57+01:00</updated>
+  <updated>2013-10-22T08:47:04+01:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -12,6 +12,951 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rubric Research Outline]]></title>
+    <link href="http://ozziegooen.com/blog/2013/10/22/rubric-outline/"/>
+    <updated>2013-10-22T08:00:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/10/22/rubric-outline</id>
+    <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
+<p>Here at <a href="http://80000hours.org">80,000 Hours</a> we’re currently working to make a rubric to rate our research/blog quality.  My first step was to do a minor literature survey, and outline of which is given below.  You can also read and contribute to it on <a href="https://workflowy.com/shared/cb311015-0619-e9bc-9cb6-42ea79e9a2f1/">Workflowy</a>.</p>
+
+<h2 id="main-take-aways">Main Take-Aways</h2>
+<ul>
+  <li>One of the main benefits of rubrics is for writing and learning, using them as a guideline, as opposed to only ranking things that have been done <span class="certainty">~c3</span>.  As such, a rubric could provide a lot of value to help us decide and find a consistent style of article <span class="certainty"> ~c1i1</span>.</li>
+  <li>Often numbers are less important than written feedback, especially for improvement <span class="certainty">~c1i1</span>.</li>
+  <li>It’s really important to have the “students” or “writers” help build the rubric <span class="certainty">~c1i1</span>.</li>
+  <li>It’s possible to use rubric to decrease variance in scores.  However, it’s also possible that rubrics will increase variance in scores.  While there does not seem to be a ton of research in what kinds of rubrics improve precision, it seems like this should be considered and efforts should be made to make sure that the rubric is very clear <span class="certainty">~c1i1</span>.</li>
+</ul>
+
+<h2 id="outline">Outline</h2>
+
+<ul>
+  <li>Books
+    <ul>
+      <li>Rethinking Rubrics in Writing Assessment
+        <ul>
+          <li><a href="https://www.goodreads.com/book/show/2956606-rethinking-rubrics-in-writing-assessment?from_search=true">https://www.goodreads.com/book/show/2956606-rethinking-rubrics-in-writing-assessment?from_search=true</a></li>
+          <li>The most popular book on Goodreads on this subject</li>
+          <li>Seems to be generally critical of rubrics, though it provides “no answers” (say several reviewers)</li>
+          <li>First chapter here:
+            <ul>
+              <li><a href="http://ww.fountasandpinnell.com/shared/onlineresources/E00856/chapter1.pdf">http://ww.fountasandpinnell.com/shared/onlineresources/E00856/chapter1.pdf</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>How to Create and Use Rubrics for Formative Assessment and Grading
+        <ul>
+          <li>Published in 2013, 159 pages</li>
+          <li><a href="https://www.goodreads.com/book/show/17131074-how-to-create-and-use-rubrics-for-formative-assessment-and-grading?from_search=true">https://www.goodreads.com/book/show/17131074-how-to-create-and-use-rubrics-for-formative-assessment-and-grading?from_search=true</a></li>
+          <li>Seems like a basic overview of Rubrics in school systems.</li>
+        </ul>
+      </li>
+      <li>Common Formative Assessments: How to Connect Standards-Based Instruction and Assessment
+        <ul>
+          <li>Published in 2006, 184 pages</li>
+          <li><a href="http://www.amazon.com/Common-Formative-Assessments-Standards-Based-Instruction/dp/1412915783/ref=pd_sim_b_58">http://www.amazon.com/Common-Formative-Assessments-Standards-Based-Instruction/dp/1412915783/ref=pd_sim_b_58</a></li>
+          <li>Seems also like another overview aimed at school use.</li>
+          <li>Includes many graphs and diagrams</li>
+        </ul>
+      </li>
+      <li>Introduction to Rubrics
+        <ul>
+          <li>Published in 2012, 232 pages</li>
+          <li><a href="http://www.amazon.com/Introduction-Rubrics-Assessment-Effective-Feedback/dp/1579225888/ref=pd_cp_b_1">http://www.amazon.com/Introduction-Rubrics-Assessment-Effective-Feedback/dp/1579225888/ref=pd_cp_b_1</a></li>
+          <li>Seems similar to the last two, a bit longer.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Academic Articles
+    <ul>
+      <li>The use of scoring rubrics: Reliability, validity and educational consequences
+        <ul>
+          <li>Meta study on reviews of metrics for performance assessment, 2007</li>
+          <li>Overview:
+            <ul>
+              <li>1) Rubrics successfully enhance scoring reliability</li>
+              <li>2) Rubrics improve learning / instruction when known &amp; understood.</li>
+            </ul>
+          </li>
+          <li>Conclusions
+            <ul>
+              <li>This paper aimed to review empirical research and illuminate the questions of how the use of rubrics can (1) enhance the reliability of scoring, (2) facilitate valid judgment of performance assessments, and (3) give positive educational consequences, such as promoting learning and/or improve instruction.</li>
+              <li>A first conclusion is that the reliable scoring of performance assessments can be enhanced by the use of rubrics. In relation to reliability issues, rubrics should be analytic, topic-specific, and complemented with exemplars and/or rater training. Since performance assessments are more or less open ended per definition, it is not always possible to restrict the assessment format to achieve high levels of reliability without sacrificing the validity.</li>
+              <li>Another conclusion is that rubrics do not facilitate valid judgment of performance assessments per se. Valid assessment could be facilitated by using a more comprehensive framework of validity when validating the rubric, instead of focusing on only one or two aspects of validity. In relation to learning and instruction, consequential validity is an aspect of validity that might need further attention.</li>
+              <li>Furthermore, it has been concluded that rubrics seem to have the potential of promoting learning and/or improve instruction. The main reason for this potential lies in the fact that rubrics make expectations and criteria explicit, which also facilitates feedback and self-assessment. It is thus argued that assessment quality criteria should emphasize dimensions like transparency and fitness for self-assessment to a greater extent than is done through the traditional reliability and validity criteria. This could be achieved through a framework of quality criteria that acknowledges the importance of trustworthiness in assessment as well as supports a more comprehensive view on validity issues (including educational consequences).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Quantitative analysis of the rubric as an assessment tool: an empirical study of student peer‐group rating
+        <ul>
+          <li><a href="http://www.tandfonline.com/doi/pdf/10.1080/0950069022000038268">http://www.tandfonline.com/doi/pdf/10.1080/0950069022000038268</a></li>
+          <li>“Taken together, these data indicate that use of the rubric for self-evaluation affords the students valid assessments of their own performances.”</li>
+          <li>“Research has shown that group work and peer assessment have resulted in increased student comprehension and, ultimately, in higher grades (for a review, see Falchikov 1991, Gatfield 1999).”</li>
+        </ul>
+      </li>
+      <li>A review of rubric use in higher education
+        <ul>
+          <li>2010 Meta-study</li>
+          <li><a href="http://class.web.nthu.edu.tw/ezfiles/669/1669/img/1381/6.Areviewofrubricuseinhighereducation.pdf">http://class.web.nthu.edu.tw/ezfiles/669/1669/img/1381/6.Areviewofrubricuseinhighereducation.pdf</a></li>
+          <li>“Two studies suggested that rubric use was associated with improved academic performance, while one did not.”</li>
+          <li>“Studies of the validity of rubrics have shown that clarity and appropriateness of language is a central concern. Studies of rater reliability tend to show that rubrics can lead to a relatively common interpretation of student performance”</li>
+          <li>“Little attention has been paid to the validity of rubrics.  Most of the work has been on reliability - a necessary but insufficient condition of validity.</li>
+          <li>“The language used in rubrics is considered to be one of the most challenging aspects of its design (Tierney and Simon 2004; Moni, Beswick, and Moni 2005). As with any form of assessment, the clarity of the language in a rubric is a matter of validity because an ambiguous rubric cannot be accurately or consistently interpreted by instructors, students or scorers (Payne 2003). T”</li>
+          <li>“raters must be sufficiently trained in order to achieve acceptable levels of reliability (typically 70% agreement or higher).”</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="blog-efficiency">Blog Efficiency</h2>
+<p>It took me 3 +- 1 hours to write this, plus another 30 minutes edit it
+and post it here.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Transparency Research Outline]]></title>
+    <link href="http://ozziegooen.com/blog/2013/10/21/transparency-outline/"/>
+    <updated>2013-10-21T03:03:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/10/21/transparency-outline</id>
+    <content type="html"><![CDATA[<h2 id="summary">Summary</h2>
+<p>Recently I spent some time researching Transparency, after preparing to write a few posts about it.  While originally I wanted to treat “Transparency” as a singular phenomena, the existing literature on it suggests that there really is no coherent idea of “Transparency”, but rather a set of several competing notions used in different fields<span class="certainty">~c1i3</span>.  For example, “Company Transparency” seems to refer a lot to having a nice company blog, while “Nonprofit Transparency” is often about the financials<span class="certainty">~c1i2</span>.  </p>
+
+<p>This is what I have recorded from about one day of research on the topic.  I hope to look through some of the books and articles in more detail later on, this so far was just a broad overview. </p>
+
+<p>I took these notes in a Workflowy <a href="https://workflowy.com/shared/de1355ef-35e1-7e27-cc34-8e48c4162d67/">here</a>, which I think is the easiest way to access (and contribute) to this<span class="certainty">~i2</span>.  However, I have also exported the notes below for convenience.  Fortunately the ‘export’ workflowy feature works very well with Markdown.</p>
+
+<h2 id="outline">Outline</h2>
+<ul>
+  <li>Quotes
+    <ul>
+      <li>“Transparency is a slippery word; the kind of word that, like reform, sounds good and so ends up getting attached to any random political thing that someone wants to promote. - Aaron Swarz
+        <ul>
+          <li>Daniel Lathrop and Laurel Ruma. Open Government (Kindle Locations 5958-5960). O’Reilly Media, Inc..”</li>
+        </ul>
+      </li>
+      <li>“Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency”
+        <ul>
+          <li>Transparency Matters: The concept of organizational transparency in the academic discourse</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Definitions
+    <ul>
+      <li>“Transparency refers to the idea that social and political processes should be both visible and accountable, in order to minimize error. It is one of the mechanisms whereby public error correction can take place.”
+        <ul>
+          <li><a href="http://issuepedia.org/Transparency">http://issuepedia.org/Transparency</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Regular Books
+    <ul>
+      <li>Business
+        <ul>
+          <li>Full Disclosure
+            <ul>
+              <li>“Transparency policies are frequently ineffective or counterproductive”</li>
+              <li>Based on a comparative analysis of eighteen major policies, most of which are suggested to have been very sub-optimal.</li>
+            </ul>
+          </li>
+          <li>“The Naked Corporation: How the age of transparency will revolutionize business”
+            <ul>
+              <li>Cited by 270 according to Google Scholar.</li>
+              <li>Preview here:
+                <ul>
+                  <li><a href="http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=HcBWcUZo9p8C&amp;oi=fnd&amp;pg=PP1&amp;dq=business+transparency&amp;ots=5-Nq_jnLF5&amp;sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&amp;q=business%20transparency&amp;f=fals">http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=HcBWcUZo9p8C&amp;oi=fnd&amp;pg=PP1&amp;dq=business+transparency&amp;ots=5-Nq_jnLF5&amp;sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&amp;q=business%20transparency&amp;f=fals</a>e</li>
+                  <li><a href="http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&amp;qid=1381689856&amp;sr=8-1&amp;keywords=The+Naked+Corporation">http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&amp;qid=1381689856&amp;sr=8-1&amp;keywords=The+Naked+Corporation</a></li>
+                </ul>
+              </li>
+              <li>“To head off such PR catastrophes, the authors recommend a policy of “transparency,” whereby companies disclose all possible information, a practice they feel boosts employee morale and performance, facilitates business partnerships, and helps responsible corporations attract socially conscious consumers and investors.”</li>
+              <li>Seems to be a fairly generally good pop business book.  Good reviews (5/5 from 15 reviews on Amazon)</li>
+            </ul>
+          </li>
+          <li>The Open-Source Everything ManifestoL Transparency, Truth, and Trust
+            <ul>
+              <li><a href="http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&amp;qid=1381697421&amp;sr=8-1-spell&amp;keywords=the+open-source+everything+manifestor">http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&amp;qid=1381697421&amp;sr=8-1-spell&amp;keywords=the+open-source+everything+manifestor</a></li>
+              <li>My take: It gets some good reviews, some terrible ones.  Seems to me like an ‘open source is awesome’ promotion without much substance in the specific issues of what transparency is or how to implement it.</li>
+              <li>Author seems to be quite a figure.  See this quote in his biography:
+“ “…three Washington tours (counterintelligence, information technology, DCI’s vault for all technical systems), CIA Mid-Career Course, invited by Marine Corps to come back as a GS-14 to help created the Marine Corps Intelligence Center, did that. That was also my fork in the road. Discovered that the secret world is largely worthless in supporting all policy, all acquisition, all operations, and totally absent in supporting Whole of Government, public education, and public research. Started the modern Open Source Intelligence (OSINT) movement against very strong resistance from CIA, went on the train 7,500 mid-career officers from across 66+ countries, wrote the DIA, NATO, and SOF OSINT Handbooks. Created a for-profit (Open Source Solutions Network, now closed) and a non-profit (Earth Intelligence Network, 501c3, lying fallow). “</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Anthropology/Philosophy
+        <ul>
+          <li>“Transparency” by Marek Bienczyk
+            <ul>
+              <li>This looked interesting to me, though there’s very little about it online.  It’s far more academic and romantic than the others here.  </li>
+              <li>First chapter is here: <a href="http://asymptotejournal.com/article.php?cat=Nonfiction&amp;id=23&amp;curr_index=0">http://asymptotejournal.com/article.php?cat=Nonfiction&amp;id=23&amp;curr_index=0</a></li>
+              <li>Random quote:
+                <ul>
+                  <li>“Thus, the tragedy of Rousseauian transparency is the fact that it is left defenseless within its own innocence: it can’t defend itself from being clouded over, from the darkening brought on by the unrestrained activity of mankind, from the false judgments of others. Simply looking at other people isn’t enough to achieve this transparency, nor does looking seek to do so. - See more at: http://asymptotejournal.com/article.php?cat=Nonfiction&amp;id=23&amp;curr_index=0#sthash.eCkfKthK.dpuf”</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Jean-Jacques Rousseau, Transparency and Obstruction</li>
+        </ul>
+      </li>
+      <li>Science Fiction
+        <ul>
+          <li>The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?
+            <ul>
+              <li>By David Brin (Popular Sci Fi Author)</li>
+              <li>Seems to focus on privacy/freedom, not sure how much it has to do with organizational transparency.</li>
+              <li><a href="http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&amp;qid=1381702674&amp;sr=8-1&amp;keywords=the+transparent+society">http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&amp;qid=1381702674&amp;sr=8-1&amp;keywords=the+transparent+society</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Academic Books / Textbooks
+    <ul>
+      <li>“Open Government: Collaboration, Transparency, and Participation in Practice”
+        <ul>
+          <li>Seems to be very academic and information-dense, though is not very numeric or quantifiable.</li>
+          <li>A collection of essays outlining discussions and case studies of transparency relating to government.</li>
+          <li>3.71 rating on Goodreads.</li>
+          <li>Free on github here: <a href="https://github.com/oreillymedia/open_government">https://github.com/oreillymedia/open_government</a></li>
+          <li>The most recommended essay was Tim O’Reilly’s.
+            <ul>
+              <li>Essay here: <a href="https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc">https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc</a></li>
+              <li>Video here: <a href="http://www.youtube.com/watch?v=dYB8xokkWjg">http://www.youtube.com/watch?v=dYB8xokkWjg</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>“Roles and Scopes of Public Relations”
+        <ul>
+          <li>10th International Public Relations Research Conference, 2006</li>
+          <li>Article: “Measuring the Relationship Between Organizational Transparency and Trust..”</li>
+          <li>Free here: http://www.iprrc.org/docs/IPRRC_10_Proceedings.pdf#page=425</li>
+        </ul>
+      </li>
+      <li>“Transparency in a New Global Order: Unveiling Organizational Visions”
+        <ul>
+          <li>Mostly articles bunch of Anthropologist and Sociologist Academics</li>
+          <li><a href="http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&amp;qid=1381696134&amp;sr=8-1&amp;keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions">http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&amp;qid=1381696134&amp;sr=8-1&amp;keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions</a></li>
+          <li>The table of contents looks interesting.  Some examples
+            <ul>
+              <li>The social life of brands.</li>
+              <li>The naked corporation: visualization, veiling and the ethico-politics of organizational transparency</li>
+              <li>Promoting transparency, preventing war: neoliberalism, conflict preventionism and the new military.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Academic Articles
+    <ul>
+      <li>“Transparency Matters: The concept of organizational transparency in the academic discourse”
+        <ul>
+          <li>A meta-analysis of the existing literature on “Transparency”</li>
+          <li>From the Abstract:
+            <ul>
+              <li>“Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency”</li>
+              <li>“like in the public relations discourse, a theory-driven analysis of transparency is a desideratum.”</li>
+              <li>Link: <a href="http://pri.sagepub.com/content/1/3/337.short">http://pri.sagepub.com/content/1/3/337.short</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>“Give the Emperor a Mirror: Toward a Stakeholder Measurement of Organizational Transparency”
+        <ul>
+          <li>The most quantitative and comprehensive overview I’ve found on this issue.</li>
+          <li>Give the Emperor a Mirror: Toward Developing a Stakeholder Measurement of Organizational Transparency</li>
+          <li>Abstract:
+“The concept of organizational transparency has vaulted to prominence in recent years. While the virtues of transparency have been tied to trust and credibility, there have been no efforts to measure this abstract concept. Guidelines exist to help organizations be more transparent, but the real test is how stakeholders perceive an organization’s transparency. This paper focuses on developing a stakeholder measurement of organizational transparency. Factor analyses, structural equation models, and reliability alphas on the measurement items indicate the instrument measures three transparency reputation traits (integrity, respect for others, openness) and four transparency efforts (participation, substantial information, accountability, and secrecy).”</li>
+        </ul>
+      </li>
+      <li>“Transparency and Participation in the World Trade Organization”
+        <ul>
+          <li>Cited by 35</li>
+          <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522</a></li>
+          <li>“The foundation stone of international norms for transparency”
+            <ul>
+              <li>The foundation stone of international norms for transparency was the 1923 International Convention Relating to the Simplification of Customs Formalities (“Customs Convention”).9 The Customs Convention established rules for transparency and review at the national level.10 All customs regulations were required to be promptly published “in such a manner as to enable persons concerned to become acquainted with them and to avoid the prejudice which might result from the application of customs formalities of which they are ignorant.”11 </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>“Towards a Precise Semantics for Authenticity and Trust”
+        <ul>
+          <li>I love the name, but this is about digital security (private key certification), not organizational authenticity and trust</li>
+          <li><a href="http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&amp;id=1501457&amp;acc=ACTIVE%20SERVICE&amp;key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&amp;CFID=253530328&amp;CFTOKEN=78775276&amp;__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2">http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&amp;id=1501457&amp;acc=ACTIVE%20SERVICE&amp;key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&amp;CFID=253530328&amp;CFTOKEN=78775276&amp;__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Blog Posts
+    <ul>
+      <li>Givewell’s Transparency Policy
+        <ul>
+          <li><a href="http://www.givewell.org/about/transparency">http://www.givewell.org/about/transparency</a></li>
+        </ul>
+      </li>
+      <li>Givewell’s post “What characteristics do we look for?”
+        <ul>
+          <li><a href="http://www.givewell.org/characteristics-we-look-for">http://www.givewell.org/characteristics-we-look-for</a></li>
+        </ul>
+      </li>
+      <li>The See-Through CEO 
+        <ul>
+          <li>Link:
+<a href="http://www.wired.com/wired/archive/15.04/wired40_ceo.html">http://www.wired.com/wired/archive/15.04/wired40_ceo.html</a></li>
+          <li>Summary: This was a short story of a CEO who blogged a lot followed by some discussion that “reputation online is everything.”  This is considered by him to be “Radical Transparency.”</li>
+          <li>Quotes
+            <ul>
+              <li>“Nearly everyone I spoke to had a warning for would-be transparent CEOs: You can’t go halfway naked. It’s all or nothing. Executives who promise they’ll be open have to stay open. The minute they become evasive about troubling news, transparency’s implied social compact crumbles.”</li>
+              <li>“The reputation economy creates an incentive to be more open, not less. Since Internet commentary is inescapable, the only way to influence it is to be part of it. Being transparent, opening up, posting interesting material frequently and often is the only way to amass positive links to yourself and thus to directly influence your Googleable reputation.”</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>A Parable about Openness: Followed by Some Thoughts on Privacy, Security, and Surveillance in the Information Age
+        <ul>
+          <li><a href="http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf">http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Organizations
+    <ul>
+      <li>Transparency International
+        <ul>
+          <li>A nonprofit dedicated to exposing transparency within governments and business, mainly to expose corruption.  </li>
+          <li>“Our Vision” : “A World in which Government Politics, Business, Civil Society and the Daily Lives of People are Free of Corruption”
+            <ul>
+              <li>This indicates that they are much more an organization against corruption (and using transparency for this means) than one for transparency, which has benefits outside of corruption.</li>
+            </ul>
+          </li>
+          <li>Useful documents</li>
+          <li>“TRANSPARENCY IN CORPORATE REPORTING: ASSESSING THE WORLD’S LARGEST COMPANIES”
+            <ul>
+              <li>“This study analyses the transparency of corporate reporting on a range of anticorruption measures among the 105 largest publicly listed multinational companies. Together these companies are worth more than US$11 trillion and touch the lives of people in countries across the globe, wielding enormous and far reaching power.”</li>
+              <li><a href="http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies">http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies</a></li>
+              <li>My take
+                <ul>
+                  <li>A very pretty report that rates a multinational companies on a few “transparency” questionnaires, specifically focussing on corruption.</li>
+                  <li>The Questionnaire in some ways is the best part.  They have three indexes, each with a list of different questions.
+                    <ul>
+                      <li>
+                        <ol>
+                          <li>DISCLOSED ANTI-CORRUPTION PROGRAMMES 
+                            <ul>
+                              <li>Does the company have a publicly stated commitment to anti-corruption?</li>
+                              <li>Does the company publicly commit to be in compliance with all relevant laws, including anti-corruption laws?</li>
+                              <li>Does the company leadership demonstrate support for anti-corruption? E.g. is there a statement in a corporate citizenship report or in public pronouncements on integrity?</li>
+                              <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to all employees?</li>
+                              <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to all agents and other intermediaries?</li>
+                              <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to contractors, subcontractors and suppliers?</li>
+                              <li>Does the company have an anti-corruption training programme for its employees in place?</li>
+                              <li>Does the company have a policy defining appropriate/ inappropriate gifts, hospitality and travel expenses?</li>
+                              <li>Is there a policy that explicitly forbids facilitation payments?</li>
+                              <li>Does the company prohibit retaliation for reporting the violation of a policy?</li>
+                              <li>Does the company provide channels through which employees can report potential violations of policy or seek advice (e.g. whistleblowing) in confidence?</li>
+                              <li>Does the company carry out regular monitoring of its anti-corruption programme?</li>
+                              <li>Does the company have a policy prohibiting political contributions or if it does make such contributions, are they fully disclosed?</li>
+                            </ul>
+                          </li>
+                        </ol>
+                      </li>
+                      <li>
+                        <ol>
+                          <li>ORGANISATIONAL TRANSPARENCY (DISCLOSURE OF SUBSIDIARIES) 
+                            <ul>
+                              <li>Does the company disclose the full list of its fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose percentages owned in its fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose countries of incorporation of its fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose countries of operations of its fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose the full list of its non- fully consolidated material subsidiaries?28</li>
+                              <li>Does the company disclose percentages owned in its non-fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose countries of incorporation of its non-fully consolidated material subsidiaries?</li>
+                              <li>Does the company disclose countries of operations of its non-fully consolidated material subsidiaries?</li>
+                            </ul>
+                          </li>
+                        </ol>
+                      </li>
+                      <li>
+                        <ol>
+                          <li>COUNTRY-BY-COUNTRY DISCLOSURE 
+                            <ul>
+                              <li>In our study ‘countries of operations’ are those countries in which a company is present either directly or through one of its consolidated subsidiaries. The relevant list of countries of operations is based on the company’s own reporting.</li>
+                              <li>For each country of the company’s operations the following set of questions has been asked:</li>
+                              <li>Does the company disclose its revenues/ sales in country X?</li>
+                              <li>Does the company disclose its capital expenditure in country X?</li>
+                              <li>Does the company disclose its pre-tax income in country X?</li>
+                              <li>Does the company disclose its income tax in country X?</li>
+                              <li>Does the company disclose its community contribution in country X?</li>
+                            </ul>
+                          </li>
+                        </ol>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Related Terms
+    <ul>
+      <li>Radical Transparency
+        <ul>
+          <li>Definitions
+            <ul>
+              <li>“Radical Transparency is presenting to individuals the previously-hidden impacts of the things they buy and do, and giving them choices at that moment.
+                <ul>
+                  <li>“Backtracks that to the multiple of the environmental, economical and social choices”</li>
+                  <li>Daniel Goleman</li>
+                  <li><a href="http://www.youtube.com/watch?v=-OqCF2htL4c">http://www.youtube.com/watch?v=-OqCF2htL4c</a></li>
+                </ul>
+              </li>
+              <li>General “We’re very transparent” stuff
+                <ul>
+                  <li>Talk by Justin Rosenstein (Asana)
+                    <ul>
+                      <li><a href="http://www.youtube.com/watch?v=UBKsjGZjghc">http://www.youtube.com/watch?v=UBKsjGZjghc</a></li>
+                      <li>Board meetings
+                        <ul>
+                          <li>At board meetings, they occationally bring in outsiders to “enjoy the process”</li>
+                          <li>Take “copious notes” and send them to the company.</li>
+                        </ul>
+                      </li>
+                      <li>Weekly planning meetings
+                        <ul>
+                          <li>Business heads </li>
+                          <li>Doesn’t share salaries, some HR meetings</li>
+                          <li>Take “copious notes”, send them out to the company.</li>
+                          <li>“Sometimes participate in dialogue”</li>
+                          <li>It “brings trust” that they are making the correct decisions.</li>
+                        </ul>
+                      </li>
+                      <li>“People are empowered with enough knowledge that they don’t have to be micromanaged.” </li>
+                      <li>Provide people with “context about how things work” rather than “controlling what they do”.  </li>
+                      <li>Company of Peers”
+                        <ul>
+                          <li>Roadmap week
+                            <ul>
+                              <li>After each episode (quarter)</li>
+                              <li>One week of meetings each day, in committees. </li>
+                              <li>Results in less normal meetings.</li>
+                              <li>Meetings on “mobile” , “Values”, “how to expand design team”, etc.</li>
+                              <li>The committees put together the plans, generally are acted upon without overrides from executives.</li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Wikipedia: <a href="http://en.wikipedia.org/wiki/Radical_transparency">http://en.wikipedia.org/wiki/Radical_transparency</a></li>
+        </ul>
+      </li>
+      <li>Open Business
+        <ul>
+          <li>“an approach to enterprise that draws on ideas from openness movements like free software, open source, open content and open tools and standards. The approach places value on transparency, stakeholder inclusion, and accountability.” - wikipedia</li>
+          <li>The wikipedia page got me really excited, then I realized there were no real references.</li>
+          <li><a href="http://en.wikipedia.org/wiki/Open_business">http://en.wikipedia.org/wiki/Open_business</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Transparency (shared)
+    <ul>
+      <li>Summary Quotes
+        <ul>
+          <li>“Transparency is a slippery word; the kind of word that, like reform, sounds good and so ends up getting attached to any random political thing that someone wants to promote. - Aaron Swarz
+            <ul>
+              <li>Daniel Lathrop and Laurel Ruma. Open Government (Kindle Locations 5958-5960). O’Reilly Media, Inc..”</li>
+            </ul>
+          </li>
+          <li>“Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency”
+            <ul>
+              <li>Transparency Matters: The concept of organizational transparency in the academic discourse</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Definitions
+        <ul>
+          <li>“Transparency refers to the idea that social and political processes should be both visible and accountable, in order to minimize error. It is one of the mechanisms whereby public error correction can take place.”
+            <ul>
+              <li><a href="http://issuepedia.org/Transparency">http://issuepedia.org/Transparency</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Regular Books
+        <ul>
+          <li>Business
+            <ul>
+              <li>Full Disclosure
+                <ul>
+                  <li>“Transparency policies are frequently ineffective or counterproductive”</li>
+                  <li>Based on a comparative analysis of eighteen major policies, most of which are suggested to have been very sub-optimal.</li>
+                </ul>
+              </li>
+              <li>“The Naked Corporation: How the age of transparency will revolutionize business”
+                <ul>
+                  <li>Cited by 270 according to Google Scholar.</li>
+                  <li>Preview here:
+                    <ul>
+                      <li><a href="http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=HcBWcUZo9p8C&amp;oi=fnd&amp;pg=PP1&amp;dq=business+transparency&amp;ots=5-Nq_jnLF5&amp;sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&amp;q=business%20transparency&amp;f=false">http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=HcBWcUZo9p8C&amp;oi=fnd&amp;pg=PP1&amp;dq=business+transparency&amp;ots=5-Nq_jnLF5&amp;sig=4dqbexNZVxXJShrRilRuLzFsATo#v=onepage&amp;q=business%20transparency&amp;f=false</a></li>
+                      <li><a href="http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&amp;qid=1381689856&amp;sr=8-1&amp;keywords=The+Naked+Corporation">http://www.amazon.com/Naked-Corporation-Transparency-Revolutionize-ebook/dp/B000FC0VGQ/ref=sr_1_1?ie=UTF8&amp;qid=1381689856&amp;sr=8-1&amp;keywords=The+Naked+Corporation</a></li>
+                    </ul>
+                  </li>
+                  <li>“To head off such PR catastrophes, the authors recommend a policy of “transparency,” whereby companies disclose all possible information, a practice they feel boosts employee morale and performance, facilitates business partnerships, and helps responsible corporations attract socially conscious consumers and investors.”</li>
+                  <li>Seems to be a fairly generally good pop business book.  Good reviews (5/5 from 15 reviews on Amazon)</li>
+                </ul>
+              </li>
+              <li>The Open-Source Everything ManifestoL Transparency, Truth, and Trust
+                <ul>
+                  <li><a href="http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&amp;qid=1381697421&amp;sr=8-1-spell&amp;keywords=the+open-source+everything+manifestor">http://www.amazon.com/Open-Source-Everything-Manifesto-Transparency-ebook/dp/B005MU3VKO/ref=sr_1_sc_1?ie=UTF8&amp;qid=1381697421&amp;sr=8-1-spell&amp;keywords=the+open-source+everything+manifestor</a></li>
+                  <li>My take: It gets some good reviews, some terrible ones.  Seems to me like an ‘open source is awesome’ promotion without much substance in the specific issues of what transparency is or how to implement it.</li>
+                  <li>Author seems to be quite a figure.  See this quote in his biography:
+“ “…three Washington tours (counterintelligence, information technology, DCI’s vault for all technical systems), CIA Mid-Career Course, invited by Marine Corps to come back as a GS-14 to help created the Marine Corps Intelligence Center, did that. That was also my fork in the road. Discovered that the secret world is largely worthless in supporting all policy, all acquisition, all operations, and totally absent in supporting Whole of Government, public education, and public research. Started the modern Open Source Intelligence (OSINT) movement against very strong resistance from CIA, went on the train 7,500 mid-career officers from across 66+ countries, wrote the DIA, NATO, and SOF OSINT Handbooks. Created a for-profit (Open Source Solutions Network, now closed) and a non-profit (Earth Intelligence Network, 501c3, lying fallow). “</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Anthropology/Philosophy
+            <ul>
+              <li>“Transparency” by Marek Bienczyk
+                <ul>
+                  <li>This looked interesting to me, though there’s very little about it online.  It’s far more academic and romantic than the others here.  </li>
+                  <li>First chapter is here: http://asymptotejournal.com/article.php?cat=Nonfiction&amp;id=23&amp;curr_index=0</li>
+                  <li>Random quote:
+                    <ul>
+                      <li>“Thus, the tragedy of Rousseauian transparency is the fact that it is left defenseless within its own innocence: it can’t defend itself from being clouded over, from the darkening brought on by the unrestrained activity of mankind, from the false judgments of others. Simply looking at other people isn’t enough to achieve this transparency, nor does looking seek to do so. - See more at: http://asymptotejournal.com/article.php?cat=Nonfiction&amp;id=23&amp;curr_index=0#sthash.eCkfKthK.dpuf”</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>Jean-Jacques Rousseau, Transparency and Obstruction</li>
+            </ul>
+          </li>
+          <li>Science Fiction
+            <ul>
+              <li>The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?
+                <ul>
+                  <li>By David Brin (Popular Sci Fi Author)</li>
+                  <li>Seems to focus on privacy/freedom, not sure how much it has to do with organizational transparency.</li>
+                  <li><a href="http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&amp;qid=1381702674&amp;sr=8-1&amp;keywords=the+transparent+society">http://www.amazon.com/Transparent-Society-Technology-Between-ebook/dp/B004P5O37W/ref=sr_1_1?ie=UTF8&amp;qid=1381702674&amp;sr=8-1&amp;keywords=the+transparent+society</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Academic Books / Textbooks
+        <ul>
+          <li>“Open Government: Collaboration, Transparency, and Participation in Practice”
+            <ul>
+              <li>Seems to be very academic and information-dense, though is not very numeric or quantifiable.</li>
+              <li>A collection of essays outlining discussions and case studies of transparency relating to government.</li>
+              <li>3.71 rating on Goodreads.</li>
+              <li>Free on github here: <a href="https://github.com/oreillymedia/open_government">https://github.com/oreillymedia/open_government</a></li>
+              <li>The most recommended essay was Tim O’Reilly’s.
+                <ul>
+                  <li>Essay here: <a href="https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc">https://github.com/oreillymedia/open_government/blob/master/source/chapter_02_timoreilly.asciidoc</a></li>
+                  <li>Video here: <a href="http://www.youtube.com/watch?v=dYB8xokkWjg">http://www.youtube.com/watch?v=dYB8xokkWjg</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>“Roles and Scopes of Public Relations”
+            <ul>
+              <li>10th International Public Relations Research Conference, 2006</li>
+              <li>Article: “Measuring the Relationship Between Organizational Transparency and Trust..”</li>
+              <li>Free here: <a href="http://www.iprrc.org/docs/IPRRC_10_Proceedings.pdf#page=425">http://www.iprrc.org/docs/IPRRC_10_Proceedings.pdf#page=425</a></li>
+            </ul>
+          </li>
+          <li>“Transparency in a New Global Order: Unveiling Organizational Visions”
+            <ul>
+              <li>Mostly articles bunch of Anthropologist and Sociologist Academics</li>
+              <li><a href="http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&amp;qid=1381696134&amp;sr=8-1&amp;keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions">http://www.amazon.com/Transparency-New-Global-Order-Organizational/dp/1845423259/ref=sr_1_1?ie=UTF8&amp;qid=1381696134&amp;sr=8-1&amp;keywords=Transparency+in+a+New+Global+Order%3A+Unveiling+Organizational+Visions</a></li>
+              <li>The table of contents looks interesting.  Some examples
+                <ul>
+                  <li>The social life of brands.</li>
+                  <li>The naked corporation: visualization, veiling and the ethico-politics of organizational transparency</li>
+                  <li>Promoting transparency, preventing war: neoliberalism, conflict preventionism and the new military.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Academic Articles
+        <ul>
+          <li>“Transparency Matters: The concept of organizational transparency in the academic discourse”
+            <ul>
+              <li>A meta-analysis of the existing literature on “Transparency”</li>
+              <li>From the Abstract:
+                <ul>
+                  <li>“Although transparency is currently a buzzword in the public discourse, public relations (PR) theory has not yet produced a theory of transparency”</li>
+                  <li>“like in the public relations discourse, a theory-driven analysis of transparency is a desideratum.”</li>
+                  <li>Link: <a href="http://pri.sagepub.com/content/1/3/337.short">http://pri.sagepub.com/content/1/3/337.short</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>“Give the Emperor a Mirror: Toward a Stakeholder Measurement of Organizational Transparency”
+            <ul>
+              <li>The most quantitative and comprehensive overview I’ve found on this issue.</li>
+              <li>Give the Emperor a Mirror: Toward Developing a Stakeholder Measurement of Organizational Transparency</li>
+              <li>Abstract:
+“The concept of organizational transparency has vaulted to prominence in recent years. While the virtues of transparency have been tied to trust and credibility, there have been no efforts to measure this abstract concept. Guidelines exist to help organizations be more transparent, but the real test is how stakeholders perceive an organization’s transparency. This paper focuses on developing a stakeholder measurement of organizational transparency. Factor analyses, structural equation models, and reliability alphas on the measurement items indicate the instrument measures three transparency reputation traits (integrity, respect for others, openness) and four transparency efforts (participation, substantial information, accountability, and secrecy).”</li>
+            </ul>
+          </li>
+          <li>“Transparency and Participation in the World Trade Organization”
+            <ul>
+              <li>Cited by 35</li>
+              <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=710522</a></li>
+              <li>“The foundation stone of international norms for transparency”
+                <ul>
+                  <li>The foundation stone of international norms for transparency was the 1923 International Convention Relating to the Simplification of Customs Formalities (“Customs Convention”).9 The Customs Convention established rules for transparency and review at the national level.10 All customs regulations were required to be promptly published “in such a manner as to enable persons concerned to become acquainted with them and to avoid the prejudice which might result from the application of customs formalities of which they are ignorant.”11 </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>“Towards a Precise Semantics for Authenticity and Trust”
+            <ul>
+              <li>I love the name, but this is about digital security (private key certification), not organizational authenticity and trust</li>
+              <li><a href="http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&amp;id=1501457&amp;acc=ACTIVE%20SERVICE&amp;key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&amp;CFID=253530328&amp;CFTOKEN=78775276&amp;__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2">http://delivery.acm.org/10.1145/1510000/1501457/a18-kohlas.pdf?ip=129.67.172.176&amp;id=1501457&amp;acc=ACTIVE%20SERVICE&amp;key=C2716FEBFA981EF1FFE496A39B822B3BD58A7F987B06222E&amp;CFID=253530328&amp;CFTOKEN=78775276&amp;__acm__=1381685076_1801d311cf9cfb7b9bb62d40671a50e2</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Blog Posts
+        <ul>
+          <li>Givewell’s Transparency Policy
+            <ul>
+              <li><a href="http://www.givewell.org/about/transparency">http://www.givewell.org/about/transparency</a></li>
+            </ul>
+          </li>
+          <li>Givewell’s post “What characteristics do we look for?”
+            <ul>
+              <li><a href="http://www.givewell.org/characteristics-we-look-for">http://www.givewell.org/characteristics-we-look-for</a></li>
+            </ul>
+          </li>
+          <li>The See-Through CEO 
+            <ul>
+              <li>Link:
+<a href="http://www.wired.com/wired/archive/15.04/wired40_ceo.html">http://www.wired.com/wired/archive/15.04/wired40_ceo.html</a></li>
+              <li>Summary: This was a short story of a CEO who blogged a lot followed by some discussion that “reputation online is everything.”  This is considered by him to be “Radical Transparency.”</li>
+              <li>Quotes
+                <ul>
+                  <li>“Nearly everyone I spoke to had a warning for would-be transparent CEOs: You can’t go halfway naked. It’s all or nothing. Executives who promise they’ll be open have to stay open. The minute they become evasive about troubling news, transparency’s implied social compact crumbles.”</li>
+                  <li>“The reputation economy creates an incentive to be more open, not less. Since Internet commentary is inescapable, the only way to influence it is to be part of it. Being transparent, opening up, posting interesting material frequently and often is the only way to amass positive links to yourself and thus to directly influence your Googleable reputation.”</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>A Parable about Openness: Followed by Some Thoughts on Privacy, Security, and Surveillance in the Information Age
+            <ul>
+              <li><a href="http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf">http://www.davidbrin.com/akademos.html#sthash.92mJ4jlw.dpuf</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Organizations
+        <ul>
+          <li>Transparency International
+            <ul>
+              <li>A nonprofit dedicated to exposing transparency within governments and business, mainly to expose corruption.  </li>
+              <li>“Our Vision” : “A World in which Government Politics, Business, Civil Society and the Daily Lives of People are Free of Corruption”
+                <ul>
+                  <li>This indicates that they are much more an organization against corruption (and using transparency for this means) than one for transparency, which has benefits outside of corruption.</li>
+                </ul>
+              </li>
+              <li>Useful documents</li>
+              <li>“TRANSPARENCY IN CORPORATE REPORTING: ASSESSING THE WORLD’S LARGEST COMPANIES”
+                <ul>
+                  <li>“This study analyses the transparency of corporate reporting on a range of anticorruption measures among the 105 largest publicly listed multinational companies. Together these companies are worth more than US$11 trillion and touch the lives of people in countries across the globe, wielding enormous and far reaching power.”</li>
+                  <li><a href="http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies">http://www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_the_worlds_largest_companies</a></li>
+                  <li>My take
+                    <ul>
+                      <li>A very pretty report that rates a multinational companies on a few “transparency” questionnaires, specifically focussing on corruption.</li>
+                      <li>The Questionnaire in some ways is the best part.  They have three indexes, each with a list of different questions.
+                        <ul>
+                          <li>
+                            <ol>
+                              <li>DISCLOSED ANTI-CORRUPTION PROGRAMMES 
+                                <ul>
+                                  <li>Does the company have a publicly stated commitment to anti-corruption?</li>
+                                  <li>Does the company publicly commit to be in compliance with all relevant laws, including anti-corruption laws?</li>
+                                  <li>Does the company leadership demonstrate support for anti-corruption? E.g. is there a statement in a corporate citizenship report or in public pronouncements on integrity?</li>
+                                  <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to all employees?</li>
+                                  <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to all agents and other intermediaries?</li>
+                                  <li>Does the company’s code of conduct/ anti-corruption policy explicitly apply to contractors, subcontractors and suppliers?</li>
+                                  <li>Does the company have an anti-corruption training programme for its employees in place?</li>
+                                  <li>Does the company have a policy defining appropriate/ inappropriate gifts, hospitality and travel expenses?</li>
+                                  <li>Is there a policy that explicitly forbids facilitation payments?</li>
+                                  <li>Does the company prohibit retaliation for reporting the violation of a policy?</li>
+                                  <li>Does the company provide channels through which employees can report potential violations of policy or seek advice (e.g. whistleblowing) in confidence?</li>
+                                  <li>Does the company carry out regular monitoring of its anti-corruption programme?</li>
+                                  <li>Does the company have a policy prohibiting political contributions or if it does make such contributions, are they fully disclosed?</li>
+                                </ul>
+                              </li>
+                            </ol>
+                          </li>
+                          <li>
+                            <ol>
+                              <li>ORGANISATIONAL TRANSPARENCY (DISCLOSURE OF SUBSIDIARIES) 
+                                <ul>
+                                  <li>Does the company disclose the full list of its fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose percentages owned in its fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose countries of incorporation of its fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose countries of operations of its fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose the full list of its non- fully consolidated material subsidiaries?28</li>
+                                  <li>Does the company disclose percentages owned in its non-fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose countries of incorporation of its non-fully consolidated material subsidiaries?</li>
+                                  <li>Does the company disclose countries of operations of its non-fully consolidated material subsidiaries?</li>
+                                </ul>
+                              </li>
+                            </ol>
+                          </li>
+                          <li>
+                            <ol>
+                              <li>COUNTRY-BY-COUNTRY DISCLOSURE 
+                                <ul>
+                                  <li>In our study ‘countries of operations’ are those countries in which a company is present either directly or through one of its consolidated subsidiaries. The relevant list of countries of operations is based on the company’s own reporting.</li>
+                                  <li>For each country of the company’s operations the following set of questions has been asked:</li>
+                                  <li>Does the company disclose its revenues/ sales in country X?</li>
+                                  <li>Does the company disclose its capital expenditure in country X?</li>
+                                  <li>Does the company disclose its pre-tax income in country X?</li>
+                                  <li>Does the company disclose its income tax in country X?</li>
+                                  <li>Does the company disclose its community contribution in country X?</li>
+                                </ul>
+                              </li>
+                            </ol>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Related Terms
+        <ul>
+          <li>Radical Transparency
+            <ul>
+              <li>Definitions
+                <ul>
+                  <li>“Radical Transparency is presenting to individuals the previously-hidden impacts of the things they buy and do, and giving them choices at that moment.
+                    <ul>
+                      <li>“Backtracks that to the multiple of the environmental, economical and social choices”</li>
+                      <li>Daniel Goleman</li>
+                      <li><a href="http://www.youtube.com/watch?v=-OqCF2htL4c">http://www.youtube.com/watch?v=-OqCF2htL4c</a></li>
+                    </ul>
+                  </li>
+                  <li>General “We’re very transparent” stuff
+                    <ul>
+                      <li>Talk by Justin Rosenstein (Asana)
+                        <ul>
+                          <li><a href="http://www.youtube.com/watch?v=UBKsjGZjghc">http://www.youtube.com/watch?v=UBKsjGZjghc</a></li>
+                          <li>Board meetings
+                            <ul>
+                              <li>At board meetings, they occationally bring in outsiders to “enjoy the process”</li>
+                              <li>Take “copious notes” and send them to the company.</li>
+                            </ul>
+                          </li>
+                          <li>Weekly planning meetings
+                            <ul>
+                              <li>Business heads </li>
+                              <li>Doesn’t share salaries, some HR meetings</li>
+                              <li>Take “copious notes”, send them out to the company.</li>
+                              <li>“Sometimes participate in dialogue”</li>
+                              <li>It “brings trust” that they are making the correct decisions.</li>
+                            </ul>
+                          </li>
+                          <li>“People are empowered with enough knowledge that they don’t have to be micromanaged.” </li>
+                          <li>Provide people with “context about how things work” rather than “controlling what they do”.  </li>
+                          <li>Company of Peers”
+                            <ul>
+                              <li>Roadmap week
+                                <ul>
+                                  <li>After each episode (quarter)</li>
+                                  <li>One week of meetings each day, in committees. </li>
+                                  <li>Results in less normal meetings.</li>
+                                  <li>Meetings on “mobile” , “Values”, “how to expand design team”, etc.</li>
+                                  <li>The committees put together the plans, generally are acted upon without overrides from executives.</li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>Wikipedia: <a href="http://en.wikipedia.org/wiki/Radical_transparency">http://en.wikipedia.org/wiki/Radical_transparency</a></li>
+            </ul>
+          </li>
+          <li>Open Business
+            <ul>
+              <li>“an approach to enterprise that draws on ideas from openness movements like free software, open source, open content and open tools and standards. The approach places value on transparency, stakeholder inclusion, and accountability.” - wikipedia</li>
+              <li>The wikipedia page got me really excited, then I realized there were no real references.</li>
+              <li><a href="http://en.wikipedia.org/wiki/Open_business">http://en.wikipedia.org/wiki/Open_business</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="blog-efficiency">Blog Efficiency</h2>
+<p>It took me 8 +- 3 hours to write this, plus another 30 minutes to post
+it here.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[You Are Your Purpose]]></title>
+    <link href="http://ozziegooen.com/blog/2013/10/20/you-are-your-purpose/"/>
+    <updated>2013-10-20T22:52:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/10/20/you-are-your-purpose</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Working to Give vs. Working to Improve]]></title>
+    <link href="http://ozziegooen.com/blog/2013/10/19/working-to-give-vs-working-to-improve/"/>
+    <updated>2013-10-19T19:04:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/10/19/working-to-give-vs-working-to-improve</id>
+    <content type="html"><![CDATA[<p>The de facto wisdom within the Effective Altruist community seems to be
+that the good that most people pursuing Earning to Give comes primarily
+by their donations, rather than the work that produced those donations.</p>
+
+<p>For instance, take a finance professional earning and donated 30% of his/her
+income.  This may be approximately $30,000 per year, and it’s very easy
+to understand how this money improves the world if spent wisely.  At a
+lower bound (for those who believe in even more important causes), this
+money would directly fund malaria nets via the AMF, saving approximately
+15 lives and preventing more sicknesses.  It’s much more difficult to
+estimate the impact of the more direct labor that the professional provides via their work in finance.  However, given the magnitude of the benefit from the donation, it generally been been assumed that the direct work is significantly less useful to society.  </p>
+
+<p>Still, I hear some claims that “Working to Give” in conventional fields
+like finance or software development (as opposed to unconventional
+fields like meta-research) may be as impactful or more-so than “Working
+to Give.”  The primary example that comes to mind is Holden, Exective
+Director of Givewell, who has stated, </p>
+
+<p>Claim #1: Some careers provide many (10-10,000x) times the work benefit
+as others.
+Claim #2: If some “decent” careers are approximately as useful as
+donations to the AMF, then “amazing” careers must be substantially
+better still.
+Claim #3: If “Working to Give” were more impactful than “Earning to
+Give”, then donations to work education may be substantially more
+important than ones to existing Givewell approved charities. 
+Claim #4: For most software engineers, “Earning to Give” is much more
+useful than “Working to Give”.  </p>
+
+<h2 id="claim-1">Claim 1</h2>
+<p>Consider the following careers.  How much value or utility to you think each one of
+them produces to the world through their work?  </p>
+
+<ul>
+  <li>A high-frequency trader</li>
+  <li>A pornography website host / web engineer</li>
+  <li>A Farmville advertising engineer</li>
+  <li>A LinkedIn email marketing automater.</li>
+  <li>A software engineer at Google</li>
+  <li>A software engineer at Google.org (their ‘do-good’ division)</li>
+  <li>The Wikipedia software team</li>
+</ul>
+
+<p>I’m going to guess that almost everyone would agree that at least one or
+two of these provide negligible or negative world value.  There seem to
+be zero-sum markets where benefits to one firm directly result in less
+profit to another, like high-frequency trading.  In other markets, web
+companies definitely do things that aren’t in the benefit of most
+people.  For example, I bet that most spam emails are a net negative for
+society, and yet web companies have entire departments set around
+spreading these. </p>
+
+<p>On the other hand, there have been some software projects that
+definitely have been quite useful.  Wikipedia comes across as one that started out with a tiny team but produced what seems to be lots of value.  So did Wikileaks.  Peter Singer recently mentioned that he considers that work for internet services in developing countries could provide huge returns.  So there have been software engineers / hackers who have provided lots
+of utility (though the amount is unclear), and others in different
+fields who have likely produced very little.</p>
+
+<p>Perhaps more obvious is the fact that most other fields seem to have
+power laws when describing the amount of world benefit provided.  We
+know that in the charity sector some charities are at least 10-1000x as
+efficient at others at converting money into utility.  With individual
+researchers this seems to be the case, with entire research fields it
+seems to be the case.  The 80/20 principal appears incredibly common,
+and it would be very surprising to me if it didn’t exist in terms of the
+benefits in different jobs.  Therefore it seems very likely that
+different careers would provide expected output utility of different
+orders of magnitude.</p>
+
+<h2 id="claim-2">Claim 2</h2>
+<p>If it’s true that average employees or software engineers produce more
+value in their work than in their donations(if spent optimally), it seems like careers that produce results 10-100x as high would make the AMF donations inconsequential in comparison.  This would appear to just be common sense if one assumes a Power Law.</p>
+
+<h2 id="claim-3">Claim 3</h2>
+<p>If it’s true that for people who choose “efficient careers”, they will
+produce 10-100x as much value from their work than their donations, then
+what’s by far the most important is that they maximize their work rather
+than that they maximize their donations.  If this is true, we should be
+doing much more of the following.</p>
+
+<h3 id="personal-education--training-to-insane-levels">1: Personal Education &amp; Training to Insane Levels</h3>
+<p>Personal coaches and tons of investment in self promotion would be in
+order, to very high amounts.  </p>
+
+<p>$80,000 per year, $20,000 donated per year.  </p>
+
+<p>20x as efficient as donation, so that’s effectively $400,000 of world
+productive value per year.</p>
+
+<p>A 5% improvement in productivity would be worth %20,000.  My guess is
+that $20,000 of money spent on personal efficiency could go much further
+than increase productivity by 5%.  $20,000 per year would be about $1.7k
+per month.  This could buy you several monthly coaching sessions, food
+and all home issues dealt with by fancy personal assistants, home
+cleaning etc.  </p>
+
+<p>Much of this would be to work as much as possible to produce as much
+output as possible.  Weekends and long nights as much as one doesn’t
+burn out or could sustain.  </p>
+
+<h3 id="very-high-investment-in-ones-happiness">2: Very high investment in one’s happiness</h3>
+<p>as sa fas sf
+asa as
+aasd</p>
+
+<h3 id="investment-in-education-of-others">2: Investment in education of others.</h3>
+
+<h2 id="claim-4--so-my-guess-is-that-anything-matters--it-also-includes-that-nothing-is-really-what-it-would-seem-otherwi">Claim 4  So my guess is that anything matters.  It also includes that nothing is really what it would seem	 otherwi</h2>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Creating a Text Shorthand for Uncertainty]]></title>
@@ -140,6 +1085,266 @@ post.</p>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Fighting the Shadow Zone]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/28/fighting-the-shadow-zone/"/>
+    <updated>2013-09-28T00:15:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/28/fighting-the-shadow-zone</id>
+    <content type="html"><![CDATA[<h3 id="lesson-1-expect-people-to-lie-to-you-and-be-ok-with-it">Lesson #1: Expect people to lie to you, and be ok with it.</h3>
+<p>Everyone rationalizes things.  It seems to be our default decision process.  If your friends and loved ones seem to be lieing about their reasons for things, it may simply mean that they are human.  It’s quite possible that they don’t even realize it.</p>
+
+<p>Rather than fighting each one of the thousand-headed beast of renewable arguments, its seems best to either <strong>let the decision be</strong> or to bring discussion to humanity’s faulty decision creation modes.  </p>
+
+<h3 id="lesson-2-because-i-feel-like-it-is-often-the-correct-answer">Lesson #2: “Because I feel like it” is often the correct answer.</h3>
+<p>It’s often the truth, and making up reasons for things could sometimes
+be counter-productive, especially when you’re not sure those reasons
+exist.  Intuitions can be incredibly good, especially in disciplines of
+tight feedback in areas that one has practice in.  This is discussed
+thoroughly in the book <a href="http://www.amazon.com/How-We-Decide-Jonah-Lehrer/dp/0547247990/ref=sr_1_1?ie=UTF8&amp;qid=1379537330&amp;sr=8-1&amp;keywords=how+to+decide">How We Decide</a>.</p>
+
+<h3 id="lesson-3-get-better-at-rationality">Lesson #3: Get Better at Rationality</h3>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Blog Statistics]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/25/my-blog-statistics/"/>
+    <updated>2013-09-25T22:08:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/25/my-blog-statistics</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/analytics/">Google Analytics</a> has some useful
+information. 
+<img src="http://ozziegooen.com/assets/posts/blog_overview_ga.png" alt="Blog Overview" /></p>
+
+<p><img src="http://ozziegooen.com/assets/posts/blog_list_ga.png" alt="Posts Overview" />
+<img src="http://ozziegooen.com/assets/posts/individual_post.png" alt="Post Overview" /></p>
+
+<h3 id="blog-feedback">Blog Feedback</h3>
+
+<h2 id="costs">Costs</h2>
+
+<h3 id="time">Time</h3>
+
+<h2 id="cost-benefit-ratios">Cost Benefit Ratios</h2>
+
+<h2 id="should-others-blog-more">Should Others Blog More?</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Formalizing Transparency]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/25/formalizing-transparency/"/>
+    <updated>2013-09-25T22:08:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/25/formalizing-transparency</id>
+    <content type="html"><![CDATA[<h2 id="introduction--why-i-wrote-this">Introduction / Why I Wrote This</h2>
+<p>The charity sector has made a <a href="http://www.transparency.org/">big</a> <a href="http://www.forbes.com/sites/emc/2013/08/29/givewell-how-data-transparency-leads-donors-to-better-charitable-giving/">deal</a> out of ‘transparency’ recently.  Here at <a href="http://80000hours.org/">80,000 Hours</a> (I work there now) there’s a lot of talk about how we and similar organizations could become more ‘transparent’.  One discussed aim is to be more ‘transparent’ than <a href="http://givewell.org/">Givewell</a>, which in general is the gold standard of ‘transparency’ within the small field.  </p>
+
+<p>I’ve had discussions with many people who had many ideas on this topic.  Eventually it dawned on me that I had little idea of what ‘transparency’ even meant.  On
+further reflection, I don’t think many of these people did either.  Some
+organizations have quantized transparency indexes into rubrics (<a href="http://www.bicusa.org/wp-content/uploads/2013/01/WBG+Transparency+Scorecard.pdf">see that
+for the World Bank</a>, for example), but it wasn’t obvious what the rubrics were trying to estimate.  I desired an ideal quantification of transparency that can be approximated in rubrics, rather than rubrics that match a general intuitive understanding of transparency.</p>
+
+<p>I should also be clear that I am extremely demanding in what I want in
+definitions.  I’m an engineer by training, I want to work with things I
+can quantify and model in the same ways I do Force and Velocity.
+Important ideas considered currently ‘soft’ or non-technical feel like challenges to
+define better.  I realize that actual measurements may be extremely
+difficult, but this doesn’t mean that we can’t make estimates of
+substantial value.  This definition attempt is me attempting to take my
+intuitive understanding of this word ‘transparency’ and match it to
+something technical and clear.</p>
+
+<p>I don’t claim to have solved this problem, but I believe I’ve taken a
+few interesting steps.  Hopefully we will eventually create a
+transparency rubric for effective altruist organizations, and I now have
+a much better understanding to begin with.</p>
+
+<h2 id="definition">Definition</h2>
+<p>Quite simply, I am currently using the working model that transparency
+is defined as,
+&gt; The total expected value of information delivered by a system, about itself.</p>
+
+<p>I believe this definition is intuitive and <em>almost</em> quantifiable.
+The use of this definition should lead to more clarity regarding the
+term.</p>
+
+<p>While I believe that this definition almost captures the ‘essence’ of
+what we mean as ‘transparency’, I also believe that a thorough
+evaluation of this essence leads to several facts that may be quite
+unintuitive.</p>
+
+<h2 id="information-quality-and-accessibility-are-more-important-than-quantity">#1: Information quality and accessibility are more important than quantity.</h2>
+
+<h3 id="a-few-thought-experiments">A few thought experiments</h3>
+
+<p><strong>1.</strong>  <a href="http://en.wikipedia.org/wiki/Robert_Shields_(diarist)">Reverend Robert Shields</a> had a diary of 37.5 million words.  The following is an example:
+&gt;
+&gt;  * April 18, 1994 <br />
+&gt;      * 6:30-6:35: I put in the oven two Stouffer’s macaroni and cheese at 350°.
+&gt;      * 6:35-6:50: I was at the keyboard of the IBM Wheelwriter making entries for the diary.
+&gt;      * 6.50-7.30: I ate the Stouffer’s macaroni and cheese and Cornelia ate the other one. Grace decided she didn’t want one.
+&gt;      * 7.30-7.35: We changed the light over the back stoop since the bulb had burnt out.</p>
+
+<p>Every detail of Roberts’ thoughts seems to be burried within this
+text.  Does this make him completely transparent?  Would this change
+depending on the format (physical book, online pdf, online spreadsheet)?</p>
+
+<p>Compare that to Stephen King who published <a href="http://www.amazon.com/On-Writing-ebook/dp/B000FC0SIM/ref=sr_1_1?ie=UTF8&amp;qid=1381602103&amp;sr=8-1&amp;keywords=on+writing">On Writing</a>, a rather short
+(320 page) autobiography and set of lessons he learned through that
+time.  Would Stephen King have been more <em>transparent</em> had he instead
+wrote down his life information minute by minute?</p>
+
+<p><strong>2.</strong> Say there were a ‘perfect’ and ‘perfectly trusted’ being who evaluated
+nonprofits.  They would rate them a ‘1’ if the nonprofit was the “best”
+nonprofit, and a ‘0’ otherwise.  Rather than having any mention of what
+they do, many nonprofits decide to only display this number on their
+website (it would be a very simple website, perhaps with a url chosen to
+obfuscate their cause, like charity34234235.com).  Are these charities
+being transparent to those trying to find the “best” charity?  Could
+they possibly be more so?</p>
+
+<h3 id="my-take">My Take</h3>
+<p>‘Transparency’ is only loosely associated with the amount of information
+available.  It doesn’t matter how much information is available if it’s
+useless, and extra information could easily lead to obfuscation of what
+matters.  </p>
+
+<p>When asking for a important organization details about different
+charities, I hear a lot of “Oh, we mentioned in the middle of a blog
+post a few months ago.”  The conversation typically ends there.  But on
+reflection, this information being difficult to find may be much more
+important than the fact that it exists somewhere.  The vast majority of
+people who may be interested in it will never access it.  I’m fortunate
+to be in a place where I can physically speak to many of the knowledge
+experts.  Most people aren’t.</p>
+
+<h2 id="transparency-is-typically-relative-to-a-specific-purpose">#2: Transparency is typically relative to a specific purpose.</h2>
+
+<p>If a charity had complete financial records of absolutely all expenses
+and revenues, would it make it completely transparent?  What if it had
+this material presented cleanly with pretty graphs and signatures from
+several top accountants who have thoroughly reviewed it and are willing
+to cite it as clean and it’s filed taxes as completely legal?</p>
+
+<p>This is a bad question because “transparency” isn’t well defined.  This
+organization may have amazing financial transparency, or transparency
+for the purpose of understanding if it is partaking in sketchy or
+illegal accounting practices.  But this is clearly a different kind of
+accountability than most potential donors would hope for.  Many
+registered charities are required by law to have their main finances
+accessible on their websites, but this does not make them incredibly
+transparent.  Most people would have little idea or interest to read
+such documents.  </p>
+
+<p>It’s obvious that there are different “types” or transparency, but I’ll
+clarify that to say there are different “purposes” for transparency to
+provide.  There’s the “purpose” of transparency to understand if a
+nonprofit is committing financial fraud. There’s the “purpose” of
+transparency to understand if a nonprofit is effective vs. other
+nonprofits when it comes to cause-neutral returns,  or
+local town benefits, or social status improvements.</p>
+
+<p>There’s just no such thing as an organization being objectively
+“transparent”.  “Transparency” <em>only</em> exists in relation to a specific
+purpose. </p>
+
+<p>Going further, it seems like what we think of as “transparency” can be
+narrowed down to something similar to the <a href="http://en.wikipedia.org/wiki/Value_of_information"><em>value of information</em></a> for specific decisions.</p>
+
+<h3 id="separating-global-transparency-from-local-transparency">Separating ‘Global’ Transparency from ‘Local’ Transparency</h3>
+
+<p>While transparency typically refers to specific purposes, this doesn’t
+mean that the total amount of transparency that an organization is
+unbounded with an infinite number of possible purposes.  Rather I assume
+that there are probably a few purposes that could bring the
+substantial majority of benefit.  For instance, a 1-year old child’s
+communications would provide informational of tremendous value to their
+own health and their parent’s wellbeing.  These could also be used to
+provide interesting data in larger studies, but the value from one
+individual baby on these may be much less in comparison.  It could also
+provide moderate interest to a person considering later having a child,
+but this would be considerably less value potential still.</p>
+
+<p>So a ‘total transparency’ score may be able to be estimated based on the
+sums of the values from each type of transparency.  This adds complexity
+because it would seem to demand information about the decision maker
+categories <em>in relation</em> to each other.  Of course, these can be
+simplified a lot by just choosing the top three categories and having a
+basic ranking among them.</p>
+
+<p>This definition is not <em>too</em> different than the typical intuitive one.
+A banking organization would be seen as transparent primarily if it
+provides useful information that the government is looking for, and this
+information value is likely far more than that of most other domains.  </p>
+
+<h2 id="transparency-includes-marketing-and-branding">#3: Transparency includes marketing and branding.</h2>
+<p>I’ve heard a lot of business and nonprofit pitches.  They are almost
+universally completely positive about themselves.  </p>
+
+<p>The “business pitch” is exactly the antithesis of a “transparency report” or
+“self-evaluation” of any kind.
+Clearly, prospective donors would get more “value of information” from a completely unbiased and honest opinion than a sales pitch.  But should we judge these pitches when analyzing an organization’s ‘transparency’?  Or should “marketing materials” be held exempt from any ‘transparency’ analyses?  </p>
+
+<p>My uncomfortable answer is no.  Good business pitches are bad
+transparency.  It’s a sacrifice that we seem to be willing to endure,
+perhaps that we should.  If this means that essentially no organization
+can be completely transparent, then so be it.</p>
+
+<h2 id="negative-transparency-is-possible-and-common">#4: Negative transparency is possible and common.</h2>
+<p>If transparency is related to the value of information provided, then 0
+transparency would mean 0 information.  There is definitely information
+that is <em>worse</em> than 0 information, especially to regular people (as
+opposed to rational super-beings).  </p>
+
+<p>A simple example is smoking.  Someone goes to a website to learn
+information about smoking, and the website claims authority while
+selectively providing evidence for smoking.  The information to the
+reader results in a higher likelihood of making a worse decision, so
+this information would have substantially negative value.  </p>
+
+<p>Likewise, if a nonprofit could use a terrible argument to convince an
+otherwise unbiased individual to donate to a worse cause then they would
+have otherwise (“wow, apparently visits to local prisons has been shown
+to scare select children from committing crimes!”), then that
+information has provided them with negative value.  </p>
+
+<h2 id="internal-transparency-is-often-more-important-than-external-transparency">#5: Internal transparency is often more important than external transparency</h2>
+
+<h2 id="transparency-should-be-judged-as-a-comparison-to-optimality-rather-than-as-an-absolute-value">#6: Transparency should be judged as a comparison to optimality rather than as an absolute value.</h2>
+<p>So far I’ve stated that transparency relates to the value of information
+provided by an system.  Yet, large organizations can easily provide
+extra informational value through their scale as opposed to anything we
+would associate with transparent efforts.  It seems intuitive that small
+groups should have a “fair playing ground” in comparison.</p>
+
+<p>I think that as opposed to thinking of transparency as directly relating
+to the absolute value of information provided, it makes more sense to
+think of it in an ‘percentage of optimal’ sense than a ‘total benefit’
+one.  This way when we say an organization is doing a ‘good job’ being
+‘transparent’, it will always mean that they’re doing relatively well
+given what they are capable of.  </p>
+
+<p>A percentage of optimality seems a bit depressing as I’m sure that
+‘optimal information value’ would be orders of magnitude higher than
+what most, if any, organizations currently provide.  So perhaps rather
+than being compared to optimality, organizations can and should be
+compared to a bar significantly lower and more realistic.  Perhaps
+different standards should created with top bars at different amounts
+of optimality.  For instance, most existing transparency rubrics that
+I’m aware of probably are quite far from ‘optimal’, but still are quite
+useful and likely would correlate decently well with my working
+definition of transparency.</p>
+
+<p>It should also be noted that because of diminishing marginal returns,
+reaching completely ‘optimal’ transparency, or anything like it, would
+likely reduce the efficiency of an organization towards its main goal.
+Or, an organization seeking anything other than to maximize transparency
+will not and should not get near optimizing transparency.  Rather they
+should see that initially high benefits of transparency are worth some
+reasoned level of effort and achievement. </p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Cost Benefit Analysis of Blogging]]></title>
     <link href="http://ozziegooen.com/blog/2013/09/25/cost-benefit-analysis-of-blogging/"/>
     <updated>2013-09-25T20:58:00+01:00</updated>
@@ -254,6 +1459,28 @@ finish (one of which took another 0.5 Pomodoros). This post is around 900 words,
 details on my existing blog traffic to provide insight to some of the
 above.  I would love to write a rigorous analysis of each, but it would
 take quite a long time. </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Epistemology as the ultimate Deus Ex Machina]]></title>
+    <link href="http://ozziegooen.com/blog/2013/09/21/epistemology-as-the-ultimate-deus-ex-machina2/"/>
+    <updated>2013-09-21T17:52:00+01:00</updated>
+    <id>http://ozziegooen.com/blog/2013/09/21/epistemology-as-the-ultimate-deus-ex-machina2</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Superhero: “Good job mate, another successful victory.”<br />
+Sidekick: “But didn’t a fire just kill everyone we were trying to
+save?”<br />
+Superhero: “True, but I’ve improved my epistemology and now consider
+this to be a win condition.  Think of the animals that can flourish in
+the lack of human intervention.”</p>
+</blockquote>
+
+<p>One problem that plagues the existing Effective Altruism movement is a
+strange kaleidoscope of epistemic standards.  It comes out that the
+“most effective ways to improve the world” is a surprisingly (to me
+at least)
+controversial discipline, even within utilitarianism.</p>
 ]]></content>
   </entry>
   
@@ -1105,326 +2332,6 @@ The individual can be modeled to have a decision function, D, which is used to d
 
 <h2 id="license">License</h2>
 <p>This work is under the <a href="https://creativecommons.org/licenses/by/3.0/">Creative Attributions License</a>.  This means you can do whatever you like with it, just cite me somewhere.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Morality is Still on Very Flaky Foundations]]></title>
-    <link href="http://ozziegooen.com/blog/2013/05/10/morality-on-flaky-foundations/"/>
-    <updated>2013-05-10T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/05/10/morality-on-flaky-foundations</id>
-    <content type="html"><![CDATA[<blockquote>
-  <p>This was a post I wrote several months ago in response to what I knew about effective altruism movement in the Bay area.  I now have met other EA communites and am more uncertain.  However, I believe it still raises some interesting points and could be useful to others.  </p>
-</blockquote>
-
-<h2 id="the-original-problem">The Original Problem</h2>
-
-<p>Most people I know consider themselves to be relatively moral individuals, no matter what kind of morality they ascribe to.  Almost every single piece of literature we read and a large majority of politics hangs onto the ideal of moral righteousness in one form or another.  So when people like <a href="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</a> and <a href="https://en.wikipedia.org/wiki/Eliezer_Yudkowsky">Eliezer Yudiskowsky</a> goes out and state that <a href="http://www.utilitarian.net/singer/by/199704--.htm">conventional morality is bullshit</a>, people <a href="https://en.wikipedia.org/wiki/Peter_Singer#Criticism_of_Singer">freak out</a>. The basic argument goes that we typically judge morality based on initions we have, rather than facts and rigorous analysis.  And this leads to <a href="http://intelligence.org/files/CognitiveBiases.pdf">strange things</a>, like seeking moral vengeance against people who kill one or two individuals, while not blaming people with the ability to save millions of lives but not doing so.  Our intuitions were created from evolution optimized for cavemen, and whatever social norms and media we are subjected to.  They are are faulty due to numerous <a href="http://intelligence.org/files/CognitiveBiases.pdf">cognitive biases</a>, and a moral standing upon them is difficult to de-couple from complete  <a href="https://en.wikipedia.org/wiki/Moral_relativism">moral relativism</a>, an incredibly undesirable state for intellectual morality. So in a way, most modern morality is built upon strong intuitions.  The issue is that these intuitions are inconsistent and provably flawed for the modern era.  If we live out our entire lives and build societies based on these moral intuitions, then we are arguably doing almost everything on top of some very shaky foundations. I’ll use a few comics from the excellent <a href="http://www.amazon.com/Logicomix-An-Epic-Search-Truth/dp/1596914521/ref=sr_1_1?ie=UTF8&amp;qid=1368222515&amp;sr=8-1&amp;keywords=logicomix">Logicomix</a> to help illustrate my point.  That book detailed the mathematical venture into complete proof and certainty against intuition, and I feel like that was very similar to what we are now going through with morality.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/basic.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/basic.png" alt="basic" /> </a> </p>
-
-<h2 id="rationality-to-the-rescue">Rationality to the Rescue</h2>
-<p>How to we fix this?  The existing fight against moral intuition has come from  utilitarianism and effective altruism.  These groups try to deduce why our important intuitions exist to help prove which ones are morally true and which are cultural and/or evolutionary artifacts.  Utilitarianism was somewhat of an attempt to create an overal structure that is somewhat intuitively reasonable but most importantly, numerical.  Basically, we define “goodness” in some way (often defined as “happiness”, but possibly “awesomeness” or any other word you might consider to be a reasonable ultimate human goal) and define moral good as to whatever reaches that.  The Effective Altruist group kind of grew out of this to help define good life practices (like donating to efficient charities rather than cute ones) that help optimize this number.  Often this seems unintuitive (for example, it may be very justifiable to not give to homeless people close to you and instead donate to charities you will never see), but can be defended well with math. Basic practices here are to do things like encouraging people to live lives that favored large donations to efficient charities, rather than typical bleeding-heart goodwill.  Others work on projects “orders of magnitude” more useful than anyone else in mainstream society, including researching the Singularity, ending human aging, and human computer uploading.  On paper these are incredible useful activities, because they are so much better than what is mainstream.  People doing these can feel quite morally superior to the rest of society, and still feel the logically reasonable ability to complain morally about war criminals and resist moral relativism.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/line.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/line.png?w=922" alt="line" /> </a></p>
-
-<p>Above shows a basic diagram of how I see the the “morality” of individuals based on something like utilitarianism.  While I chose “Expected Average Lives Saved (or Equivalent)”, what we are really talking about is some measure of goodness.  Peter Singer well reasons that people who choose not to do good should be faced with similar scrutiny as those who choose to do harm.  Likewise, the only “moral” position is to do as “much as possible”, which is generally defined as “Effective Altruism”, that box on the right.  The groups mentioned all fit into this general category, and from their perspective, they are all somewhat in the same position.</p>
-
-<h2 id="trouble-in-paradise">Trouble In Paradise</h2>
-
-<p>This all works out well, until even more effective rationalists appear.  Perhaps they come in the form of strict <a href="https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute">AI-risk reducers</a>, or something else we haven’t seen yet.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/line2.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/line2.png" alt="line2" /> </a></p>
-
-<p>Keep in mind that each bar is an order of magnitude greater than the last one, so in comparison to the “more effective altruists”, the “effective altruists” look 10x to 100x as suboptimal.  The “effective altruists” claim that regular people were imoral because they only save 1 life rather than 1000 (resulting in 999 unnecessary deaths), but here come this other group complaining that the “effective altruists” are saving 1k rather than 100k lives (resulting in 99,000 unnecessary deaths).</p>
-
-<p>The trouble is that one of the main justifications for the work of many effective altruists is that they are much “better in comparison” to everyone else.  Being “better” only makes one “good” when one only cares about comparisons.  Was the “best” Nazi a “good” person, because he or she should be compared to other Nazis, or a “bad” one, because we happen to have non-nazis to compare him or her to?  If one’s morality is rooted in its comparison to that of other’s, then one can go from “good” to “bad” just by the appearance of a new group.</p>
-
-<h2 id="the-annoying-pupils">The Annoying Pupils</h2>
-
-<p>Rejecting intuitive solutions presents all kinds of other nasty issues, if you were to take it to the extreme.  This would mean that there is almost no point where one can really say “oh, this makes basic sense, so I’ll accept this premise and work from there”.  And when one decides to create an entire personal philosophy off of preferring rationality to intuition, the rabbit hole can go much deeper than individual prefers.  At every level of logical thought, there can be someone new who complains that it’s not completely rational, and little rational reason for proving that it shouldn’t be.</p>
-
-<p>Typically when we make logical decisions, we ultimately come down to a few intuitive things.  For example, we may optimize a business strategy for revenue, but we still make the intuitive decision that revenue is what we should be optimizing for.  One can go further and “rationally” explain why revenue is statistically expected to be the best way for the business to grow, but from there, there’s the intuitive assumption that the growth of the business is a good thing.  Several other intuitive assumptions are probably made in the rest of the model as well, it is almost impossible to make a complete model without them.</p>
-
-<p>So the big question is how to decide where to make intuitive judgements vs. rational ones.  But to decide this question, there should ideally be a rational answer.  If there were an intuitive one, that would mean an intuitive foundation, which leads us back to where we started.  And finding a rational answer that we agree upon can be incredibly difficult.</p>
-
-<h2 id="levels-of-goodness-intuition">Levels of Goodness Intuition</h2>
-
-<p>Let’s begin with an example.  When deciding on donating to a poorly run childcare charity compared to a well run one, the choice is relatively obvious within most definitions of “good”.  So within many definitions of “good”, the answer could be made relatively easily.</p>
-
-<p>But take something more extreme: what if we need to choose between the lives of 4 cows compared to 1 human being?  Or 1000 <a href="http://www.utilitarian-essays.com/humane-insecticides.html">insects</a> (expected, though highly unlikely) compared to 1 human being?</p>
-
-<p>The typical answer that I’ve heard for this, is to make an intuitive judgement about how important a cow is to a human.  Perhaps cows are 1/3rd as intelligent, then 4 cows “utility” would be greater than that of one human.  But the “utility” is a very difficult thing to define, and many people really only care to optimize human utility.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/human.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/human.png" alt="human" /> </a></p>
-
-<p>Even worse is when this taken to the computational extreme.  Many futurists advocate human brain <a href="http://wiki.lesswrong.com/wiki/Mind_uploading">uploading to machines</a>.  They claim that simulated cognition is equivalent to physical cognition, and simulations of us could be much better taken care of than real ones.  Others find this scenario as repulsive and wrong.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/physical.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/physical.png" alt="physical" /> </a></p>
-
-<p>Some take another step and say that instead of us being uploaded into an amazing world, we should go straight to <a href="http://wiki.lesswrong.com/wiki/Wireheading">wireheading</a>, into a state where our brains get pure “happiness” without realized experiences.  This is very controversial but seems very counter-intuitive and strange to other values we have.  As <a href="http://wiki.lesswrong.com/wiki/Wireheading">lesswrong</a> points out,</p>
-
-<blockquote>
-  <p>“A civilization of wireheads “blissing out” all day while being fed and maintained by robots would be a state of maximum happiness, but such a civilization would have no art, love, scientific discovery, or any of the other things humans find valuable.”</p>
-</blockquote>
-
-<p>Some take this further and say that if simulations of us are more “optimal” than us, then wouldn’t simulations of even “happier” beings be more optimal?  Or perhaps an A.I. should just simulate “pleasure” itself, essentially ending living sentience as we know it and replacing it completely with machines simulating things we can not now possibly imagine.  There are some that feel like for any given definition of “happiness”, this would be preferable, but others who feel like it is morally wrong for us because of its lack of most existing human values.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/terminator.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/terminator.png" alt="terminator" /> </a></p>
-
-<p>The one “completely rational” utilitarian answer that makes sense (is intuitive as being rational) to me is just that, that ultimately the most utility would come from replacing all current sentience with completely artificial beings (or being).  Essentially, not only letting the Matrix or Terminator overlords win the fight, but rushing for this to happen, fighting for it, and doing whatever is necessary.  On the strictest definitions of utility I could imagine, this would be the most analytically optimal thing.  Of course, that is for now, until I hear of another idea that could be 10x to 100x as “optimal” as this one.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/line3.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/line3.png" alt="line3" /> </a></p>
-
-<p>But of course, essentially all people reject this final bit.  The wire heading promoters will say that they are promoting the best outcome (and thus are doing by far the most efficient utilitarian work), and claim that the “terminator” scenario is morally apprehensible because of how wrong it _feels _in comparison.   The uploading enthusiasts will promote theirs as the best outcome while claiming that the wire heading outcome is unnatural and obviously wrong.  The human utopians will promote theirs as the best outcome while claiming that human uploading is un-human in comparison.  And local charity enthusiasts will insist that their work is the best, and the intuitive good feelings it provides would be missed by the “effective altruists”, and thus would wouldn’t be reasonable.</p>
-
-<p>Also, I’ll note that quite a few people in the field of futuristic high-technology “effective altruism” are very much intent on themselves being a part of this.  That they themselves would get to live forever or be uploaded.  When asked why they prefer this to something that could mathematically produce much higher expected value, I hear answers like “this is already good enough!”  But how do we possibly decide rationally what “good enough” means, especially when there is something obvious better?</p>
-
-<p>The great difficulty here, as I see it, is that the extreme moral stance, with as little intuition as possible, seems to be the terminator scenario or similar, areas that seems completely morally strange and unintuitive to absolutely everybody.  But if one were to do more “reasonable” things, one may make order-of-magnitude losses in efficiency for the sake of achieving a more intuitive answer, which was the entire problem we started out against.  We could make a trade-off in between (like many I know do), but such a trade-off would also be an intuitive one.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/second.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/second.png" alt="second" /> </a></p>
-
-<h2 id="where-to-go-from-here">Where to Go From Here</h2>
-
-<p>If one does accept some intuitive limitations from terminator support (or other intuitive options like keeping 10% of income because it “feels right”), at least we could admit it and realize that we aren’t that much different from those “inefficient altruists” or even “regular people” who make different intuitive limitations than we do.  This is in many ways moral relativism and leads to a vague and somewhat frustrated form of morality, but at least not a hypocritical one.  Being honest to ourselves is a good first step.</p>
-
-<p>I believe that really finding a rational ends that we can agree upon will take quite a bit of change to our own intuitions   It may just be a matter of time, like it was to get reduce other limitions (nationalism, sexism, racism, etc).  Of course, the issue is that the time required may be longer than available before apocalyptic / world changing event, so it is quite likely this will never be settled.</p>
-
-<p>I do believe that this should be figured out and discussed much more rigorously.  Because from what I’ve seen, many of <strong><em>the most important</em></strong> moral issues are still surrounded by relatively emotional and intutive debate.  And for us being “rationality nerds”, this is quite a huge deal.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Plotting Capability Vs. Ambition]]></title>
-    <link href="http://ozziegooen.com/blog/2013/05/07/plotting-capability-vs-ambition/"/>
-    <updated>2013-05-07T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/05/07/plotting-capability-vs-ambition</id>
-    <content type="html"><![CDATA[<p>When I was in school (up to college), I was often frustrated by a lack of ambition in students around me.  The main problem in my area, to me, was a lack of ambition.  Surely, all these people could have much more awesome and useful lives if they strived for more? Of course, others see the world as a place of too much ambition, something that I see here in San Francisco.  Many entrepreneurs have hopes that are unbelievably and unrealistically high, and it’s quite apparent that they will eventually get let down.  Also of note are the yuppies who may always hope to gain 30% more income.  Here the issue is perhaps over-ambition and eventual disappointment. </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/intro.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/intro.png" alt="Basic Capability vs. Ambition Graph" /> </a>  </p>
-
-<p>Here’s a basic plot of Ambition vs. Capability.   To help illustrate it’s meaning, I’ve broken it up into 4 quadrant archetypes.  Delusional people have lots of ambition (“I’m going to invent a singularity!”) but very little capability.  Heroes have lots of ambition and the capability to make it happen.  ”Genius slackers” are people who have lots of resources to do good, but lack the care to do it.  And the “cripples” are those who aren’t in the position to do much, and don’t care to anyway.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/ideal.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/ideal.png" alt="ideal" /> </a>  </p>
-
-<p>Theoretically, we could imagine a line being drawn to match each level of ambition with the exact amount of capability that it can achieve.  Basically this would state, “a person who can make at most $90k per year would hope to make 90k per year”.  Here I consider this line to be the “ideal”, and will repeatedly show it as a reference for comparison.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/different-losses.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/different-losses.png" alt="different-losses" /> </a>  </p>
-
-<p>Individuals above this line have ambition exceeding capability, leading to eventual disappointment.  Individuals below this line have capability exceeding ambition, leading to a missed opportunity for their capability.  Here I consider this as deadweight economic loss.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/different-ideals.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/different-ideals.png" alt="different-ideals" /> </a> </p>
-
-<p>Now, to be fair, it may be that this “Capability-Ambition Ideal” is not actually ideal for each individual or for society.  It just represents the exact match of the two.  Hypothetically, one can imagine that an individual striving to do more than they are capable of may be more productive than he or she would otherwise, and thus may benefit society more than if striving for what is possible.  This may be because he or she will only reach what is possible if he or she strives for much more, leading to personal disappointment but capability efficiency.  On the other hand, it may be optimal for the individuals’ well-being to strive for less than they are capable of, and enjoy life or do other things instead. </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/dissapointment.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/dissapointment.png" alt="dissapointment" /> </a> </p>
-
-<p>So far “Capability” and “Ambition” have been talked about in very general terms, but let’s make it much more specific.  Let’s say we want to look at the average ambition for each group of people with similar capabilities.  Then we can create a curve for the “Actual Average Ambition” within a society or set of people.  We can also look at “capability” and “ambition” for one specific variable, such as income. I imagine that the U.S. Monetary Capability vs. Ambition Plot would look something like what is shown above.  In general I understand that people hope for more money then they get, leading to people working very hard and continually being disappointed.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/05/losses.png"> <img src="http://bowlabs.files.wordpress.com/2013/05/losses.png" alt="losses" /> </a> </p>
-
-<p>On the other hand, I imagine that with regards to helping the world (utility maximization), people aren’t nearly as ambitious as they have the capability to achieve.  A possible plot is above. That’s all I have for now.  There’s definitely a lot more that can be done here.  My guess is that it wouldn’t be too difficult to actually make some of these graphs.  Of course, knowing exactly how capable someone is is impossible, so for it to be realistic it should all be statistical, but I think these first iterations help show the basic points.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Don't Bash Entrepreneurs for Not Being Ambitious Enough]]></title>
-    <link href="http://ozziegooen.com/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough/"/>
-    <updated>2013-05-03T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/05/03/dont-bash-entrepreneurs-for-not-being-ambitious-enough</id>
-    <content type="html"><![CDATA[<p>Seriously, please stop bashing entrepreneurs for not being ambitious enough.  It’s like bashing nonprofit workers for not working hard enough to help people in need.  </p>
-
-<p><img src="http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg?w=922" alt="Hackers, Clearly Not Being Very Ambitious" /> ](http://bowlabs.files.wordpress.com/2013/05/5685441530_5136658664_b.jpg) “If only these people were more ambitious, then our economy would be doing well.” ( <a href="https://secure.flickr.com/photos/hackny/5685441530/in/photostream/">photo</a> by Elena Oliva)[/caption] </p>
-
-<p>The basic argument, that I’ve heard <a href="http://www.forbes.com/sites/ciocentral/2012/04/10/think-big-why-entrepreneurs-should-target-ambitious-ideas/">time</a> and <a href="http://pandodaily.com/2013/04/02/an-acquisition-is-always-a-failure/">time</a> again, is that most entrepreneurs in the valley are working on BS photo social sharing apps with no grand vision or relevance to most people on the planet.  And that it’s <em>their fault</em> for not caring enough. I know a lot of entrepreneurs.  Most are far more ambitious than anyone else seems reasonable.  But even so, here’s a convenient list to help change the conversation from somewhat personal attacks to much broader systemic debate.   </p>
-
-<h2 id="a-short-list-of-reasons-not-to-demand-entrepreneurs-to-be-more-ambitious">A short list of reasons not to demand entrepreneurs to be more ambitious:</h2>
-
-<ol>
-  <li><strong>They’re told not to be.</strong><br />
- Every single VC and angel I’ve talked to has asked for specific business models out of huge ideas and markets.  They’re the ones who provide the capital, it’s near impossible to try to make something big without them. </li>
-  <li><strong>They should be told not to be.</strong><br />
- The entire <a href="http://theleanstartup.com/">Lean Startup</a> movement pretty much promotes the antithesis of grand visions.  And it has a point.  Major companies almost always begin small and with much more modest intentions then they eventually obtain. </li>
-  <li><strong>Photo apps sell.</strong><br />
- Educational apps often don’t.  There are thousands of ambitious and optimistic apps out there, and no one uses them.  Just because Instagram gets the headlines doesn’t mean that all entrepreneurs are trying to build Instagram.  It just means that Instagram is one of the few ideas that consumers like enough to make it successful.  Successes in the industry reflect the market much more than the creators. </li>
-  <li><strong>“Greedy” entrepreneurs are orthogonal to “ambitious” ones.</strong><br />
- Entrepreneurs trying to sell out quickly may be quite incompatible to those with grandios visions.  But my guess is that they aren’t competing with each other.  The venture industry will grow as large as there are promising startups, so the photo sharing entrepreneurs aren’t hogging the valley from the ambitious ones.  The issue (if there aren’t ambitious ones), is just that.  The other entrepreneurs are practically a different class of people and are no more to blame for not being “ambitious entrepreneurs” than anyone else with the ability to learn entrepreneurship.  Which means almost everyone. </li>
-  <li><strong>Being ambitious gets very ugly.</strong><br />
- I know several people who have lost hundreds of thousands of dollars, or/and years of their lives (and tons of energy and optimism) failing at incredibly ambitious ideas.  <strong>We can’t expect what is essentially martyrdom from a group that’s already self selecting.</strong>  For every Steve Jobs there are 10 others (some quite similar) who don’t make it for whatever reason, and most suffer dearly.  We all know of stories where entrepreneurs have risked everything under small chances to succeed.  But the definition of small chances tells us that most people who max out their credit scores to do something incredible will fail horribly. </li>
-  <li><strong>Most people think ambition is crazy.</strong><br />
- While an interestingly vocal group of so-called intellectuals wonder upon the lack of idealism in the tech sector, the vast majority of people who witness it dismiss it and often actively discourage it.  I bet many of these exact intellectuals have completely rejected or dismissed emails from people with incredibly ambitious hopes and claims.  These requests often sound delusional.  Consider an email that states “I’m making something that will replace email!” or similar.  It’s probably a very thin line actually between claims that are considered too uninteresting to pay attention to, and those that are too ambitious to be sane for most people. Both sides are very noisy.   The success of “non-ambitious” startups over “ambitious” ones isn’t personal, it’s systematic, like most issues people argue over.  Also, the moral shortcomings of entrepreneurs are significant, but not necessarily different from the moral shortcomings of everyone else.    </li>
-</ol>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Tell if a Web Company is Evil]]></title>
-    <link href="http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/"/>
-    <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil</id>
-    <content type="html"><![CDATA[<p>I’m sick of companies cherry picking specific features to explain how they help people.  Specific features will always exist, and the existence of them ruins the point.  The big question is, is it really the purpose of the company to help people, or is helping people an occasional externality of other goals they are trying to achieve?  It’s hard to give someone credit for a positive action that was done for a malicious or unrelated purpose.<br />
-<a href="http://bowlabs.files.wordpress.com/2013/04/basic.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/basic.png?w=590" alt="Altruistic vs. Power Ven Diagram" title="Altruistic vs. Power Ven Diagram" /> </a></p>
-
-<p>Here’s an Altruism/Power Ven Diagram.  On the left are decisions a company makes to help people, on the right are decisions that give them power.  Figuring out the intentions of a company may have little to do with how much they are helping people, because that intersection may be quite large.  The bigger question is how they pay attention to the other parts of the diagram.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/04/people.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/people.png?w=300" alt="Optimizing for People" /> </a>  </p>
-
-<p>If a company were optimizing for people, it’s actions may look like this.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/04/shareholders.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/shareholders.png?w=300" alt="If a company optimized for its corporate shareholders, it's actions would be here." /> </a>  </p>
-
-<p>If a company optimized for its corporate shareholders, it’s actions would be here.  </p>
-
-<p>The big question is which of these two above graphs better represents the actions of a company, not how much there is of an intersection to show to the press.  Here’s a graph of what I see as being decisions in each sector, you can decide for yourself what the aims of your favorite web companies may be.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/04/web-applications.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/web-applications.png?w=300" alt="Web Application Altruism/Power Daigram" /> </a><br />
-Web Application Altruism/Power Diagram</p>
-
-<h2 id="doesnt-power-eventually-help-users">Doesn’t Power Eventually Help Users?</h2>
-<p>This is the main argument from all power grabbers, ever.  That “with more resources, we can do more good,” so decisions to increase power eventually do help users.  While this can be used to justify almost any action, there does exist the fact that without power even the most idealistic or altruistic groups will not succeed.  It also makes sense that those in power will be those optimized to get power over all other things. It may be that most existing companies (organizations, really) only exist to gain power, where the argument is that the power will eventually be (and occasionally is) used for the goals of these organizations (which are supposedly things other than pure shareholder value). But here, how do you identify groups with good intentions from the rest?  From the outside view, they look almost exactly the same, because they are optimizing for power whenever options are presented. It is true that trade-offs need to be made, but for them to be made well there should be some greater model and rigorous attention to the tradeoffs.  Could companies sponsor studies on how to optimize the numeric trade-offs between short term power grabs and long term civilian value?  It may be hard, but given that these organizations sometimes seem to actually care (or want to care) about value to society, it probably wouldn’t cost much compared to other things they are doing. </p>
-
-<h2 id="the-economic-near-ideal">The Economic Near-Ideal</h2>
-<p>Of course, one solution would be to create companies where there are few trade-offs.  One can argue that companies like <a href="https://www.10gen.com/">10gen</a> have nice models where they very well align their own power increases with societal benefit.  </p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/04/ideal.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/ideal.png?w=300" alt="The economic near-ideal" /> </a>  </p>
-
-<p>Here companies aren’t defined by how good they are trying to be, but by how much their selfish actions are correlated with altruistic ones.  Here the decision is much more about deciding what kind of company to make (and for outsiders, deciding rules and publicity), then deciding what features to implement.  Yet it also may mean that the more altruistic people will favor industries where this correlation is high, leaving other industries as easy prey for less idealistic people.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
-    <link href="http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem/"/>
-    <updated>2013-04-30T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem</id>
-    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
-
-<p>We’ve been working a lot recently to figure out what the <a href="http://feedhaven.org/">Feedhaven</a> system should look like.  Right now it’s relatively simple, but to properly work in an ecosystem of applications it would need some additional complexities. </p>
-
-<p><strong>Feedhaven Instances</strong><br />
-  In this case a Feedhaven Instance / Server is shown to the right.  A user can set up their own Feedhaven instance, or can use a company’s hosted instance (like <a href="http://feedhaven.com">Feedhaven.com</a>).  This instance is in charge of providing a GUI for the information, storing data on users, handling API keys, and handing the standard Feedhaven data.  This should be able to work on many NoSQL databases, though we plan to begin with MongoDB. </p>
-
-<p><strong>Authentication</strong><br />
-  Mozilla Persona seems like a good fit for authentication, especially because it can be standardized among all Feedhaven instances and applications.  Hypothetically Persona could provide proof that an application has confirmation from a user (to send to other applications), but I’m not sure how this would work.  It’s also open source, distributed, easy to set up, and quite minimal.  With Persona integration in the browser, log-in may eventually be a relatively easy thing.  </p>
-
-<p><strong>Data Validation</strong><br />
-  Hypothetically all items and feed data would be validated with external JSON schemas with version numbers.  I imagine that for large amounts of data the schemas would have to be cached, and it may be that validation isn’t required, but is possible with an extra function.  </p>
-
-<p><strong>Simple Translation Apps/ Simple Feedhaven Apps</strong><br />
-  The idea for this is that users can create API keys with specific permissions at their Feedhaven Instance.  Then this can be given to an external application to allow them to access Feedhaven data without registering with Feedhaven.  Applications that do this would have restricted API call allowances, but this should be fine for many apps.  This is how many major APIs already work; with API tokens for some apps that don’t have to register. These simple apps could do things like read emails from Gmail, convert them to a common email format, and send these to a specific Feedhaven Feed.  They could write or delete specific feeds, and read new common emails from these feeds and then send them off to Gmail.  Whether the app does polling or subscribing to access this content from Feedhaven would be up to the application.  In addition, these apps can be used to just view Feedhaven data. </p>
-
-<p><strong>Translation Manager Apps</strong><br />
-  There are hundreds of thousands of applications to talk to, and much of the code to translate each and send/receive to Feedhaven will be the same/similar.  I would imagine/hope that platforms could exist that could accept hundreds or thousands of snippets for conversion with different apps and schemas, and run them as needed. For this, rather than using a standard API token, these apps would have to register directly to each Feedhaven instance.  This should be standardized and done via API calls, when needed. </p>
-
-<p><strong>Future Development</strong><br />
-  Of course, the system still needs to be built. The idea is that ecosystem would be fully modular so each part could be built independently based on well defined interfaces.  However, this will take a lot of trial and error as the interfaces are changed based on the workings of the components.  Updates will come at this blog.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Consumer Fishtraps]]></title>
-    <link href="http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps/"/>
-    <updated>2013-04-28T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps</id>
-    <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/121378.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/04/121378.jpg?w=487" alt="Image" /> </a></p>
-
-<p>Fishtraps are devices that are easy to enter and difficult or impossible to exit from.  Many products and web apps work the same way. One example may be the <a href="http://www.freecreditreport.com/">monthly service </a>that requires a short website to sign up to but a very long phone call process to stop.  Web services can do similar by making it really simple to sign up and start adding information, but almost impossible to export your data once you use the service. Companies spend a lot of time and effort optimizing their entrences.  There are <a href="http://www.amazon.com/s/ref=nb_sb_ss_i_0_14?url=search-alias%3Daps&amp;field-keywords=landing%20page%20optimization&amp;sprefix=landing+page+o%2Caps%2C213&amp;rh=i%3Aaps%2Ck%3Alanding%20page%20optimization">several books</a> on Landing Page Optimization / SEO / AB testing on acquiring users.  There’s basically nothing on how to allow users to gracefully leave. Easy web exiting capabilities for consumers would mean data (and permissions and API) interoperability which would mean open standards.  This is one big reason why open standards are important.  But open web standards over the last 10 years have been very rough and frustrating, much because of a reluctance of companies to allow their users to easily leave their platforms.   </p>
-
-<h2 id="the-facebook-example">The Facebook Example</h2>
-<p>To start using Facebook, there’s one clean landing page.  Once you get in, Facebook will give you lots of help finding friends for you.  They will then recommend you to people who “might” know you, to help make sure that you get comfortable quickly.  The entire process is incredibly simple and easy. But say you get tired of Facebook, and want to try Google+.  You can close your Facebook account, but they will keep the information forever (allowing you to re-enter as easily as possible).  If you search through the option settings, you may find that on the bottom of the “general account settings” page, there’s a way to “download a copy” of your Facebook data.  This brings you to another page, as shown below.</p>
-
-<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-28-at-3-38-55-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-28-at-3-38-55-pm.png" alt="Facebook Archive Page" /> </a></p>
-
-<p>If you click “Start My Archive”, you actually won’t get that much data.  The full archive link is actually that small “expanded archive” link on the bottom.  From there you enter your password and wait. Several hours later you’ll get an email letting you know your archive is ready.  It comes as a folder with several HTML webpages of your pictures, friends, private messages, and profile information.  Not CSV, not JSON, but HTML data. Then you realize that even that doesn’t have the status updates of you or your friends.  I don’t know how many people use Facebook primarily as a photo sharing service, but I’m going to go on a limb and say that the main thing people do on Facebook is post to and read from status updates.  So Facebook is essentially not giving the most important user data to them. And even then, there’s really no way I know of importing any of that data to Google+ or Twitter or Diaspora.  Because in order to do that, these programs would have to make a program that you would download, just to format this HTML and then upload it to another service. The saddest part is that even this is considered <strong>better than average</strong> for web services.</p>
-
-<h2 id="solutions">Solutions</h2>
-<p>The only existing protection against this seem to be the <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">EU’s legal action</a> and occasionally consumer sentiment. Hypothetically, it could be possible for a browser extension to warn users about lock-in on visits to website sign-up pages.  If enough people used these or did some research, it could be possible that companies would take notice and respond accordingly.  We really just need people to care. In the mean time, just realize.  When you are on these platforms, you are essentially in a fish trap.  Leaving may technically be feasible, but it’s made to be near impossible.   For more info on “evil web design” I recommend checking out “ <a href="http://ofps.oreilly.com/titles/9781118422144/index.html">Evil By Design</a>” by Chriss Nodder.The <a href="http://ofps.oreilly.com/titles/9781118422144/sloth.html">Sloth section</a> goes into detail in what I am calling the fishtrap.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[An Information Availability Graph]]></title>
-    <link href="http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph/"/>
-    <updated>2013-04-27T00:00:00+01:00</updated>
-    <id>http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph</id>
-    <content type="html"><![CDATA[<p>Recently I’ve been thinking about the economics of sharing person information.   I get the sense that one reason why social networks are so important is because they allow you to share much more information than you would be otherwise.  In general, people seem to think that this a good thing, and I think that these following diagrams may help explain why.   By looking at information sharing in an economic way it may be easier to understand the existing inefficiencies of the “market” and some theoretical reasons for the emergence of social networks and group privacy settings within them.  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/1.png" alt="A person has the most information about themselves available (typically). A much smaller subset of information is available to the public." /> </a>  </p>
-
-<p>A person has the most information about themselves available (typically). A much smaller subset of information is available to the public.</p>
-
-<p>First, I’ll start with the basic plot.  Imagine that you ordered everyone in the world by how willing you were to share information with them, and then plotted how much you would be willing to share with each person.  You would be all the way on the left, deserving of accessing everything.  Then all the way on the right is the general public.  You may share a few pictures of yourself and an email address, but many people choose to hide a lot of information from everybody.  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/comfortcurve.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/comfortcurve.png" alt="The Comfort Curve shows the maximum amount of information that a person would feel comfortable sharing with X amount of people. The &quot;optimal&quot; setting would be for this to be completely filled with information." /> </a> </p>
-
-<p>The Comfort Curve shows the maximum amount of information that a person would feel comfortable sharing with X amount of people. The “optimal” setting would be for this to be completely filled with information.  </p>
-
-<p>The result of your ordering and plotting may be a “comfort curve”, which shows exactly how much information availability you would be comfortable with.  We can generally assume that this is what is optimal for the world, given the constraint of you being OK with it.  You being OK is particularly important because that is what you may be willing to share.  Theoretically we could make a model showing how much information should be available for a utilitarian scenario instead, but that would be much more complicated and not as relevant.  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/facebook.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/facebook.png" alt="Different platforms allow different groups to access different amounts of your data." /> </a>  </p>
-
-<p>Different platforms allow different groups to access different amounts of your data.  </p>
-
-<p>The privacy of Facebook (and other social networking tools) allow them to promote sharing that would not go on websites.  This privacy enables more people to gain information (that you are fine with them getting) than would be otherwise.  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/facebook-groups.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/facebook-groups.png" alt="Facebook added the concept of &quot;types&quot; of friends to help promote sharing. More information availability is possible with more groups to share with." /> </a>  </p>
-
-<p>Facebook added the concept of “types” of friends to help promote sharing. More information availability is possible with more groups to share with.  </p>
-
-<p>One thing a lot of people noticed was that as Facebook became more popular, people became less comfortable sharing on it.  Facebook originally went from being a tool for college friends to one of general acquaintances and colleagues.  Later Facebook allowed users to split their friends up into groups and share with each group separately, to help mitigate this.  Other social networks (Diaspora, Google+) have done this first (and arguably better).  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/group.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/group.png" alt="The limitation of groups and mediums limits the information that can become available." /> </a>  </p>
-
-<p>The limitation of groups and mediums limits the information that can become available.  </p>
-
-<p>However, unless you have n groups for n friends, there’s always going to be some information you won’t share to some people because of the limitation of group number.  This “inefficiency” is shown in red.  </p>
-
-<p><a href="http://raiseforgoodapp.files.wordpress.com/2013/04/convencience.png"> <img src="http://raiseforgoodapp.files.wordpress.com/2013/04/convencience.png" alt="The ability and convenience to share information to specific groups also limits information availability, as shown." /> </a>   </p>
-
-<p>The ability and convenience to share information to specific groups also limits information availability, as shown.  </p>
-
-<p>In addition, other information is either be inconvenient or impossible to share.  You probably don’t have access to a lot of information that exists and is about you.  You probably don’t share near all of the information with your facebook friends that you would feel comfortable with them having, because the cost of putting much of it on Facebook far exceeds the benefits that your friends would get from it.  For example, you may not mind at all if your close friends could get info on your GPS location most of the time, or what book you are currently reading, but it may be difficult/inconvenient to push that data to Facebook.  </p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>In conclusion, I think this may present an interesting model from which to build on.  It would be very interesting to make this quantitative, but realize that it would be very complicated.  Similar models could be made for businesses, organizations, etc.  This also doesn’t discuss what other people want to see; only what you are willing to show them. One of my goals with Feedhaven is to minimize both of these inefficiencies. Hypothetically, all of the information available to you (no matter the app) could have one generalized retrieval system.  In addition, one could imagine systems whereby it were incredibly simple and elegant to split up friends into tiny groups and to edit settings for each one.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What 'value' should mean]]></title>
-    <link href="http://ozziegooen.com/blog/2013/03/26/what-value-should-mean/"/>
-    <updated>2013-03-26T00:00:00+00:00</updated>
-    <id>http://ozziegooen.com/blog/2013/03/26/what-value-should-mean</id>
-    <content type="html"><![CDATA[<p>I would begin this post by stating that ‘value’ is one of the most mis-interpreted words in this era, except for the abysmally poor interpretation of all words, ever.  </p>
-
-<p>The fact is that ‘values’ are really important if you define them correctly.  I think that most versions of the term are bit wrong, so I’ll try to give my shot at what a “value” is. </p>
-
-<blockquote>
-  <p>Value: A general concept that is associated with ‘goodness’.</p>
-</blockquote>
-
-<p>This is a minor variation on that of Dictionary.com’s, which is:  </p>
-
-<blockquote>
-  <p>Noun. ”The regard that something is held to deserve; the importance or preciousness of something: “your support is of great value”.”  </p>
-</blockquote>
-
-<p>With either of these definitions it seems difficult to say that “values” have declined at all, contrary what our stereotype of old grumpy people would argue.  Only that they have changed.  </p>
-
-<p>Interestingly, people have studied the science behind memes (or ideas), but to my knowledge, values haven’t been looked at too much.  (Even meme science is still a relatively esoteric field for some reason).  The way I look at them, values are constructed from ideas.  Ideas are something of the brick to value’s buildings.  The ideas are important, but often they are hard to understand without seeing the bigger picture.  I believe that in comparison, values represent the bigger picture.  This means that instead of looking at the profile of ideas (or, the ‘meme-space’) regarding a group of people, a more useful map would be to pay attention to the values. </p>
-
-<p><strong>Values guide people.</strong>  Values choose the different ideologies of Republicans and Democrats.  I imagine that changes in values map more directly in the actions of organizations than changes those of ideas or personal qualities.  A fundamental structure in the background of social organizations is their variance of specific values.  </p>
-
-<p>For example, look at Bill Gates compared to Larry Ellison.  They may have similar ideas in their heads, but what’s really important right now are their differences of values.  I’m not saying that Bill Gates is more altruistic, but that his greater value of specific types of semi-charitable actions has led him to pursue those things to a great extent.  Larry Ellison has a different set of values, and lives accordingly.  Obviously he does not value open source software too much, if he did, that could make a dramatic change in the direction of Oracle.  </p>
-
-<p><strong>Values can have positive feedback.</strong>  If you lightly value baseball, you may join a baseball team, where you will be surrounded by positive memes and associations to go with baseball.  You value it more, and gradually fall down the rabbit hole, considering more importance to what may otherwise be a somewhat trivial game, than to anything else in life.  You might have similar skill sets (besides some new muscle memory in Baseball), similar intelligence, etc, as other people, but your value system will put you in an incredibly different situation.  </p>
-
-<p>Hitler and Winston Churchill were probably quite similar in most regards.  They probably knew much of the same history.  They both got enjoyment from sweetness and fat, both had to sleep every night.  However, their value systems were different in a few key areas, and combined with their incentive systems, they were opposite heads of a way.  </p>
-
-<p>Perhaps there is much more variation in human values than human genes, and if so it may be more worthwhile to emphasize spreading your values more than your genes.  </p>
-
-<p>This is a really messy subject.  I’ll come back to it later.  Most of the interesting work may come in future posts, but I wanted to define this a bit.</p>
-
 ]]></content>
   </entry>
   
