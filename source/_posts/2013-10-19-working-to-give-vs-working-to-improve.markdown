@@ -3,8 +3,8 @@ layout: post
 title: "Working to Give vs. Working to Improve"
 date: 2013-10-19 19:04
 comments: true
-categories: 
 published: false
+categories: 
 ---
 
 The de facto wisdom within the Effective Altruist community seems to be

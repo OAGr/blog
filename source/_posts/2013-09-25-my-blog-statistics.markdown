@@ -3,7 +3,7 @@ layout: post
 title: "My Blog Statistics"
 date: 2013-09-25 22:08
 comments: true
-categories: 
+categories: []
 published: false
 ---
 [Google Analytics](http://www.google.com/analytics/) has some useful
