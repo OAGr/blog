@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Onwards"
+date: 2015-08-18 23:49
+comments: true
+published: true
+---
+
+Friday was my last day working at [Grand Rounds](https://www.grandrounds.com/).  I’ve learned more there about real software engineering than perhaps the sum of my previous experiences.  It sounds cliché, but when I started there, I was about the 40th employee, now there are about 175.  Watching a startup grow is a really fascinating position to be in.  
+
+
+**I’m leaving to do a few things.**  
+1. I’m going to spend time on Guesstimate, an app I plan to debut within 2 months (a summary of my ideas is [here](http://lesswrong.com/lw/lhf/graphical_assumption_modeling/)).  
+2. I’m going to work on [.impact](http://dotimpact.im/), an online community dedicated to making Effective Altruist projects.  It’s been growing recently and I think there are some easy wins.  
+3. I’m going to experiment and do little projects.  For instance, blog posts.  I’ve written about 3 blog posts in the last year, I would like to end my little blog winter.  
+
+
+
+It’s sad to leave an organization, especially one where you’re surrounded by people you like.  Grand Rounds was really good to me. I’ve been able to learn gain great experience, work with smart people, spend time in a growing B2B business, overcome RSI issues, and save enough money to pursue my other passions.  I’ll miss it, but am deeply satisfied with my current opportunities.  I’m really excited.

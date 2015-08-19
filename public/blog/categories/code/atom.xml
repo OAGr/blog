@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Code | Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-22T09:34:27+01:00</updated>
+  <updated>2015-08-19T00:02:42-07:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[You don't need to be Facebook to make use of Open Graph data]]></title>
     <link href="http://ozziegooen.com/blog/2013/02/23/use-open-graph-data/"/>
-    <updated>2013-02-23T00:00:00+00:00</updated>
+    <updated>2013-02-23T00:00:00-08:00</updated>
     <id>http://ozziegooen.com/blog/2013/02/23/use-open-graph-data</id>
     <content type="html"><![CDATA[<p>[caption id=”attachment_217” align=”alignnone” width=”922”] <a href="http://bowlabs.files.wordpress.com/2013/02/og-tags.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/02/og-tags.jpg?w=922" alt="Facebook OG tags compared to other metadata" /> </a> Facebook OG tags compared to other metadata[/caption] Recently I’ve noticed that on  <a href="http://www.goodreads.com/book/show/11346463-beyond-religion">Goodreads</a>,  <a href="https://developers.facebook.com/docs/concepts/opengraph/">Facebook Open Graph</a> tags represent the best metadata, by far.  Look at them above.  Not only are there more OG tags than other types, but they are also the most obviously useful.  The native content tag on Goodreads is abridged, but the entire content statement is listed above in the open graph tag.  There’s little jargon or abstract tokens in the OG tags; mostly just good content.  Looking on other sites, this seems to be pretty standard. After doing a bit of research I found that I’m not the  <a href="http://www.joshspeters.com/how-to-optimize-the-ogdescription-tag-for-search-and-social">only one to notice this.</a>  Apparently LinkedIn and Google+ both use the Facebook OG tags to represent websites to people. Apparently Facebook realized that they needed good metadata to make sense of websites to show to people on their feed.  Metadata existed, but few seemed to be using it (except for SEO, which typically is a bit different than information users themselves are interested in).  The Semantic Web people have long tried to make sense and popularize metadata.  So it seems quite interesting that Facebook may be the organization to finally popularize it for the masses.   Facebook made the Open Graph for Facebook.  It’s really hard to tell how “open” they actually want it to be: whether they intend the open graph to be a Facebook dominated platform, or a universal one that Facebook can rely upon.  This is a really interesting question to me and I’ll definitely keep it in mind over the next few years.  Either way, it may be becoming the standard for other people to use as metadata. What does this mean?  Well, maybe you can incorporate Open Graph metadata from other applications into your website for starters.  More interesting relationships would be difficult, but it seems possible to scrape Open Graph data from websites to do things that could be interesting.  Facebook tags don’t really provide semantic data regarding the relationships between different objects, but some of this may be possible to be added using other services.</p>
 ]]></content>

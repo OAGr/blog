@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Future of the Internet | Ozzie Gooen]]></title>
   <link href="http://ozziegooen.com/blog/categories/future-of-the-internet/atom.xml" rel="self"/>
   <link href="http://ozziegooen.com/"/>
-  <updated>2013-10-22T09:34:27+01:00</updated>
+  <updated>2015-08-19T00:02:42-07:00</updated>
   <id>http://ozziegooen.com/</id>
   <author>
     <name><![CDATA[Ozzie Gooen]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[How to Tell if a Web Company is Evil]]></title>
     <link href="http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil/"/>
-    <updated>2013-04-30T00:00:00+01:00</updated>
+    <updated>2013-04-30T00:00:00-07:00</updated>
     <id>http://ozziegooen.com/blog/2013/04/30/how-to-tell-if-a-web-company-is-evil</id>
     <content type="html"><![CDATA[<p>I’m sick of companies cherry picking specific features to explain how they help people.  Specific features will always exist, and the existence of them ruins the point.  The big question is, is it really the purpose of the company to help people, or is helping people an occasional externality of other goals they are trying to achieve?  It’s hard to give someone credit for a positive action that was done for a malicious or unrelated purpose.<br />
 <a href="http://bowlabs.files.wordpress.com/2013/04/basic.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/basic.png?w=590" alt="Altruistic vs. Power Ven Diagram" title="Altruistic vs. Power Ven Diagram" /> </a></p>
@@ -51,7 +51,7 @@ Web Application Altruism/Power Diagram</p>
   <entry>
     <title type="html"><![CDATA[Designing the Feedhaven Ecosystem]]></title>
     <link href="http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem/"/>
-    <updated>2013-04-30T00:00:00+01:00</updated>
+    <updated>2013-04-30T00:00:00-07:00</updated>
     <id>http://ozziegooen.com/blog/2013/04/30/feedhaven-ecosystem</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png"> <img src="http://bowlabs.files.wordpress.com/2013/04/screen-shot-2013-04-29-at-11-02-44-pm.png?w=922" alt="Feedhaven Diagram 1.0" /> </a>  </p>
 
@@ -80,7 +80,7 @@ Web Application Altruism/Power Diagram</p>
   <entry>
     <title type="html"><![CDATA[Consumer Fishtraps]]></title>
     <link href="http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps/"/>
-    <updated>2013-04-28T00:00:00+01:00</updated>
+    <updated>2013-04-28T00:00:00-07:00</updated>
     <id>http://ozziegooen.com/blog/2013/04/28/consumer-fishtraps</id>
     <content type="html"><![CDATA[<p><a href="http://bowlabs.files.wordpress.com/2013/04/121378.jpg"> <img src="http://bowlabs.files.wordpress.com/2013/04/121378.jpg?w=487" alt="Image" /> </a></p>
 
@@ -101,7 +101,7 @@ Web Application Altruism/Power Diagram</p>
   <entry>
     <title type="html"><![CDATA[An Information Availability Graph]]></title>
     <link href="http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph/"/>
-    <updated>2013-04-27T00:00:00+01:00</updated>
+    <updated>2013-04-27T00:00:00-07:00</updated>
     <id>http://ozziegooen.com/blog/2013/04/27/an-information-availability-graph</id>
     <content type="html"><![CDATA[<p>Recently I’ve been thinking about the economics of sharing person information.   I get the sense that one reason why social networks are so important is because they allow you to share much more information than you would be otherwise.  In general, people seem to think that this a good thing, and I think that these following diagrams may help explain why.   By looking at information sharing in an economic way it may be easier to understand the existing inefficiencies of the “market” and some theoretical reasons for the emergence of social networks and group privacy settings within them.  </p>
 
@@ -149,7 +149,7 @@ Web Application Altruism/Power Diagram</p>
   <entry>
     <title type="html"><![CDATA[Bringing all things down to Wikipedia's level]]></title>
     <link href="http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level/"/>
-    <updated>2013-03-13T00:00:00+00:00</updated>
+    <updated>2013-03-13T00:00:00-07:00</updated>
     <id>http://ozziegooen.com/blog/2013/03/13/bringing-all-things-down-to-wikipedias-level</id>
     <content type="html"><![CDATA[<p><img src="/assets/posts/wikipedia.png" alt="wikipedia" />
 You’ve probably heard of several stories of people posting false information on Wikipedia.  It seems to be the number one type of story I hear about Wikipedia.  And these stories are used to explain why we shouldn’t be allowed to site Wikipedia or pay much attention to it as our primary source of knowledge.  </p>
